@@ -8,21 +8,19 @@
     <description>Daily Morning Brew podcast via NotebookLM</description>
     <language>en-us</language>
     <itunes:author>Delok</itunes:author>
-    <itunes:image href="https://framerusercontent.com/images/tmPiaNWntCNFxenFgvkJRhykBE.png?width=612&height=612"/>
+    <itunes:image href="https://framerusercontent.com/images/tmPiaNWntCNFxenFgvkJRhykBE.png?width=612&amp;height=612"/>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
 
-    <!-- Episodes go here — most recent first -->
-
     <item>
-  <title>Morning Brew — April 11, 2026</title>
-  <description>Morning Brew daily briefing for April 11, 2026</description>
-  <pubDate>Sat, 11 Apr 2026 07:00:00 GMT</pubDate>
-  <enclosure url="https://github.com/K-David-360/morning-brew-podcast/raw/refs/heads/main/Legal_emojis_record_heat_and_Taylor_Swift.m4a"
-             length="26100000"
-             type="audio/x-m4a"/>
-  <guid>https://github.com/K-David-360/morning-brew-podcast/raw/refs/heads/main/Legal_emojis_record_heat_and_Taylor_Swift.m4a</guid>
-</item>
+      <title>Morning Brew — April 11, 2026</title>
+      <description>Morning Brew daily briefing for April 11, 2026</description>
+      <pubDate>Sat, 11 Apr 2026 07:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/K-David-360/morning-brew-podcast/raw/refs/heads/main/Legal_emojis_record_heat_and_Taylor_Swift.m4a"
+                 length="26100000"
+                 type="audio/x-m4a"/>
+      <guid>https://github.com/K-David-360/morning-brew-podcast/raw/refs/heads/main/Legal_emojis_record_heat_and_Taylor_Swift.m4a</guid>
+    </item>
 
   </channel>
 </rss>
