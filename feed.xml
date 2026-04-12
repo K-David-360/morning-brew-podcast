@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Morning Brew Daily</title>
+    <title>Morning Brew Driver</title>
     <link>https://morningbrew.com</link>
-    <description>Daily Morning Brew podcast via NotebookLM</description>
+    <description>Daily Morning Brew podcast via NotebookLM and Claude Code</description>
     <language>en-us</language>
-    <itunes:author>Delok</itunes:author>
+    <itunes:author>The Morning Brew</itunes:author>
     <itunes:image href="https://framerusercontent.com/images/tmPiaNWntCNFxenFgvkJRhykBE.png?width=612&amp;height=612" />
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -16,15 +16,6 @@
       <guid isPermaLink="false">morning-brew-2026-04-12</guid>
       <pubDate>Sun, 12 Apr 2026 06:30:00 +0000</pubDate>
       <itunes:duration>00:11:55</itunes:duration>
-      <itunes:summary>Why a new AI model is scaring banks...</itunes:summary>
-    </item>
-    <item>
-      <title>Striking fear</title>
-      <description>Why a new AI model is scaring banks...</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-12.mp3" length="23012681" type="audio/mpeg" />
-      <guid isPermaLink="false">morning-brew-2026-04-12</guid>
-      <pubDate>Sun, 12 Apr 2026 06:30:00 +0000</pubDate>
-      <itunes:duration>00:00:00</itunes:duration>
       <itunes:summary>Why a new AI model is scaring banks...</itunes:summary>
     </item>
     <item>
