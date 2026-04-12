@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Morning Brew Daily</title>
+    <link>https://morningbrew.com</link>
+    <description>Daily Morning Brew podcast via NotebookLM</description>
+    <language>en-us</language>
+    <itunes:author>Delok</itunes:author>
+    <itunes:image href="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fmorningbrewinc.com%2Fbrands%2Fmorning-brew-daily&ved=0CBYQjRxqFwoTCJDolNaJ55MDFQAAAAAdAAAAABAH&opi=89978449"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+
+    <!-- Episodes go here — most recent first -->
+
+  </channel>
+</rss>
