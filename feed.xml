@@ -13,6 +13,16 @@
     <itunes:explicit>false</itunes:explicit>
 
     <item>
+      <title>Morning Brew — April 12, 2026</title>
+      <description>Morning Brew daily briefing for April 12, 2026</description>
+      <pubDate>Sat, 11 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/The_new_baseline_of_record_extremes.m4a"
+                 length="26100000"
+                 type="audio/x-m4a"/>
+      <guid>https://k-david-360.github.io/morning-brew-podcast/The_new_baseline_of_record_extremes.m4a</guid>
+    </item>
+
+    <item>
       <title>Morning Brew — April 11, 2026</title>
       <description>Morning Brew daily briefing for April 11, 2026</description>
       <pubDate>Sat, 11 Apr 2026 07:00:00 GMT</pubDate>
