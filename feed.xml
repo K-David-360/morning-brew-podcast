@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Investing Brew</title>
+      <description>How Gen Z is playing the market...
+
+Good morning. Gone are the days when a sketchy guy who Leonardo DiCaprio would later play in a movie would cold-call you with a hot stock trading tip, requiring you to then make a transaction over the phone. Today, that all can happen instantly in the palm of your hand (and instead of Leo, it’s someone in a very tight shirt on TikTok tipping you off). In this edition, we’ll walk you through how Gen Zers approach their investments—from where they get their advice to why they’re making trades much earlier than their parents did. Read on for a primer on next-gen investing.
+
+https://www.morningbrew.com/issues/investing-brew</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-13.m4a" length="40403109" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-04-13</guid>
+      <pubDate>Mon, 13 Apr 2026 06:30:00 +0000</pubDate>
+      <itunes:duration>00:20:55</itunes:duration>
+      <itunes:summary>How Gen Z is playing the market...
+
+Good morning. Gone are the days when a sketchy guy who Leonardo DiCaprio would later play in a movie would cold-call you with a hot stock trading tip, requiring you to then make a transaction over the phone. Today, that all can happen instantly in the palm of your hand (and instead of Leo, it’s someone in a very tight shirt on TikTok tipping you off). In this edition, we’ll walk you through how Gen Zers approach their investments—from where they get their advice to why they’re making trades much earlier than their parents did. Read on for a primer on next-gen investing.
+
+https://www.morningbrew.com/issues/investing-brew</itunes:summary>
+    </item>
+    <item>
       <title>Investing Brew: Why Gen Z Bets on Financial Nihilism</title>
       <description>How Gen Z is playing the market...
 
@@ -35,6 +52,5 @@ https://www.morningbrew.com/issues/investing-brew</itunes:summary>
       <itunes:duration>00:11:55</itunes:duration>
       <itunes:summary>Why a new AI model is scaring banks...</itunes:summary>
     </item>
-    
   </channel>
 </rss>
