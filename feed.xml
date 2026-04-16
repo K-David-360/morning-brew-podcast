@@ -10,6 +10,13 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Morning Brew – 2026-04-16</title>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/Desperate_AI_Pivots_and_the_Fed_Standoff.m4a" length="45002294" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-04-16</guid>
+      <pubDate>Thu, 16 Apr 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
       <title>Fake home office: Why Everyone Is Betting Against Enforcement</title>
       <description>Taxpayers aren’t as afraid of the IRS coming for them...
 
