@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Protein Brew: How weight loss drugs drive protein demand</title>
+      <description>Who’s winning the macro money?
+
+Good morning. You ever walk down the grocery store snack aisle, see a bag of Doritos Protein, and wonder how we got here? Same. Today’s newsletter is all about the business of the vital and increasingly trendy nutrient protein: why it’s now in everything you eat, the companies benefiting the most, and, most importantly, how to win your next meat-judging competition. We’ll also debunk some myths about protein and teach you the basics if you’re just getting started on your maxxing journey.
+
+https://www.morningbrew.com/issues/protein-brew</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-19.m4a" length="41440725" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-04-19</guid>
+      <pubDate>Sun, 19 Apr 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:21:28</itunes:duration>
+      <itunes:summary>Who’s winning the macro money?
+
+Good morning. You ever walk down the grocery store snack aisle, see a bag of Doritos Protein, and wonder how we got here? Same. Today’s newsletter is all about the business of the vital and increasingly trendy nutrient protein: why it’s now in everything you eat, the companies benefiting the most, and, most importantly, how to win your next meat-judging competition. We’ll also debunk some myths about protein and teach you the basics if you’re just getting started on your maxxing journey.
+
+https://www.morningbrew.com/issues/protein-brew</itunes:summary>
+    </item>
+    <item>
       <title>Opening day: Hormuz reopens and AI hits DC</title>
       <description>A key shipping chokepoint reopened...
 
@@ -106,15 +123,6 @@ https://www.morningbrew.com/issues/flip-the-leverage</description>
 Howdy. The Artemis II astronauts are getting back to work, now with gravity and better restrooms. On Saturday, the crew took the stage at an event at Johnson Space Center in Houston, their first public appearance since returning. NASA Administrator Jared Isaacman was there, and he called their lunar fly-by “the greatest adventure in human history.”
 
 https://www.morningbrew.com/issues/flip-the-leverage</itunes:summary>
-    </item>
-    <item>
-      <title>Striking fear</title>
-      <description>Why a new AI model is scaring banks...</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-12.mp3" length="13734223" type="audio/mpeg" />
-      <guid isPermaLink="false">morning-brew-2026-04-12</guid>
-      <pubDate>Sun, 12 Apr 2026 06:30:00 +0000</pubDate>
-      <itunes:duration>00:11:55</itunes:duration>
-      <itunes:summary>Why a new AI model is scaring banks...</itunes:summary>
     </item>
   </channel>
 </rss>
