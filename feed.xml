@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mixed messages: Robot marathon records and the Hormuz seizure</title>
+      <description>US seizes Iranian cargo ship and wants to talk peace...
+
+Happy 4/20. A married couple in Temecula, CA, may have the wildest story of inflation impacting their lives. On Saturday morning, they got a motion detection alert from their home camera system. That’s when they found a hot air balloon with a dozen smiling strangers in the basket grounded in their yard.
+
+https://www.morningbrew.com/issues/mixed-messages</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-20.m4a" length="39893600" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-04-20</guid>
+      <pubDate>Mon, 20 Apr 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:20:39</itunes:duration>
+      <itunes:summary>US seizes Iranian cargo ship and wants to talk peace...
+
+Happy 4/20. A married couple in Temecula, CA, may have the wildest story of inflation impacting their lives. On Saturday morning, they got a motion detection alert from their home camera system. That’s when they found a hot air balloon with a dozen smiling strangers in the basket grounded in their yard.
+
+https://www.morningbrew.com/issues/mixed-messages</itunes:summary>
+    </item>
+    <item>
       <title>Protein Brew: How weight loss drugs drive protein demand</title>
       <description>Who’s winning the macro money?
 
@@ -106,23 +123,6 @@ https://www.morningbrew.com/issues/rise-of-the-clones</description>
 Mornin’, friends. Exciting news at the Brew: Some of your faves, Macy Gilliam and Morning Brew Daily ’s Neal and Toby, have been nominated for Webby Awards (the “Best of the Internet,” as voted by fans). Macy is nominated for her stellar social series Out There , and Morning Brew Daily is nominated for Best Business Podcast .
 
 https://www.morningbrew.com/issues/rise-of-the-clones</itunes:summary>
-    </item>
-    <item>
-      <title>Flip the leverage: Global gridlock and the capacity crunch</title>
-      <description>A US blockade of the Strait of Hormuz begins today...
-
-Howdy. The Artemis II astronauts are getting back to work, now with gravity and better restrooms. On Saturday, the crew took the stage at an event at Johnson Space Center in Houston, their first public appearance since returning. NASA Administrator Jared Isaacman was there, and he called their lunar fly-by “the greatest adventure in human history.”
-
-https://www.morningbrew.com/issues/flip-the-leverage</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-13.m4a" length="37662189" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-04-13</guid>
-      <pubDate>Mon, 13 Apr 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:30</itunes:duration>
-      <itunes:summary>A US blockade of the Strait of Hormuz begins today...
-
-Howdy. The Artemis II astronauts are getting back to work, now with gravity and better restrooms. On Saturday, the crew took the stage at an event at Johnson Space Center in Houston, their first public appearance since returning. NASA Administrator Jared Isaacman was there, and he called their lunar fly-by “the greatest adventure in human history.”
-
-https://www.morningbrew.com/issues/flip-the-leverage</itunes:summary>
     </item>
   </channel>
 </rss>
