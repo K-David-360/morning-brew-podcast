@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cash from the sky: How Middle East conflict spikes condom prices</title>
+      <description>What’s next for Apple under its new CEO...
+
+Good morning and Happy Earth Day. Here’s a spectacular video that Artemis II commander Reid Wiseman took (on his iPhone) of “Earthset.” From his perspective from the far side of the moon, the Earth disappears behind it, just like how the sun fades from view when you watch the sunset from a beach.
+
+https://www.morningbrew.com/issues/cash-from-the-sky</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-22.m4a" length="30530183" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-04-22</guid>
+      <pubDate>Wed, 22 Apr 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:15:48</itunes:duration>
+      <itunes:summary>What’s next for Apple under its new CEO...
+
+Good morning and Happy Earth Day. Here’s a spectacular video that Artemis II commander Reid Wiseman took (on his iPhone) of “Earthset.” From his perspective from the far side of the moon, the Earth disappears behind it, just like how the sun fades from view when you watch the sunset from a beach.
+
+https://www.morningbrew.com/issues/cash-from-the-sky</itunes:summary>
+    </item>
+    <item>
       <title>Just asking questions: Political personalities are dismantling American institutions</title>
       <description>The Fed chair nominee faces a grilling...
 
@@ -106,23 +123,6 @@ https://www.morningbrew.com/issues/pivot
       <guid isPermaLink="false">morning-brew-2026-04-16</guid>
       <pubDate>Thu, 16 Apr 2026 06:30:00 -0500</pubDate>
       <itunes:duration>00:23:18</itunes:duration>
-    </item>
-    <item>
-      <title>Fake home office: Why Everyone Is Betting Against Enforcement</title>
-      <description>Taxpayers aren’t as afraid of the IRS coming for them...
-
-Good morning, and Happy(?) Tax Day. Here are three goofy tax facts to drop in any conversation today:
-
-https://www.morningbrew.com/issues/fake-home-office</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-15.m4a" length="15092313" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-04-15</guid>
-      <pubDate>Wed, 15 Apr 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:20:39</itunes:duration>
-      <itunes:summary>Taxpayers aren’t as afraid of the IRS coming for them...
-
-Good morning, and Happy(?) Tax Day. Here are three goofy tax facts to drop in any conversation today:
-
-https://www.morningbrew.com/issues/fake-home-office</itunes:summary>
     </item>
   </channel>
 </rss>
