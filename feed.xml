@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>High hopes: Meta tracks keystrokes as feds reclassify marijuana</title>
+      <description>Trump may soon ease restrictions on marijuana…
+
+Morning. A universal “bless you” to everyone dealing with allergies right now. May thy Claritin be ever plentiful.
+
+https://www.morningbrew.com/issues/high-hopes</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-23.m4a" length="42706959" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-04-23</guid>
+      <pubDate>Thu, 23 Apr 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:22:07</itunes:duration>
+      <itunes:summary>Trump may soon ease restrictions on marijuana…
+
+Morning. A universal “bless you” to everyone dealing with allergies right now. May thy Claritin be ever plentiful.
+
+https://www.morningbrew.com/issues/high-hopes</itunes:summary>
+    </item>
+    <item>
       <title>Cash from the sky: How Middle East conflict spikes condom prices</title>
       <description>What’s next for Apple under its new CEO...
 
@@ -110,19 +127,6 @@ https://www.morningbrew.com/issues/out-of-fuel</description>
 Happy Friday. To celebrate National Haiku Day, the Brew is running a haiku contest that involves...all of you.
 
 https://www.morningbrew.com/issues/out-of-fuel</itunes:summary>
-    </item>
-    <item>
-      <title>Pivot!</title>
-      <description>A shoe company is now an AI company...
-    
-Ho, ho, ho. What’s worse than a hangover? The president of the annual Christmas-themed bar crawl SantaCon was arrested yesterday, as federal prosecutors allege he was naughty rather than nice and stole more than $1 million from ticket sales meant for charity. We probably should have known when he called it SantaCon.
-
-https://www.morningbrew.com/issues/pivot
-    </description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/Desperate_AI_Pivots_and_the_Fed_Standoff.m4a" length="45002294" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-04-16</guid>
-      <pubDate>Thu, 16 Apr 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:23:18</itunes:duration>
     </item>
   </channel>
 </rss>
