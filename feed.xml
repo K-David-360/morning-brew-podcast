@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>From tweet to court: Outsmarting surveillance pricing with hairdryers and cookies</title>
+      <description>How an X post landed JetBlue in a lawsuit...
+
+Mornin’. Grab a shovel and your favorite sapling, because it’s Arbor Day. The holiday, which gets its name from the Latin word for tree, originated in Nebraska in 1872 and is now celebrated every year on the last Friday in April. The last Monday didn’t make sense because Arbor Day parties are too epic, and nobody would be able to wake up for work in the morning.
+
+https://www.morningbrew.com/issues/from-tweet-to-court</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-24.m4a" length="38237412" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-04-24</guid>
+      <pubDate>Fri, 24 Apr 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:19:48</itunes:duration>
+      <itunes:summary>How an X post landed JetBlue in a lawsuit...
+
+Mornin’. Grab a shovel and your favorite sapling, because it’s Arbor Day. The holiday, which gets its name from the Latin word for tree, originated in Nebraska in 1872 and is now celebrated every year on the last Friday in April. The last Monday didn’t make sense because Arbor Day parties are too epic, and nobody would be able to wake up for work in the morning.
+
+https://www.morningbrew.com/issues/from-tweet-to-court</itunes:summary>
+    </item>
+    <item>
       <title>High hopes: Meta tracks keystrokes as feds reclassify marijuana</title>
       <description>Trump may soon ease restrictions on marijuana…
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/opening-day</description>
 Breaking: On this day in 1930, the BBC reported, “There is no news,” and proceeded to play 15 minutes of piano music.
 
 https://www.morningbrew.com/issues/opening-day</itunes:summary>
-    </item>
-    <item>
-      <title>Out of fuel</title>
-      <description>Energy crisis could soon lead to flight cancellations...
-
-Happy Friday. To celebrate National Haiku Day, the Brew is running a haiku contest that involves...all of you.
-
-https://www.morningbrew.com/issues/out-of-fuel</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/Europe_is_running_out_of_jet_fuel.m4a" length="42280535" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-04-17</guid>
-      <pubDate>Fri, 17 Apr 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:21:53</itunes:duration>
-      <itunes:summary>Energy crisis could soon lead to flight cancellations...
-
-Happy Friday. To celebrate National Haiku Day, the Brew is running a haiku contest that involves...all of you.
-
-https://www.morningbrew.com/issues/out-of-fuel</itunes:summary>
     </item>
   </channel>
 </rss>
