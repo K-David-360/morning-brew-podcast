@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>It’s Musk v. Altman time: Musk versus Altman in the OpenAI trial</title>
+      <description>The tech titans head toward a court showdown...
+
+Happy Saturday. We know your schedule may feel a little light right now as it starts to warm up. But do not complain, or you will be cursed with four hometown wedding invites for June, an ill-planned lake house request for the Fourth of July, and a thousand “we should do a garage sale or something this summer” texts.
+
+https://www.morningbrew.com/issues/it-s-musk-v-altman-time</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-25.m4a" length="32165458" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-04-25</guid>
+      <pubDate>Sat, 25 Apr 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:16:39</itunes:duration>
+      <itunes:summary>The tech titans head toward a court showdown...
+
+Happy Saturday. We know your schedule may feel a little light right now as it starts to warm up. But do not complain, or you will be cursed with four hometown wedding invites for June, an ill-planned lake house request for the Fourth of July, and a thousand “we should do a garage sale or something this summer” texts.
+
+https://www.morningbrew.com/issues/it-s-musk-v-altman-time</itunes:summary>
+    </item>
+    <item>
       <title>From tweet to court: Outsmarting surveillance pricing with hairdryers and cookies</title>
       <description>How an X post landed JetBlue in a lawsuit...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/protein-brew</description>
 Good morning. You ever walk down the grocery store snack aisle, see a bag of Doritos Protein, and wonder how we got here? Same. Today’s newsletter is all about the business of the vital and increasingly trendy nutrient protein: why it’s now in everything you eat, the companies benefiting the most, and, most importantly, how to win your next meat-judging competition. We’ll also debunk some myths about protein and teach you the basics if you’re just getting started on your maxxing journey.
 
 https://www.morningbrew.com/issues/protein-brew</itunes:summary>
-    </item>
-    <item>
-      <title>Opening day: Hormuz reopens and AI hits DC</title>
-      <description>A key shipping chokepoint reopened...
-
-Breaking: On this day in 1930, the BBC reported, “There is no news,” and proceeded to play 15 minutes of piano music.
-
-https://www.morningbrew.com/issues/opening-day</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-18.m4a" length="35798319" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-04-18</guid>
-      <pubDate>Sat, 18 Apr 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:18:32</itunes:duration>
-      <itunes:summary>A key shipping chokepoint reopened...
-
-Breaking: On this day in 1930, the BBC reported, “There is no news,” and proceeded to play 15 minutes of piano music.
-
-https://www.morningbrew.com/issues/opening-day</itunes:summary>
     </item>
   </channel>
 </rss>
