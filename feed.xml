@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Disrupted: White House Shooting and AI Talent Poaching</title>
+      <description>A shooter targeted the White House Correspondents’ Dinner…
+
+Good morning. On Saturday, Buffalo linebacker Red Murdock was selected by the Denver Broncos as the 257th, and final, pick of the NFL Draft, earning him the title “Mr. Irrelevant.”
+
+https://www.morningbrew.com/issues/disrupted</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-27.m4a" length="42267701" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-04-27</guid>
+      <pubDate>Mon, 27 Apr 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:21:53</itunes:duration>
+      <itunes:summary>A shooter targeted the White House Correspondents’ Dinner…
+
+Good morning. On Saturday, Buffalo linebacker Red Murdock was selected by the Denver Broncos as the 257th, and final, pick of the NFL Draft, earning him the title “Mr. Irrelevant.”
+
+https://www.morningbrew.com/issues/disrupted</itunes:summary>
+    </item>
+    <item>
       <title>Reality TV Brew: Why Traditional Reality TV is Collapsing</title>
       <description>The business of being watched...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/just-asking-questions</description>
 Hello there. The trailer for Hungry , a horror movie about people being attacked by a hungry hippo, has dropped. And while it’s not technically based on Hungry Hungry Hippos …it’s close enough to get us thinking about other beloved childhood games that could get turned into scary movies. We’re keeping our fingers crossed that someone will develop:
 
 https://www.morningbrew.com/issues/just-asking-questions</itunes:summary>
-    </item>
-    <item>
-      <title>Mixed messages: Robot marathon records and the Hormuz seizure</title>
-      <description>US seizes Iranian cargo ship and wants to talk peace...
-
-Happy 4/20. A married couple in Temecula, CA, may have the wildest story of inflation impacting their lives. On Saturday morning, they got a motion detection alert from their home camera system. That’s when they found a hot air balloon with a dozen smiling strangers in the basket grounded in their yard.
-
-https://www.morningbrew.com/issues/mixed-messages</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-20.m4a" length="39893600" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-04-20</guid>
-      <pubDate>Mon, 20 Apr 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:20:39</itunes:duration>
-      <itunes:summary>US seizes Iranian cargo ship and wants to talk peace...
-
-Happy 4/20. A married couple in Temecula, CA, may have the wildest story of inflation impacting their lives. On Saturday morning, they got a motion detection alert from their home camera system. That’s when they found a hot air balloon with a dozen smiling strangers in the basket grounded in their yard.
-
-https://www.morningbrew.com/issues/mixed-messages</itunes:summary>
     </item>
   </channel>
 </rss>
