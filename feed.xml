@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Rounding up: Fifty Dollar Movie Tickets and Global Leverage</title>
+      <description>SCOTUS considers a controversial pesticide...
+
+Mornin’ folks. We learned a new word today: thigmotactic. It’s the term for social creatures that like to cuddle, and it applies to Chonkers, the 2,000-pound seal who’s been delighting locals and tourists alike by thwomping onto the docks made for a smaller seal species at San Francisco’s Pier 39. In fact, he's gotten such a high profile in San Francisco that he’s already got beef with Elon Musk, and OpenAI is considering paying him in the low hundreds of millions for his podcast.
+
+https://www.morningbrew.com/issues/rounding-up</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-28.m4a" length="36762749" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-04-28</guid>
+      <pubDate>Tue, 28 Apr 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:19:02</itunes:duration>
+      <itunes:summary>SCOTUS considers a controversial pesticide...
+
+Mornin’ folks. We learned a new word today: thigmotactic. It’s the term for social creatures that like to cuddle, and it applies to Chonkers, the 2,000-pound seal who’s been delighting locals and tourists alike by thwomping onto the docks made for a smaller seal species at San Francisco’s Pier 39. In fact, he's gotten such a high profile in San Francisco that he’s already got beef with Elon Musk, and OpenAI is considering paying him in the low hundreds of millions for his podcast.
+
+https://www.morningbrew.com/issues/rounding-up</itunes:summary>
+    </item>
+    <item>
       <title>Disrupted: White House Shooting and AI Talent Poaching</title>
       <description>A shooter targeted the White House Correspondents’ Dinner…
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/cash-from-the-sky</description>
 Good morning and Happy Earth Day. Here’s a spectacular video that Artemis II commander Reid Wiseman took (on his iPhone) of “Earthset.” From his perspective from the far side of the moon, the Earth disappears behind it, just like how the sun fades from view when you watch the sunset from a beach.
 
 https://www.morningbrew.com/issues/cash-from-the-sky</itunes:summary>
-    </item>
-    <item>
-      <title>Just asking questions: Political personalities are dismantling American institutions</title>
-      <description>The Fed chair nominee faces a grilling...
-
-Hello there. The trailer for Hungry , a horror movie about people being attacked by a hungry hippo, has dropped. And while it’s not technically based on Hungry Hungry Hippos …it’s close enough to get us thinking about other beloved childhood games that could get turned into scary movies. We’re keeping our fingers crossed that someone will develop:
-
-https://www.morningbrew.com/issues/just-asking-questions</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-22.m4a" length="36442270" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-04-22</guid>
-      <pubDate>Tue, 21 Apr 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:18:52</itunes:duration>
-      <itunes:summary>The Fed chair nominee faces a grilling...
-
-Hello there. The trailer for Hungry , a horror movie about people being attacked by a hungry hippo, has dropped. And while it’s not technically based on Hungry Hungry Hippos …it’s close enough to get us thinking about other beloved childhood games that could get turned into scary movies. We’re keeping our fingers crossed that someone will develop:
-
-https://www.morningbrew.com/issues/just-asking-questions</itunes:summary>
     </item>
   </channel>
 </rss>
