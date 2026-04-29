@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Sloshing around: UAE Quits OPEC and AI Costs Surge</title>
+      <description>Taylor Swift trademarks her voice to fight AI...
+
+Good morning to everyone, but especially to New York Mets fans, who’ve had a rough month. As of yesterday, the team’s 9-19 start was its worst in over 40 years.
+
+https://www.morningbrew.com/issues/sloshing-around</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-29.m4a" length="37646500" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-04-29</guid>
+      <pubDate>Wed, 29 Apr 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:19:30</itunes:duration>
+      <itunes:summary>Taylor Swift trademarks her voice to fight AI...
+
+Good morning to everyone, but especially to New York Mets fans, who’ve had a rough month. As of yesterday, the team’s 9-19 start was its worst in over 40 years.
+
+https://www.morningbrew.com/issues/sloshing-around</itunes:summary>
+    </item>
+    <item>
       <title>Rounding up: Fifty Dollar Movie Tickets and Global Leverage</title>
       <description>SCOTUS considers a controversial pesticide...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/high-hopes</description>
 Morning. A universal “bless you” to everyone dealing with allergies right now. May thy Claritin be ever plentiful.
 
 https://www.morningbrew.com/issues/high-hopes</itunes:summary>
-    </item>
-    <item>
-      <title>Cash from the sky: How Middle East conflict spikes condom prices</title>
-      <description>What’s next for Apple under its new CEO...
-
-Good morning and Happy Earth Day. Here’s a spectacular video that Artemis II commander Reid Wiseman took (on his iPhone) of “Earthset.” From his perspective from the far side of the moon, the Earth disappears behind it, just like how the sun fades from view when you watch the sunset from a beach.
-
-https://www.morningbrew.com/issues/cash-from-the-sky</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-22.m4a" length="30530183" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-04-22</guid>
-      <pubDate>Wed, 22 Apr 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:15:48</itunes:duration>
-      <itunes:summary>What’s next for Apple under its new CEO...
-
-Good morning and Happy Earth Day. Here’s a spectacular video that Artemis II commander Reid Wiseman took (on his iPhone) of “Earthset.” From his perspective from the far side of the moon, the Earth disappears behind it, just like how the sun fades from view when you watch the sunset from a beach.
-
-https://www.morningbrew.com/issues/cash-from-the-sky</itunes:summary>
     </item>
   </channel>
 </rss>
