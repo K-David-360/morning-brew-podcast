@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mental Health Brew: Digital Brain Rot and AI Freud Droids</title>
+      <description>A look at today’s mental health landscape…
+
+Good morning. Today’s newsletter is all about mental health. The stigma isn’t gone, but it’s weakened, and there are increasingly new ways to talk about and treat a number of mental health issues. We’ve got it all covered: social media’s moment of reckoning, AI in therapy, psychedelics, beta blockers, wearable stress detection, and more. Read on for a deep dive into the ever-evolving world of mental health treatment in 2026.
+
+https://www.morningbrew.com/issues/mental-health-brew-26</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-03.m4a" length="40382914" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:20:55</itunes:duration>
+      <itunes:summary>A look at today’s mental health landscape…
+
+Good morning. Today’s newsletter is all about mental health. The stigma isn’t gone, but it’s weakened, and there are increasingly new ways to talk about and treat a number of mental health issues. We’ve got it all covered: social media’s moment of reckoning, AI in therapy, psychedelics, beta blockers, wearable stress detection, and more. Read on for a deep dive into the ever-evolving world of mental health treatment in 2026.
+
+https://www.morningbrew.com/issues/mental-health-brew-26</itunes:summary>
+    </item>
+    <item>
       <title>Golden child: Weight Loss Drugs Rewire Global Markets</title>
       <description>Eli Lilly is absolutely booming...
 
@@ -93,40 +110,6 @@ https://www.morningbrew.com/issues/disrupted</description>
 Good morning. On Saturday, Buffalo linebacker Red Murdock was selected by the Denver Broncos as the 257th, and final, pick of the NFL Draft, earning him the title “Mr. Irrelevant.”
 
 https://www.morningbrew.com/issues/disrupted</itunes:summary>
-    </item>
-    <item>
-      <title>Reality TV Brew: Why Traditional Reality TV is Collapsing</title>
-      <description>The business of being watched...
-
-Good morning. Today’s newsletter is not here to make friends. Instead, we’ll be looking at the business of reality TV, from the state of the genre, to the behind-the-scenes drama, to the shows Brew writers don’t want to miss. While we can’t promise all the fireworks of a Real Housewives dinner party, it’ll still be a fun read.
-
-https://www.morningbrew.com/issues/reality-tv-brew</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-26.m4a" length="36930090" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-04-26</guid>
-      <pubDate>Sun, 26 Apr 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:07</itunes:duration>
-      <itunes:summary>The business of being watched...
-
-Good morning. Today’s newsletter is not here to make friends. Instead, we’ll be looking at the business of reality TV, from the state of the genre, to the behind-the-scenes drama, to the shows Brew writers don’t want to miss. While we can’t promise all the fireworks of a Real Housewives dinner party, it’ll still be a fun read.
-
-https://www.morningbrew.com/issues/reality-tv-brew</itunes:summary>
-    </item>
-    <item>
-      <title>It’s Musk v. Altman time: Musk versus Altman in the OpenAI trial</title>
-      <description>The tech titans head toward a court showdown...
-
-Happy Saturday. We know your schedule may feel a little light right now as it starts to warm up. But do not complain, or you will be cursed with four hometown wedding invites for June, an ill-planned lake house request for the Fourth of July, and a thousand “we should do a garage sale or something this summer” texts.
-
-https://www.morningbrew.com/issues/it-s-musk-v-altman-time</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-25.m4a" length="32165458" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-04-25</guid>
-      <pubDate>Sat, 25 Apr 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:16:39</itunes:duration>
-      <itunes:summary>The tech titans head toward a court showdown...
-
-Happy Saturday. We know your schedule may feel a little light right now as it starts to warm up. But do not complain, or you will be cursed with four hometown wedding invites for June, an ill-planned lake house request for the Fourth of July, and a thousand “we should do a garage sale or something this summer” texts.
-
-https://www.morningbrew.com/issues/it-s-musk-v-altman-time</itunes:summary>
     </item>
   </channel>
 </rss>
