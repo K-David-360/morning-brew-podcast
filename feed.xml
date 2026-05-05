@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Where the jobs are: GameStop's fifty six billion eBay bid</title>
+      <description>The cities where new grads are getting hired...
+
+Buenos días and happy Cinco de Mayo! The holiday commemorates the defeat of French forces by the Mexican army at the Battle of Puebla in 1862, but its popularity jumped in the 1980s, when beer companies began to leverage Cinco de Mayo in marketing campaigns. These days, Mexico sits on top of the beer world, producing ~30% of the world’s beer imports and shipping more than double the volume of beer as any other country.
+
+https://www.morningbrew.com/issues/where-the-jobs-are</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-05.m4a" length="39130127" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-05-05</guid>
+      <pubDate>Tue, 05 May 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:20:16</itunes:duration>
+      <itunes:summary>The cities where new grads are getting hired...
+
+Buenos días and happy Cinco de Mayo! The holiday commemorates the defeat of French forces by the Mexican army at the Battle of Puebla in 1862, but its popularity jumped in the 1980s, when beer companies began to leverage Cinco de Mayo in marketing campaigns. These days, Mexico sits on top of the beer world, producing ~30% of the world’s beer imports and shipping more than double the volume of beer as any other country.
+
+https://www.morningbrew.com/issues/where-the-jobs-are</itunes:summary>
+    </item>
+    <item>
       <title>Status achieved: Why Record Oil Exports Won't Lower Prices</title>
       <description>The US exported more crude oil than it imported…
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/sloshing-around</description>
 Good morning to everyone, but especially to New York Mets fans, who’ve had a rough month. As of yesterday, the team’s 9-19 start was its worst in over 40 years.
 
 https://www.morningbrew.com/issues/sloshing-around</itunes:summary>
-    </item>
-    <item>
-      <title>Rounding up: Fifty Dollar Movie Tickets and Global Leverage</title>
-      <description>SCOTUS considers a controversial pesticide...
-
-Mornin’ folks. We learned a new word today: thigmotactic. It’s the term for social creatures that like to cuddle, and it applies to Chonkers, the 2,000-pound seal who’s been delighting locals and tourists alike by thwomping onto the docks made for a smaller seal species at San Francisco’s Pier 39. In fact, he's gotten such a high profile in San Francisco that he’s already got beef with Elon Musk, and OpenAI is considering paying him in the low hundreds of millions for his podcast.
-
-https://www.morningbrew.com/issues/rounding-up</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-28.m4a" length="36762749" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-04-28</guid>
-      <pubDate>Tue, 28 Apr 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:02</itunes:duration>
-      <itunes:summary>SCOTUS considers a controversial pesticide...
-
-Mornin’ folks. We learned a new word today: thigmotactic. It’s the term for social creatures that like to cuddle, and it applies to Chonkers, the 2,000-pound seal who’s been delighting locals and tourists alike by thwomping onto the docks made for a smaller seal species at San Francisco’s Pier 39. In fact, he's gotten such a high profile in San Francisco that he’s already got beef with Elon Musk, and OpenAI is considering paying him in the low hundreds of millions for his podcast.
-
-https://www.morningbrew.com/issues/rounding-up</itunes:summary>
     </item>
   </channel>
 </rss>
