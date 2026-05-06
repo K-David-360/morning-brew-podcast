@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cheers to beer: Trading human connection for synthetic comfort</title>
+      <description>Anheuser-Busch stages its comeback...
+
+Hail. A full-length trailer for Christopher Nolan’s The Odyssey came out yesterday, and the internet is up in arms , because in it, Telemachus refers to his father, Odysseus, as his “dad”—which no one in 1200 BCE would say.
+
+https://www.morningbrew.com/issues/cheers-to-beer</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-06.m4a" length="37046628" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-05-06</guid>
+      <pubDate>Wed, 06 May 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:19:11</itunes:duration>
+      <itunes:summary>Anheuser-Busch stages its comeback...
+
+Hail. A full-length trailer for Christopher Nolan’s The Odyssey came out yesterday, and the internet is up in arms , because in it, Telemachus refers to his father, Odysseus, as his “dad”—which no one in 1200 BCE would say.
+
+https://www.morningbrew.com/issues/cheers-to-beer</itunes:summary>
+    </item>
+    <item>
       <title>Where the jobs are: GameStop's fifty six billion eBay bid</title>
       <description>The cities where new grads are getting hired...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/not-going-away</description>
 Guten tag. McDonald’s has heard you loud and clear: You want to ingest colors not found in nature. After the success of the Grimace shake, the furry monster is getting his own color-themed menu (in Germany only)—complete with blueberry-filled cake pops, a purple cream cheese pie, berry &amp; cream sauce, and a horrifying purple BBQ burger with violet buns. Maybe some of you are excited, but we’ve seen that episode of SpongeBob SquarePants , and we’re not getting involved.
 
 https://www.morningbrew.com/issues/not-going-away</itunes:summary>
-    </item>
-    <item>
-      <title>Sloshing around: UAE Quits OPEC and AI Costs Surge</title>
-      <description>Taylor Swift trademarks her voice to fight AI...
-
-Good morning to everyone, but especially to New York Mets fans, who’ve had a rough month. As of yesterday, the team’s 9-19 start was its worst in over 40 years.
-
-https://www.morningbrew.com/issues/sloshing-around</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-29.m4a" length="37646500" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-04-29</guid>
-      <pubDate>Wed, 29 Apr 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:30</itunes:duration>
-      <itunes:summary>Taylor Swift trademarks her voice to fight AI...
-
-Good morning to everyone, but especially to New York Mets fans, who’ve had a rough month. As of yesterday, the team’s 9-19 start was its worst in over 40 years.
-
-https://www.morningbrew.com/issues/sloshing-around</itunes:summary>
     </item>
   </channel>
 </rss>
