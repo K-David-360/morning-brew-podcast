@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Blue dot fever: Blue dot fever and the AI disconnect</title>
+      <description>Apple might owe you money...
+
+Get moving. It’s almost Friday. That’s great, but if your Mother’s Day card isn’t already in the mail, get it on its way today. You’ll thank us when your Sunday doesn’t include someone who’s not mad, just disappointed.
+
+https://www.morningbrew.com/issues/blue-dot-fever</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-07.m4a" length="40730287" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-05-07</guid>
+      <pubDate>Thu, 07 May 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:21:05</itunes:duration>
+      <itunes:summary>Apple might owe you money...
+
+Get moving. It’s almost Friday. That’s great, but if your Mother’s Day card isn’t already in the mail, get it on its way today. You’ll thank us when your Sunday doesn’t include someone who’s not mad, just disappointed.
+
+https://www.morningbrew.com/issues/blue-dot-fever</itunes:summary>
+    </item>
+    <item>
       <title>Cheers to beer: Trading human connection for synthetic comfort</title>
       <description>Anheuser-Busch stages its comeback...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/golden-child</description>
 It’s gonna be May. After OpenAI accidentally made ChatGPT’s personality too nerdy, the AI chatbot started talking about goblins , gremlins, and other mystical creatures so often that the company had to train it to “never talk about goblins” unless it’s relevant.
 
 https://www.morningbrew.com/issues/golden-child</itunes:summary>
-    </item>
-    <item>
-      <title>Not going away: Big Tech bets billions on AI infrastructure</title>
-      <description>Powell says he'll stay at the Fed...
-
-Guten tag. McDonald’s has heard you loud and clear: You want to ingest colors not found in nature. After the success of the Grimace shake, the furry monster is getting his own color-themed menu (in Germany only)—complete with blueberry-filled cake pops, a purple cream cheese pie, berry &amp; cream sauce, and a horrifying purple BBQ burger with violet buns. Maybe some of you are excited, but we’ve seen that episode of SpongeBob SquarePants , and we’re not getting involved.
-
-https://www.morningbrew.com/issues/not-going-away</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-04-30.m4a" length="38415954" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-04-30</guid>
-      <pubDate>Thu, 30 Apr 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:54</itunes:duration>
-      <itunes:summary>Powell says he'll stay at the Fed...
-
-Guten tag. McDonald’s has heard you loud and clear: You want to ingest colors not found in nature. After the success of the Grimace shake, the furry monster is getting his own color-themed menu (in Germany only)—complete with blueberry-filled cake pops, a purple cream cheese pie, berry &amp; cream sauce, and a horrifying purple BBQ burger with violet buns. Maybe some of you are excited, but we’ve seen that episode of SpongeBob SquarePants , and we’re not getting involved.
-
-https://www.morningbrew.com/issues/not-going-away</itunes:summary>
     </item>
   </channel>
 </rss>
