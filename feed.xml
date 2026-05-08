@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Tomato fraud: Tomato fraud and the screenless health boom</title>
+      <description>What you need to know about hantavirus...
+
+Happy Friday , and a happier 100th birthday to David Attenborough. With his signature half-whisper, the legendary English broadcaster has given voice to the natural world for decades, teaching generations of Earthlings about the wonders of their home planet.
+
+https://www.morningbrew.com/issues/tomato-fraud</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-08.m4a" length="34383424" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-05-08</guid>
+      <pubDate>Fri, 08 May 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:17:48</itunes:duration>
+      <itunes:summary>What you need to know about hantavirus...
+
+Happy Friday , and a happier 100th birthday to David Attenborough. With his signature half-whisper, the legendary English broadcaster has given voice to the natural world for decades, teaching generations of Earthlings about the wonders of their home planet.
+
+https://www.morningbrew.com/issues/tomato-fraud</itunes:summary>
+    </item>
+    <item>
       <title>Blue dot fever: Blue dot fever and the AI disconnect</title>
       <description>Apple might owe you money...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/mental-health-brew-26</description>
 Good morning. Today’s newsletter is all about mental health. The stigma isn’t gone, but it’s weakened, and there are increasingly new ways to talk about and treat a number of mental health issues. We’ve got it all covered: social media’s moment of reckoning, AI in therapy, psychedelics, beta blockers, wearable stress detection, and more. Read on for a deep dive into the ever-evolving world of mental health treatment in 2026.
 
 https://www.morningbrew.com/issues/mental-health-brew-26</itunes:summary>
-    </item>
-    <item>
-      <title>Golden child: Weight Loss Drugs Rewire Global Markets</title>
-      <description>Eli Lilly is absolutely booming...
-
-It’s gonna be May. After OpenAI accidentally made ChatGPT’s personality too nerdy, the AI chatbot started talking about goblins , gremlins, and other mystical creatures so often that the company had to train it to “never talk about goblins” unless it’s relevant.
-
-https://www.morningbrew.com/issues/golden-child</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-01.m4a" length="43273965" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-05-01</guid>
-      <pubDate>Fri, 01 May 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:22:25</itunes:duration>
-      <itunes:summary>Eli Lilly is absolutely booming...
-
-It’s gonna be May. After OpenAI accidentally made ChatGPT’s personality too nerdy, the AI chatbot started talking about goblins , gremlins, and other mystical creatures so often that the company had to train it to “never talk about goblins” unless it’s relevant.
-
-https://www.morningbrew.com/issues/golden-child</itunes:summary>
     </item>
   </channel>
 </rss>
