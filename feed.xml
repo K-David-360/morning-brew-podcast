@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Follow the Money Brew: SpaceX shadow markets and billionaire dinosaur fossils</title>
+      <description>Where people are putting their cash...
+
+Good morning, and Happy Mother’s Day. If you need a last-minute gift for Mom, simply share the knowledge you’ll acquire from reading today’s special edition of the Brew, which is all about the strange places people park their cash (including Pokémon cards and ETFs for aliens, naturally). You’ll also get the inside scoop on the retail investing revolution and how family offices have taken over as the financial consiglieres for the ultrarich.
+
+https://www.morningbrew.com/issues/follow-the-money-brew</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-10.m4a" length="37007035" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-05-10</guid>
+      <pubDate>Sun, 10 May 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:19:10</itunes:duration>
+      <itunes:summary>Where people are putting their cash...
+
+Good morning, and Happy Mother’s Day. If you need a last-minute gift for Mom, simply share the knowledge you’ll acquire from reading today’s special edition of the Brew, which is all about the strange places people park their cash (including Pokémon cards and ETFs for aliens, naturally). You’ll also get the inside scoop on the retail investing revolution and how family offices have taken over as the financial consiglieres for the ultrarich.
+
+https://www.morningbrew.com/issues/follow-the-money-brew</itunes:summary>
+    </item>
+    <item>
       <title>Good jobs, bad vibes: Record High Markets and Record Low Vibes</title>
       <description>The labor market is solid, but consumers' feelings aren't...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/status-achieved</description>
 May the Fourth be with you. If the coffee shop you frequent is selling blue milk lattes today, you know they’re a real one.
 
 https://www.morningbrew.com/issues/status-achieved</itunes:summary>
-    </item>
-    <item>
-      <title>Mental Health Brew: Digital Brain Rot and AI Freud Droids</title>
-      <description>A look at today’s mental health landscape…
-
-Good morning. Today’s newsletter is all about mental health. The stigma isn’t gone, but it’s weakened, and there are increasingly new ways to talk about and treat a number of mental health issues. We’ve got it all covered: social media’s moment of reckoning, AI in therapy, psychedelics, beta blockers, wearable stress detection, and more. Read on for a deep dive into the ever-evolving world of mental health treatment in 2026.
-
-https://www.morningbrew.com/issues/mental-health-brew-26</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-03.m4a" length="40382914" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-05-03</guid>
-      <pubDate>Sun, 03 May 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:20:55</itunes:duration>
-      <itunes:summary>A look at today’s mental health landscape…
-
-Good morning. Today’s newsletter is all about mental health. The stigma isn’t gone, but it’s weakened, and there are increasingly new ways to talk about and treat a number of mental health issues. We’ve got it all covered: social media’s moment of reckoning, AI in therapy, psychedelics, beta blockers, wearable stress detection, and more. Read on for a deep dive into the ever-evolving world of mental health treatment in 2026.
-
-https://www.morningbrew.com/issues/mental-health-brew-26</itunes:summary>
     </item>
   </channel>
 </rss>
