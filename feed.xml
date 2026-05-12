@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Prime time puzzle: AI chip booms and the housing freeze</title>
+      <description>The homebuying season had a rocky start....
+
+Hey, hey. A new generation is discovering the wisdom of Groucho Marx. Namely, that a fake mustache is an unbeatable disguise. Faced with online safety rules meant to protect them from harmful content, kids in the UK revealed in a recent survey that they’re able to defeat age-verification software by drawing on facial hair. Maybe we don’t need to be scared of the machines taking over after all.
+
+https://www.morningbrew.com/issues/prime-time-puzzle</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-12.m4a" length="36510250" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-05-12</guid>
+      <pubDate>Tue, 12 May 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:18:54</itunes:duration>
+      <itunes:summary>The homebuying season had a rocky start....
+
+Hey, hey. A new generation is discovering the wisdom of Groucho Marx. Namely, that a fake mustache is an unbeatable disguise. Faced with online safety rules meant to protect them from harmful content, kids in the UK revealed in a recent survey that they’re able to defeat age-verification software by drawing on facial hair. Maybe we don’t need to be scared of the machines taking over after all.
+
+https://www.morningbrew.com/issues/prime-time-puzzle</itunes:summary>
+    </item>
+    <item>
       <title>Party-sized gains: Diet Coke Black Markets and AI Profits</title>
       <description>Chip stocks continue to soar worldwide…
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/cheers-to-beer</description>
 Hail. A full-length trailer for Christopher Nolan’s The Odyssey came out yesterday, and the internet is up in arms , because in it, Telemachus refers to his father, Odysseus, as his “dad”—which no one in 1200 BCE would say.
 
 https://www.morningbrew.com/issues/cheers-to-beer</itunes:summary>
-    </item>
-    <item>
-      <title>Where the jobs are: GameStop's fifty six billion eBay bid</title>
-      <description>The cities where new grads are getting hired...
-
-Buenos días and happy Cinco de Mayo! The holiday commemorates the defeat of French forces by the Mexican army at the Battle of Puebla in 1862, but its popularity jumped in the 1980s, when beer companies began to leverage Cinco de Mayo in marketing campaigns. These days, Mexico sits on top of the beer world, producing ~30% of the world’s beer imports and shipping more than double the volume of beer as any other country.
-
-https://www.morningbrew.com/issues/where-the-jobs-are</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-05.m4a" length="39130127" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-05-05</guid>
-      <pubDate>Tue, 05 May 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:20:16</itunes:duration>
-      <itunes:summary>The cities where new grads are getting hired...
-
-Buenos días and happy Cinco de Mayo! The holiday commemorates the defeat of French forces by the Mexican army at the Battle of Puebla in 1862, but its popularity jumped in the 1980s, when beer companies began to leverage Cinco de Mayo in marketing campaigns. These days, Mexico sits on top of the beer world, producing ~30% of the world’s beer imports and shipping more than double the volume of beer as any other country.
-
-https://www.morningbrew.com/issues/where-the-jobs-are</itunes:summary>
     </item>
   </channel>
 </rss>
