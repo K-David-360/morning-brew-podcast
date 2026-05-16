@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Commencing with AI: The high price of physical reality</title>
+      <description>AI is the talk of graduation season...
+
+Rise and shine. Don’t forget to take some time this weekend to stop and smell the May flowers. Or, if your allergies are acting up, maybe just enjoy them from afar.
+
+https://www.morningbrew.com/issues/commencing-with-ai</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-16.m4a" length="38247894" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-05-16</guid>
+      <pubDate>Sat, 16 May 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:19:48</itunes:duration>
+      <itunes:summary>AI is the talk of graduation season...
+
+Rise and shine. Don’t forget to take some time this weekend to stop and smell the May flowers. Or, if your allergies are acting up, maybe just enjoy them from afar.
+
+https://www.morningbrew.com/issues/commencing-with-ai</itunes:summary>
+    </item>
+    <item>
       <title>Never a dull moment: Honda's First Loss and the AI Gamble</title>
       <description>Warsh replaces Powell as Fed chair today...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/follow-the-money-brew</description>
 Good morning, and Happy Mother’s Day. If you need a last-minute gift for Mom, simply share the knowledge you’ll acquire from reading today’s special edition of the Brew, which is all about the strange places people park their cash (including Pokémon cards and ETFs for aliens, naturally). You’ll also get the inside scoop on the retail investing revolution and how family offices have taken over as the financial consiglieres for the ultrarich.
 
 https://www.morningbrew.com/issues/follow-the-money-brew</itunes:summary>
-    </item>
-    <item>
-      <title>Good jobs, bad vibes: Record High Markets and Record Low Vibes</title>
-      <description>The labor market is solid, but consumers' feelings aren't...
-
-Morning, folks. We’re working on an upcoming Sunday Special about career pivots, and we want to know if any of y’all changed jobs in a big way. Did you leave your corporate marketing gig to run your family’s struggling chocolate business in a small town, only to find out you’ve had the gift of nougat inside of you all along? Wow, set that at Christmastime, and it could be a great Hallmark movie.
-
-https://www.morningbrew.com/issues/good-jobs-bad-vibes</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-09.m4a" length="35607077" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-05-09</guid>
-      <pubDate>Sat, 09 May 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:18:26</itunes:duration>
-      <itunes:summary>The labor market is solid, but consumers' feelings aren't...
-
-Morning, folks. We’re working on an upcoming Sunday Special about career pivots, and we want to know if any of y’all changed jobs in a big way. Did you leave your corporate marketing gig to run your family’s struggling chocolate business in a small town, only to find out you’ve had the gift of nougat inside of you all along? Wow, set that at Christmastime, and it could be a great Hallmark movie.
-
-https://www.morningbrew.com/issues/good-jobs-bad-vibes</itunes:summary>
     </item>
   </channel>
 </rss>
