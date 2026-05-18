@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Incoming: Mashed Potatoes and Global Leverage Standoffs</title>
+      <description>Auditions for the next James Bond are underway…
+
+Mornin’. Yesterday’s Washington Post profile of Rachel Entrekin , who won this year’s Cocodona 250-mile ultramarathon in Arizona, featured some wild details:
+
+https://www.morningbrew.com/issues/incoming</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-18.m4a" length="43079032" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-05-18</guid>
+      <pubDate>Mon, 18 May 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:22:18</itunes:duration>
+      <itunes:summary>Auditions for the next James Bond are underway…
+
+Mornin’. Yesterday’s Washington Post profile of Rachel Entrekin , who won this year’s Cocodona 250-mile ultramarathon in Arizona, featured some wild details:
+
+https://www.morningbrew.com/issues/incoming</itunes:summary>
+    </item>
+    <item>
       <title>Second Acts Brew: Why Professionals Are Trading Desks For Trades</title>
       <description>More people are changing careers than ever...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/prime-time-puzzle</description>
 Hey, hey. A new generation is discovering the wisdom of Groucho Marx. Namely, that a fake mustache is an unbeatable disguise. Faced with online safety rules meant to protect them from harmful content, kids in the UK revealed in a recent survey that they’re able to defeat age-verification software by drawing on facial hair. Maybe we don’t need to be scared of the machines taking over after all.
 
 https://www.morningbrew.com/issues/prime-time-puzzle</itunes:summary>
-    </item>
-    <item>
-      <title>Party-sized gains: Diet Coke Black Markets and AI Profits</title>
-      <description>Chip stocks continue to soar worldwide…
-
-Rise and shine —just like Scott Kirby. The United CEO caused a lot of chatter this weekend, after he was seen flying first class on a rival American Airlines flight from San Francisco to Dallas-Fort Worth on Friday. But the shade bounced right off him.
-
-https://www.morningbrew.com/issues/party-sized-gains</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-11.m4a" length="38618401" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-05-11</guid>
-      <pubDate>Mon, 11 May 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:20:00</itunes:duration>
-      <itunes:summary>Chip stocks continue to soar worldwide…
-
-Rise and shine —just like Scott Kirby. The United CEO caused a lot of chatter this weekend, after he was seen flying first class on a rival American Airlines flight from San Francisco to Dallas-Fort Worth on Friday. But the shade bounced right off him.
-
-https://www.morningbrew.com/issues/party-sized-gains</itunes:summary>
     </item>
   </channel>
 </rss>
