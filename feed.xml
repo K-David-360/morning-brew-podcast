@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Elon loses it: OpenAI diaries and billionaire power struggles</title>
+      <description>Musk's case against OpenAI got tossed...
+
+Greetings earthling. If you felt a looming presence above you, it wasn’t your co-worker who’s always peeping at your screen. According to NASA, the recently discovered asteroid 2026JH2 passed close to Earth yesterday. While it was never near enough to threaten us with the fate of the dinosaurs, it did get within 24% of the average distance between the Earth and the moon—which is pretty darn close in celestial object terms. Missed it? 2026JH2 is expected to do another drive by in 2060, though it’ll be farther away then.
+
+https://www.morningbrew.com/issues/elon-loses-it</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-19.m4a" length="39824149" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-05-19</guid>
+      <pubDate>Tue, 19 May 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:20:37</itunes:duration>
+      <itunes:summary>Musk's case against OpenAI got tossed...
+
+Greetings earthling. If you felt a looming presence above you, it wasn’t your co-worker who’s always peeping at your screen. According to NASA, the recently discovered asteroid 2026JH2 passed close to Earth yesterday. While it was never near enough to threaten us with the fate of the dinosaurs, it did get within 24% of the average distance between the Earth and the moon—which is pretty darn close in celestial object terms. Missed it? 2026JH2 is expected to do another drive by in 2060, though it’ll be farther away then.
+
+https://www.morningbrew.com/issues/elon-loses-it</itunes:summary>
+    </item>
+    <item>
       <title>Incoming: Mashed Potatoes and Global Leverage Standoffs</title>
       <description>Auditions for the next James Bond are underway…
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/ceo-summit</description>
 Smile. Turns out that dreading going to the dentist may be among our primal urges. New research suggests that Neanderthals used stone drills for cavities 59,000 years ago, in the earliest known example of dentistry. Unclear if they needed separate insurance to cover this.
 
 https://www.morningbrew.com/issues/ceo-summit</itunes:summary>
-    </item>
-    <item>
-      <title>Prime time puzzle: AI chip booms and the housing freeze</title>
-      <description>The homebuying season had a rocky start....
-
-Hey, hey. A new generation is discovering the wisdom of Groucho Marx. Namely, that a fake mustache is an unbeatable disguise. Faced with online safety rules meant to protect them from harmful content, kids in the UK revealed in a recent survey that they’re able to defeat age-verification software by drawing on facial hair. Maybe we don’t need to be scared of the machines taking over after all.
-
-https://www.morningbrew.com/issues/prime-time-puzzle</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-12.m4a" length="36510250" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-05-12</guid>
-      <pubDate>Tue, 12 May 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:18:54</itunes:duration>
-      <itunes:summary>The homebuying season had a rocky start....
-
-Hey, hey. A new generation is discovering the wisdom of Groucho Marx. Namely, that a fake mustache is an unbeatable disguise. Faced with online safety rules meant to protect them from harmful content, kids in the UK revealed in a recent survey that they’re able to defeat age-verification software by drawing on facial hair. Maybe we don’t need to be scared of the machines taking over after all.
-
-https://www.morningbrew.com/issues/prime-time-puzzle</itunes:summary>
     </item>
   </channel>
 </rss>
