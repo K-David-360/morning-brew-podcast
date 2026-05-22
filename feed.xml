@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Schrödinger’s stake: Federal quantum equity and chemical surgery</title>
+      <description>New Eli Lilly drug is strongest GLP-1 yet...
+
+It’s Friday, Friday, gotta get down on Friday. You can’t stop him, you can only hope to contain him: Stephen Leatherman, the coastal scientist better known by his totally tubular nickname, “Dr. Beach,” is back with his annual ranking of the best seasides in the US. Here are his top three for this summer:
+
+https://www.morningbrew.com/issues/schrodingers-stake</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-22.m4a" length="37455258" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-05-22</guid>
+      <pubDate>Fri, 22 May 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:19:24</itunes:duration>
+      <itunes:summary>New Eli Lilly drug is strongest GLP-1 yet...
+
+It’s Friday, Friday, gotta get down on Friday. You can’t stop him, you can only hope to contain him: Stephen Leatherman, the coastal scientist better known by his totally tubular nickname, “Dr. Beach,” is back with his annual ranking of the best seasides in the US. Here are his top three for this summer:
+
+https://www.morningbrew.com/issues/schrodingers-stake</itunes:summary>
+    </item>
+    <item>
       <title>SpaceX IPO ready for blastoff: Musk’s Mars Colony and the SpaceX IPO</title>
       <description>Elon Musk's space company made its IPO plans public...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/commencing-with-ai</description>
 Rise and shine. Don’t forget to take some time this weekend to stop and smell the May flowers. Or, if your allergies are acting up, maybe just enjoy them from afar.
 
 https://www.morningbrew.com/issues/commencing-with-ai</itunes:summary>
-    </item>
-    <item>
-      <title>Never a dull moment: Honda's First Loss and the AI Gamble</title>
-      <description>Warsh replaces Powell as Fed chair today...
-
-Happy Friday. Even pro athletes get penalized for clocking in a few minutes late to work. South African golfer Garrick Higgo was assessed a two-stroke penalty for arriving late to his tee time at the first round of the PGA Championship yesterday.
-
-https://www.morningbrew.com/issues/never-a-dull-moment</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-15.m4a" length="38347973" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-05-15</guid>
-      <pubDate>Fri, 15 May 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:51</itunes:duration>
-      <itunes:summary>Warsh replaces Powell as Fed chair today...
-
-Happy Friday. Even pro athletes get penalized for clocking in a few minutes late to work. South African golfer Garrick Higgo was assessed a two-stroke penalty for arriving late to his tee time at the first round of the PGA Championship yesterday.
-
-https://www.morningbrew.com/issues/never-a-dull-moment</itunes:summary>
     </item>
   </channel>
 </rss>
