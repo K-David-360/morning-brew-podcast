@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Not easy being green: Why Baby Yoda cannot save the economy</title>
+      <description>This may not be the 'Star Wars' movie Disney is looking for...
+
+G’day. If you’re one of the record 45 million people AAA expects to travel this weekend despite high gas prices and questionable weather, we hope wherever you’re waking up today is worth the traffic you had to sit in yesterday. As for our MDW plans, we’ve got a Sunday Special for you tomorrow, but on Monday, we’ll be busy tossing burgers on a grill we haven’t properly cleaned since 2015. We’ll be back in your inbox to start the short week with you on Tuesday.
+
+https://www.morningbrew.com/issues/not-easy-being-green</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-23.m4a" length="35294068" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-05-23</guid>
+      <pubDate>Sat, 23 May 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:18:17</itunes:duration>
+      <itunes:summary>This may not be the 'Star Wars' movie Disney is looking for...
+
+G’day. If you’re one of the record 45 million people AAA expects to travel this weekend despite high gas prices and questionable weather, we hope wherever you’re waking up today is worth the traffic you had to sit in yesterday. As for our MDW plans, we’ve got a Sunday Special for you tomorrow, but on Monday, we’ll be busy tossing burgers on a grill we haven’t properly cleaned since 2015. We’ll be back in your inbox to start the short week with you on Tuesday.
+
+https://www.morningbrew.com/issues/not-easy-being-green</itunes:summary>
+    </item>
+    <item>
       <title>Schrödinger’s stake: Federal quantum equity and chemical surgery</title>
       <description>New Eli Lilly drug is strongest GLP-1 yet...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/second-acts-brew</description>
 Good morning. Are you currently daydreaming from your cubicle about quitting your corporate job to guide whale-watching boats in the Azores? Today’s newsletter is for you. We’ll tell you everything you need to know about changing careers, from who’s doing it (and why), to what pro athletes do for work when they hang up their cleats. We’ll also get into how AI is convincing many Americans to switch their collars from white to blue. Ross from Friends said it best: It’s time to pivot (careers).
 
 https://www.morningbrew.com/issues/second-acts-brew</itunes:summary>
-    </item>
-    <item>
-      <title>Commencing with AI: The high price of physical reality</title>
-      <description>AI is the talk of graduation season...
-
-Rise and shine. Don’t forget to take some time this weekend to stop and smell the May flowers. Or, if your allergies are acting up, maybe just enjoy them from afar.
-
-https://www.morningbrew.com/issues/commencing-with-ai</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-16.m4a" length="38247894" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-05-16</guid>
-      <pubDate>Sat, 16 May 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:48</itunes:duration>
-      <itunes:summary>AI is the talk of graduation season...
-
-Rise and shine. Don’t forget to take some time this weekend to stop and smell the May flowers. Or, if your allergies are acting up, maybe just enjoy them from afar.
-
-https://www.morningbrew.com/issues/commencing-with-ai</itunes:summary>
     </item>
   </channel>
 </rss>
