@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Travel Brew: Why Las Vegas fired budget travelers</title>
+      <description>A look at the people goin’ places in this economy…
+
+Good morning. Are you traveling this summer, planning to, or just pretending you are before ultimately curling up on the couch and watch all 12 seasons of Love Island instead? Whatever the case, today’s special edition is all about the latest travel trends. We’ll look at how the industry is increasingly geared toward high-income consumers, give you the latest on the chic luggage race, recommend some off-the-beaten-path destinations, and much more.
+
+https://www.morningbrew.com/issues/travel-brew-26</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-24.m4a" length="38889576" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-05-24</guid>
+      <pubDate>Sun, 24 May 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:20:08</itunes:duration>
+      <itunes:summary>A look at the people goin’ places in this economy…
+
+Good morning. Are you traveling this summer, planning to, or just pretending you are before ultimately curling up on the couch and watch all 12 seasons of Love Island instead? Whatever the case, today’s special edition is all about the latest travel trends. We’ll look at how the industry is increasingly geared toward high-income consumers, give you the latest on the chic luggage race, recommend some off-the-beaten-path destinations, and much more.
+
+https://www.morningbrew.com/issues/travel-brew-26</itunes:summary>
+    </item>
+    <item>
       <title>Not easy being green: Why Baby Yoda cannot save the economy</title>
       <description>This may not be the 'Star Wars' movie Disney is looking for...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/incoming</description>
 Mornin’. Yesterday’s Washington Post profile of Rachel Entrekin , who won this year’s Cocodona 250-mile ultramarathon in Arizona, featured some wild details:
 
 https://www.morningbrew.com/issues/incoming</itunes:summary>
-    </item>
-    <item>
-      <title>Second Acts Brew: Why Professionals Are Trading Desks For Trades</title>
-      <description>More people are changing careers than ever...
-
-Good morning. Are you currently daydreaming from your cubicle about quitting your corporate job to guide whale-watching boats in the Azores? Today’s newsletter is for you. We’ll tell you everything you need to know about changing careers, from who’s doing it (and why), to what pro athletes do for work when they hang up their cleats. We’ll also get into how AI is convincing many Americans to switch their collars from white to blue. Ross from Friends said it best: It’s time to pivot (careers).
-
-https://www.morningbrew.com/issues/second-acts-brew</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-17.m4a" length="19335770" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-05-17</guid>
-      <pubDate>Sun, 17 May 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:10:00</itunes:duration>
-      <itunes:summary>More people are changing careers than ever...
-
-Good morning. Are you currently daydreaming from your cubicle about quitting your corporate job to guide whale-watching boats in the Azores? Today’s newsletter is for you. We’ll tell you everything you need to know about changing careers, from who’s doing it (and why), to what pro athletes do for work when they hang up their cleats. We’ll also get into how AI is convincing many Americans to switch their collars from white to blue. Ross from Friends said it best: It’s time to pivot (careers).
-
-https://www.morningbrew.com/issues/second-acts-brew</itunes:summary>
     </item>
   </channel>
 </rss>
