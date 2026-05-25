@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Travel Brew: The Death of the Budget Vacation</title>
+      <description>A look at the people goin’ places in this economy…
+
+Good morning. Are you traveling this summer, planning to, or just pretending you are before ultimately curling up on the couch and watch all 12 seasons of Love Island instead? Whatever the case, today’s special edition is all about the latest travel trends. We’ll look at how the industry is increasingly geared toward high-income consumers, give you the latest on the chic luggage race, recommend some off-the-beaten-path destinations, and much more.
+
+https://www.morningbrew.com/issues/travel-brew-26</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-25.m4a" length="42235578" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-05-25</guid>
+      <pubDate>Mon, 25 May 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:21:52</itunes:duration>
+      <itunes:summary>A look at the people goin’ places in this economy…
+
+Good morning. Are you traveling this summer, planning to, or just pretending you are before ultimately curling up on the couch and watch all 12 seasons of Love Island instead? Whatever the case, today’s special edition is all about the latest travel trends. We’ll look at how the industry is increasingly geared toward high-income consumers, give you the latest on the chic luggage race, recommend some off-the-beaten-path destinations, and much more.
+
+https://www.morningbrew.com/issues/travel-brew-26</itunes:summary>
+    </item>
+    <item>
       <title>Travel Brew: Why Las Vegas fired budget travelers</title>
       <description>A look at the people goin’ places in this economy…
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/elon-loses-it</description>
 Greetings earthling. If you felt a looming presence above you, it wasn’t your co-worker who’s always peeping at your screen. According to NASA, the recently discovered asteroid 2026JH2 passed close to Earth yesterday. While it was never near enough to threaten us with the fate of the dinosaurs, it did get within 24% of the average distance between the Earth and the moon—which is pretty darn close in celestial object terms. Missed it? 2026JH2 is expected to do another drive by in 2060, though it’ll be farther away then.
 
 https://www.morningbrew.com/issues/elon-loses-it</itunes:summary>
-    </item>
-    <item>
-      <title>Incoming: Mashed Potatoes and Global Leverage Standoffs</title>
-      <description>Auditions for the next James Bond are underway…
-
-Mornin’. Yesterday’s Washington Post profile of Rachel Entrekin , who won this year’s Cocodona 250-mile ultramarathon in Arizona, featured some wild details:
-
-https://www.morningbrew.com/issues/incoming</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-18.m4a" length="43079032" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-05-18</guid>
-      <pubDate>Mon, 18 May 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:22:18</itunes:duration>
-      <itunes:summary>Auditions for the next James Bond are underway…
-
-Mornin’. Yesterday’s Washington Post profile of Rachel Entrekin , who won this year’s Cocodona 250-mile ultramarathon in Arizona, featured some wild details:
-
-https://www.morningbrew.com/issues/incoming</itunes:summary>
     </item>
   </channel>
 </rss>
