@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The word from Rome: Vatican Challenges Big Tech AI</title>
+      <description>A warning from the pope on AI...
+
+Welcome back. We hope your weekend travels weren’t too tumultuous or disrupted by bad weather. Be patient with your coworkers today—they are either sunburnt, hungover, or ate way too much Nuts on Clark popcorn while delayed at O’Hare.
+
+https://www.morningbrew.com/issues/the-word-from-rome</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-26.m4a" length="35519673" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-05-26</guid>
+      <pubDate>Tue, 26 May 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:18:24</itunes:duration>
+      <itunes:summary>A warning from the pope on AI...
+
+Welcome back. We hope your weekend travels weren’t too tumultuous or disrupted by bad weather. Be patient with your coworkers today—they are either sunburnt, hungover, or ate way too much Nuts on Clark popcorn while delayed at O’Hare.
+
+https://www.morningbrew.com/issues/the-word-from-rome</itunes:summary>
+    </item>
+    <item>
       <title>Travel Brew: The Death of the Budget Vacation</title>
       <description>A look at the people goin’ places in this economy…
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/mass-culling</description>
 Happy Hump Day. ICYMI, Founder Brew has arrived. Morning Brew’s newest newsletter gets into the nitty-gritty of building a great company: the tough calls, the trade-offs, and the lessons that don’t make the highlight reel. If you’re a founder, aspiring founder, startup investor, or just like reading about them, this newsletter’s for you. Subscribe here .
 
 https://www.morningbrew.com/issues/mass-culling</itunes:summary>
-    </item>
-    <item>
-      <title>Elon loses it: OpenAI diaries and billionaire power struggles</title>
-      <description>Musk's case against OpenAI got tossed...
-
-Greetings earthling. If you felt a looming presence above you, it wasn’t your co-worker who’s always peeping at your screen. According to NASA, the recently discovered asteroid 2026JH2 passed close to Earth yesterday. While it was never near enough to threaten us with the fate of the dinosaurs, it did get within 24% of the average distance between the Earth and the moon—which is pretty darn close in celestial object terms. Missed it? 2026JH2 is expected to do another drive by in 2060, though it’ll be farther away then.
-
-https://www.morningbrew.com/issues/elon-loses-it</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-19.m4a" length="39824149" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-05-19</guid>
-      <pubDate>Tue, 19 May 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:20:37</itunes:duration>
-      <itunes:summary>Musk's case against OpenAI got tossed...
-
-Greetings earthling. If you felt a looming presence above you, it wasn’t your co-worker who’s always peeping at your screen. According to NASA, the recently discovered asteroid 2026JH2 passed close to Earth yesterday. While it was never near enough to threaten us with the fate of the dinosaurs, it did get within 24% of the average distance between the Earth and the moon—which is pretty darn close in celestial object terms. Missed it? 2026JH2 is expected to do another drive by in 2060, though it’ll be farther away then.
-
-https://www.morningbrew.com/issues/elon-loses-it</itunes:summary>
     </item>
   </channel>
 </rss>
