@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Sweeping for data: Insurance drones and AI house cleaning</title>
+      <description>Why homeowners insurance isn't paying out like it used to...
+
+Welcome to June. The Atlantic hurricane season starts today, and the World Meteorological Organization has a list of names ready to assign to this year’s storms that reach sustained winds of at least 39 mph. If your name is…
+
+https://www.morningbrew.com/issues/sweeping-for-data</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-01.m4a" length="40565192" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-06-01</guid>
+      <pubDate>Mon, 01 Jun 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:21:00</itunes:duration>
+      <itunes:summary>Why homeowners insurance isn't paying out like it used to...
+
+Welcome to June. The Atlantic hurricane season starts today, and the World Meteorological Organization has a list of names ready to assign to this year’s storms that reach sustained winds of at least 39 mph. If your name is…
+
+https://www.morningbrew.com/issues/sweeping-for-data</itunes:summary>
+    </item>
+    <item>
       <title>Pet Brew: How Pet Parenting Reshapes the Economy</title>
       <description>What's fetch in the business of pets...
 
@@ -76,23 +93,6 @@ https://www.morningbrew.com/issues/the-word-from-rome</description>
 Welcome back. We hope your weekend travels weren’t too tumultuous or disrupted by bad weather. Be patient with your coworkers today—they are either sunburnt, hungover, or ate way too much Nuts on Clark popcorn while delayed at O’Hare.
 
 https://www.morningbrew.com/issues/the-word-from-rome</itunes:summary>
-    </item>
-    <item>
-      <title>Travel Brew: The Death of the Budget Vacation</title>
-      <description>A look at the people goin’ places in this economy…
-
-Good morning. Are you traveling this summer, planning to, or just pretending you are before ultimately curling up on the couch and watch all 12 seasons of Love Island instead? Whatever the case, today’s special edition is all about the latest travel trends. We’ll look at how the industry is increasingly geared toward high-income consumers, give you the latest on the chic luggage race, recommend some off-the-beaten-path destinations, and much more.
-
-https://www.morningbrew.com/issues/travel-brew-26</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-05-25.m4a" length="42235578" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-05-25</guid>
-      <pubDate>Mon, 25 May 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:21:52</itunes:duration>
-      <itunes:summary>A look at the people goin’ places in this economy…
-
-Good morning. Are you traveling this summer, planning to, or just pretending you are before ultimately curling up on the couch and watch all 12 seasons of Love Island instead? Whatever the case, today’s special edition is all about the latest travel trends. We’ll look at how the industry is increasingly geared toward high-income consumers, give you the latest on the chic luggage race, recommend some off-the-beaten-path destinations, and much more.
-
-https://www.morningbrew.com/issues/travel-brew-26</itunes:summary>
     </item>
   </channel>
 </rss>
