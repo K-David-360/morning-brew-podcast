@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Everyone’s mad: World Cup ticket algorithms and reversing aging</title>
+      <description>Big World Cup matches are still not sold out...
+
+Hallo. A German tourist named Freddy who’s visiting the US for the World Cup is going viral for documenting his quintessentially American experience. In the span of two days, he dined at Wendy’s, Chili’s, Waffle House, and Taco Bell, which he called “the holy land.”
+
+https://www.morningbrew.com/issues/everyones-mad</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-11.m4a" length="41668572" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-06-11</guid>
+      <pubDate>Wed, 10 Jun 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:21:35</itunes:duration>
+      <itunes:summary>Big World Cup matches are still not sold out...
+
+Hallo. A German tourist named Freddy who’s visiting the US for the World Cup is going viral for documenting his quintessentially American experience. In the span of two days, he dined at Wendy’s, Chili’s, Waffle House, and Taco Bell, which he called “the holy land.”
+
+https://www.morningbrew.com/issues/everyones-mad</itunes:summary>
+    </item>
+    <item>
       <title>Second bite: Apple's AI surrender and the SpaceX trillion</title>
       <description>Apple is expected to roll out a new take on Siri...
 
@@ -25,23 +42,6 @@ https://www.morningbrew.com/issues/second-bite</description>
 Good morning. A group of professional wrestlers is traveling to public libraries around the country to promote literacy by suplexing their way through storytime. Their show is called Lucha Libro . It got us thinking, what library-themed moves would we want to check out? We humbly suggest: the Dewey Decimator, the Spine Binder, the Skull Shusher, and the Due or Die.
 
 https://www.morningbrew.com/issues/second-bite</itunes:summary>
-    </item>
-    <item>
-      <title>Not working from home: Remote work lawsuits and the protein squeeze</title>
-      <description>A new study blames WFH for Gen Z's hiring woes...
-
-Morning… and congratulations to Dua Lipa and Callum Turner, who tied the knot in London over the weekend. The singer and actor reportedly first bonded over having both just finished the first chapter of Hernan Diaz’s novel Trust , which prompted Turner to hit Dua Lipa with the line, “So we’re on the same page.” This goes to show that even a little reading can put you on the path to love and happiness, so we recommend continuing until you get to the bottom of today’s newsletter just in case you need something to chat about.
-
-https://www.morningbrew.com/issues/not-working-from-home</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-02.m4a" length="35277657" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-06-02</guid>
-      <pubDate>Tue, 02 Jun 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:18:16</itunes:duration>
-      <itunes:summary>A new study blames WFH for Gen Z's hiring woes...
-
-Morning… and congratulations to Dua Lipa and Callum Turner, who tied the knot in London over the weekend. The singer and actor reportedly first bonded over having both just finished the first chapter of Hernan Diaz’s novel Trust , which prompted Turner to hit Dua Lipa with the line, “So we’re on the same page.” This goes to show that even a little reading can put you on the path to love and happiness, so we recommend continuing until you get to the bottom of today’s newsletter just in case you need something to chat about.
-
-https://www.morningbrew.com/issues/not-working-from-home</itunes:summary>
     </item>
   </channel>
 </rss>
