@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Prediction Markets Brew: Prediction markets profit from insider leaks</title>
+      <description>The weird world of betting on what's next...
+
+Good morning. If you’ve heard the word “Polymarket” more times this year than your own name, you’re not alone. Prediction markets are, quite simply, everywhere . They’re forming partnerships with major pro sports leagues, giving betting apps like DraftKings a scare, spoiling your favorite reality TV shows, and, well, getting some people sent to prison. Read on to become the expert at your next dinner party when someone inevitably mentions “Kalshi,” or use it as the topic of conversation at your Father’s Day celebration today to see who can predict what color tie Dad’s getting this year.
+
+https://www.morningbrew.com/issues/prediction-markets-brew</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-21.m4a" length="35763955" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-06-21</guid>
+      <pubDate>Sun, 21 Jun 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:18:31</itunes:duration>
+      <itunes:summary>The weird world of betting on what's next...
+
+Good morning. If you’ve heard the word “Polymarket” more times this year than your own name, you’re not alone. Prediction markets are, quite simply, everywhere . They’re forming partnerships with major pro sports leagues, giving betting apps like DraftKings a scare, spoiling your favorite reality TV shows, and, well, getting some people sent to prison. Read on to become the expert at your next dinner party when someone inevitably mentions “Kalshi,” or use it as the topic of conversation at your Father’s Day celebration today to see who can predict what color tie Dad’s getting this year.
+
+https://www.morningbrew.com/issues/prediction-markets-brew</itunes:summary>
+    </item>
+    <item>
       <title>Making it work: Parenting burnout and the Buc-ee's cure</title>
       <description>Both parents are working in more households...
 
@@ -42,23 +59,6 @@ https://www.morningbrew.com/issues/welcome-to-warsh</description>
 Morning, sunshine. We hope you’re having as productive a start to your day as the folks Bloomberg reports are getting paid $950 to hold spots for others at the (free) Knicks ticker-tape parade in NYC today.
 
 https://www.morningbrew.com/issues/welcome-to-warsh</itunes:summary>
-    </item>
-    <item>
-      <title>Camp Brew: The seventeen thousand dollar summer camp</title>
-      <description>The big business of bunks and bugs...
-
-Attention campers: Lunch may be canceled due to lack of hustle, but this newsletter isn’t. As we enter the time of year when suddenly millions of kids (and some adults) are looking for stuff to do, we’re bringing you a special edition all about the business of summer camps. Read on to learn how they evolved from military-like drill camps to a billion-dollar industry that serves kids gourmet meals in between ceramics courses. Welcome to Camp Morning Brew.
-
-https://www.morningbrew.com/issues/camp-brew</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-14.m4a" length="33374171" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-06-14</guid>
-      <pubDate>Sun, 14 Jun 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:17:17</itunes:duration>
-      <itunes:summary>The big business of bunks and bugs...
-
-Attention campers: Lunch may be canceled due to lack of hustle, but this newsletter isn’t. As we enter the time of year when suddenly millions of kids (and some adults) are looking for stuff to do, we’re bringing you a special edition all about the business of summer camps. Read on to learn how they evolved from military-like drill camps to a billion-dollar industry that serves kids gourmet meals in between ceramics courses. Welcome to Camp Morning Brew.
-
-https://www.morningbrew.com/issues/camp-brew</itunes:summary>
     </item>
   </channel>
 </rss>
