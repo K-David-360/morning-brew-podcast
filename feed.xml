@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>Morning Brew Driver</title>
     <link>https://morningbrew.com</link>
@@ -25,6 +25,7 @@ https://www.morningbrew.com/issues/betting-on-the-baconater</description>
 Ho, ho, ho. Today, June 25, is Half-Christmas, marking the midway point between the start of the year and actual Christmas. That means it’s time to get serious about your naughty–nice ratio.
 
 https://www.morningbrew.com/issues/betting-on-the-baconater</itunes:summary>
+      <podcast:transcript url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-25.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Race for your face: The Aggressive New Era of Hyper-monetization</title>
