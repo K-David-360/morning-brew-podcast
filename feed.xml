@@ -10,6 +10,24 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>iFlation: The High Cost of Institutional Lag</title>
+      <description>Apple jacks up prices due to AI inflation...
+
+Happy Friday. The final season of The Bear reportedly takes place over one night’s dinner service, like how each episode of The Pitt is one hour in a single ER shift.
+
+https://www.morningbrew.com/issues/iflation</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-26.m4a" length="38915723" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-06-26</guid>
+      <pubDate>Fri, 26 Jun 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:20:09</itunes:duration>
+      <itunes:summary>Apple jacks up prices due to AI inflation...
+
+Happy Friday. The final season of The Bear reportedly takes place over one night’s dinner service, like how each episode of The Pitt is one hour in a single ER shift.
+
+https://www.morningbrew.com/issues/iflation</itunes:summary>
+      <podcast:transcript url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-26.vtt" type="text/vtt" />
+    </item>
+    <item>
       <title>Betting on the Baconator: French heatwaves AI and the Wendy's squeeze</title>
       <description>Wendy's is the latest meme stock...
 
@@ -111,23 +129,6 @@ https://www.morningbrew.com/issues/making-it-work</description>
 Carpe diem. Grab your sunscreen and remember to hydrate because tomorrow is the first day of summer in the Northern Hemisphere, or as Neil deGrasse Tyson would call it, the summer solstice. It’s also the longest day of the year, with the day you fly home from a wedding coming in a close second.
 
 https://www.morningbrew.com/issues/making-it-work</itunes:summary>
-    </item>
-    <item>
-      <title>Welcome to Warsh: Warsh's Fed Shock and the Iran Deal</title>
-      <description>The Fed may raise rates this year...
-
-Morning, sunshine. We hope you’re having as productive a start to your day as the folks Bloomberg reports are getting paid $950 to hold spots for others at the (free) Knicks ticker-tape parade in NYC today.
-
-https://www.morningbrew.com/issues/welcome-to-warsh</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-19.m4a" length="33882161" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-06-19</guid>
-      <pubDate>Fri, 19 Jun 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:17:33</itunes:duration>
-      <itunes:summary>The Fed may raise rates this year...
-
-Morning, sunshine. We hope you’re having as productive a start to your day as the folks Bloomberg reports are getting paid $950 to hold spots for others at the (free) Knicks ticker-tape parade in NYC today.
-
-https://www.morningbrew.com/issues/welcome-to-warsh</itunes:summary>
     </item>
   </channel>
 </rss>
