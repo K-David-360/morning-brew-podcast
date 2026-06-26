@@ -1,0 +1,988 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:07.560
+If you spill coffee on your laptop today, you are going to hate yourself significantly more
+
+00:00:07.560 --> 00:00:08.840
+than you would have just yesterday.
+
+00:00:08.840 --> 00:00:09.840
+Oh, absolutely.
+
+00:00:09.840 --> 00:00:14.000
+I mean, Apple just quietly jacked up the prices on their budget laptop.
+
+00:00:14.000 --> 00:00:20.720
+The MacBook Neo went from $599 to $699 and the iPad Air.
+
+00:00:20.720 --> 00:00:23.480
+That's up a full $150 overnight.
+
+00:00:23.480 --> 00:00:27.720
+Which is wild because it completely shatters the golden rule of consumer tech, right?
+
+00:00:27.720 --> 00:00:28.720
+Yeah.
+
+00:00:28.840 --> 00:00:32.440
+It's always been that your devices should get cheaper over time or at the very least
+
+00:00:32.440 --> 00:00:37.160
+you get a significantly more powerful machine for the exact same price.
+
+00:00:37.160 --> 00:00:38.160
+Yeah.
+
+00:00:38.160 --> 00:00:41.240
+But we're watching that whole paradigm just reverse in real time.
+
+00:00:41.240 --> 00:00:42.760
+And it's not happening in a vacuum.
+
+00:00:42.760 --> 00:00:46.980
+Today we're doing a deep dive into a stack of recent economic reports, a new Supreme
+
+00:00:46.980 --> 00:00:51.080
+Court brief, and a flurry of fresh legal filings from the NCAA.
+
+00:00:51.080 --> 00:00:52.480
+A lot of ground to cover.
+
+00:00:52.480 --> 00:00:53.480
+Yeah.
+
+00:00:53.480 --> 00:00:58.680
+But our mission for this deep dive is to figure out why the basic rules of everyday life from
+
+00:00:59.320 --> 00:01:03.920
+what you pay for a tablet to the warning labels on your garden supplies to the sports
+
+00:01:03.920 --> 00:01:08.280
+you watch on a Saturday are just dramatically shifting beneath our feet.
+
+00:01:08.280 --> 00:01:13.220
+And the common denominator across all these sources is that our massive foundational institutions
+
+00:01:13.220 --> 00:01:17.120
+are entirely lagging behind the reality they're supposed to be regulating.
+
+00:01:17.120 --> 00:01:18.120
+Right.
+
+00:01:18.120 --> 00:01:21.720
+And let's actually start with that sticker shock on the Apple products because this isn't
+
+00:01:21.720 --> 00:01:27.080
+just, you know, a massive tech company deciding to arbitrarily pad its profit margins.
+
+00:01:27.080 --> 00:01:28.080
+Okay.
+
+00:01:28.280 --> 00:01:33.880
+Well, we're looking at a macro economic phenomenon that analysts are starting called Iflation.
+
+00:01:33.880 --> 00:01:38.560
+It's this structural systemic shift in how technology is priced.
+
+00:01:38.560 --> 00:01:43.400
+And it all traces back directly to the Silicon Valley AI boom, I'm going to need you to connect
+
+00:01:43.400 --> 00:01:44.400
+those dots for me.
+
+00:01:44.400 --> 00:01:45.400
+Sure.
+
+00:01:45.400 --> 00:01:49.640
+Because from a consumer's perspective, I don't really get how a tech giant's obsession
+
+00:01:49.640 --> 00:01:55.360
+with building a massive AI chatbot translates to like my kids, basic school laptop suddenly
+
+00:01:55.360 --> 00:01:58.800
+costing 15% more at the local big box store.
+
+00:01:58.800 --> 00:02:00.880
+Those feel like two completely separate economies.
+
+00:02:00.880 --> 00:02:05.480
+They do feel separate, but they share the exact same underlying plumbing.
+
+00:02:05.480 --> 00:02:11.040
+It basically comes down to this invisible tug of war happening deep inside the global semiconductor
+
+00:02:11.040 --> 00:02:12.560
+supply chain.
+
+00:02:12.560 --> 00:02:15.800
+Specifically, we're talking about memory and storage chips.
+
+00:02:15.800 --> 00:02:16.800
+Okay.
+
+00:02:16.800 --> 00:02:22.360
+Right now, there is just an absolute unbridled gold rush for the highly specialized hardware
+
+00:02:22.360 --> 00:02:28.040
+needed to power AI servers, Nvidia and its competitors are placing massive orders.
+
+00:02:28.040 --> 00:02:31.480
+So imagine you operate a semiconductor fabrication plant, a fab.
+
+00:02:31.480 --> 00:02:35.040
+You mean one of those multi billion dollar factories with the hyper sterile queen rooms
+
+00:02:35.040 --> 00:02:37.920
+where they slice up the silicon wafers nicely?
+
+00:02:37.920 --> 00:02:40.040
+Those facilities are physically finite.
+
+00:02:40.040 --> 00:02:41.840
+You can't just build a new fab overnight.
+
+00:02:41.840 --> 00:02:46.040
+I mean, it takes years of construction and billions of dollars in capital.
+
+00:02:46.040 --> 00:02:51.320
+Furthermore, a manufacturing line isn't a magical faucet you can just crank wider.
+
+00:02:51.320 --> 00:02:56.400
+If you want to produce the complex high bandwidth memory chips that AI data centers require,
+
+00:02:56.400 --> 00:02:59.520
+you actually have to retool your existing assembly lines.
+
+00:02:59.520 --> 00:03:04.720
+You have to physically transition your factory floor away from producing standard NAND flash
+
+00:03:04.720 --> 00:03:05.720
+memory.
+
+00:03:05.720 --> 00:03:09.480
+And that standard memory is what goes into a consumer tablet or a budget laptop.
+
+00:03:09.480 --> 00:03:10.480
+Exactly.
+
+00:03:10.480 --> 00:03:11.480
+Okay.
+
+00:03:11.480 --> 00:03:15.440
+So there is a literal physical bottleneck here.
+
+00:03:15.440 --> 00:03:20.140
+Every time a factory decides to chase the highly lucrative AI chip market, they are
+
+00:03:20.140 --> 00:03:23.700
+actively choosing to produce fewer standard consumer chips.
+
+00:03:23.700 --> 00:03:25.340
+That's the mechanism driving all of this.
+
+00:03:25.340 --> 00:03:30.780
+The factories are overwhelmingly prioritizing AI chips because the margins are just astronomical.
+
+00:03:30.780 --> 00:03:34.500
+As a direct result, the global supply of standard consumer device chips is suddenly
+
+00:03:34.500 --> 00:03:36.500
+artificially constrained.
+
+00:03:36.500 --> 00:03:40.940
+And when supply drops that aggressively, but the baseline consumer demand for every electronic
+
+00:03:40.940 --> 00:03:43.700
+stays the same, the suppliers hold all the cards.
+
+00:03:43.700 --> 00:03:45.260
+They have massive pricing power.
+
+00:03:45.260 --> 00:03:50.380
+It sounds like the entire tech economy is essentially experiencing surge pricing, like
+
+00:03:50.380 --> 00:03:54.660
+trying to get an Uber during a thunderstorm, except the thunderstorm is the AI boom.
+
+00:03:54.660 --> 00:03:57.740
+Surge pricing is the perfect way to visualize it.
+
+00:03:57.740 --> 00:04:01.860
+And the latest market data validates this in a rather alarming way.
+
+00:04:01.860 --> 00:04:06.420
+Look at Micron, a major supplier of memory chips for companies like Apple.
+
+00:04:06.420 --> 00:04:09.740
+They recently reported absolutely blockbuster earnings.
+
+00:04:09.740 --> 00:04:11.260
+Let me guess because of the surge pricing.
+
+00:04:11.260 --> 00:04:12.260
+Yep.
+
+00:04:12.260 --> 00:04:16.100
+The underlying reason is that the cost of those specific memory chips has spiked more
+
+00:04:16.100 --> 00:04:19.060
+than four-fold since the fourth quarter of last year.
+
+00:04:19.060 --> 00:04:21.660
+Wait, four times the cost and less than a year?
+
+00:04:21.660 --> 00:04:22.660
+Yeah.
+
+00:04:22.660 --> 00:04:23.660
+That is staggering.
+
+00:04:23.660 --> 00:04:27.780
+I mean, it makes sense why Apple would say they haven't seen component prices increase
+
+00:04:27.780 --> 00:04:29.580
+this much this quickly.
+
+00:04:29.580 --> 00:04:32.380
+And it stretches far beyond Apple, too.
+
+00:04:32.380 --> 00:04:36.980
+Government data indicates that overall electronics prices rose about 6% from December to May.
+
+00:04:36.980 --> 00:04:41.140
+Microsoft just had to raise the retail prices on their Xbox consoles for the exact same
+
+00:04:41.140 --> 00:04:45.020
+reason the escalating costs of memory and storage components.
+
+00:04:45.020 --> 00:04:50.340
+So we are essentially paying a hidden AI tax on our video games and our budget laptops.
+
+00:04:50.340 --> 00:04:51.340
+We are.
+
+00:04:51.340 --> 00:04:56.580
+And this is where the dynamic scales up from a frustrating consumer hardware issue to a
+
+00:04:56.580 --> 00:04:59.300
+serious macroeconomic threat.
+
+00:04:59.300 --> 00:05:04.260
+If we zoom out and look at the national economy, the Federal Reserve is monitoring this exact
+
+00:05:04.260 --> 00:05:07.980
+supply chain squeeze with a massive amount of anxiety.
+
+00:05:07.980 --> 00:05:12.360
+Which tracks considering the Fed's entire mandate over the last couple of years has
+
+00:05:12.360 --> 00:05:17.220
+been trying to wrestle general inflation back down to Earth by just aggressively hiking
+
+00:05:17.220 --> 00:05:18.220
+interest rates.
+
+00:05:18.220 --> 00:05:19.220
+Right.
+
+00:05:19.220 --> 00:05:23.180
+Federal Reserve Governor Lisa Cook actually recently issued a very pointed warning about
+
+00:05:23.180 --> 00:05:25.180
+this specific friction.
+
+00:05:25.180 --> 00:05:29.580
+She highlighted that AI companies are not slowing down their infrastructure build out.
+
+00:05:29.580 --> 00:05:32.980
+They plan to keep spending billions upon billions on these data centers.
+
+00:05:32.980 --> 00:05:33.980
+Okay.
+
+00:05:33.980 --> 00:05:37.380
+So that means this inflation, the spiking prices for electronics and related tech products,
+
+00:05:37.380 --> 00:05:41.420
+could become deeply entrenched, meaning the central bank might be forced to keep interest
+
+00:05:41.420 --> 00:05:46.220
+rates elevated for much longer than anyone hoped, just to cool off a tech driven price
+
+00:05:46.220 --> 00:05:50.620
+surge, or worst case scenario, they might even have to raise raise higher.
+
+00:05:50.620 --> 00:05:52.140
+The implications are massive.
+
+00:05:52.140 --> 00:05:56.260
+The cost of your mortgage, your auto loan or your credit card debt could stay painfully
+
+00:05:56.260 --> 00:06:02.140
+high simply because Silicon Valley is locked in a fierce arms race to build data centers.
+
+00:06:02.140 --> 00:06:05.060
+Is there any silver lining here?
+
+00:06:05.060 --> 00:06:10.940
+Because paying higher interest rates to fund someone else's server farm doesn't really
+
+00:06:10.940 --> 00:06:13.420
+feel like a win for the average worker.
+
+00:06:13.420 --> 00:06:16.060
+There is an alternative perspective within the Fed.
+
+00:06:16.060 --> 00:06:20.180
+Fed Chair Kevin Warsh holds a notably more optimistic view.
+
+00:06:20.180 --> 00:06:25.260
+His thesis is that all of this massive AI investment will eventually trigger a historic boom in
+
+00:06:25.260 --> 00:06:26.260
+worker productivity.
+
+00:06:26.260 --> 00:06:27.260
+Okay.
+
+00:06:27.260 --> 00:06:28.260
+How so?
+
+00:06:28.260 --> 00:06:31.460
+What the economic theory is that if AI makes the American workforce significantly faster
+
+00:06:31.460 --> 00:06:36.660
+and more efficient, that widespread productivity will naturally offset the rising costs and
+
+00:06:36.660 --> 00:06:39.860
+eventually tame inflation on a structural level.
+
+00:06:39.860 --> 00:06:42.060
+The operative word there being eventually.
+
+00:06:42.060 --> 00:06:46.220
+I mean, if we look at historical parallels like the dawn of the internet or even the roll
+
+00:06:46.220 --> 00:06:50.340
+out of widespread electricity, a structural productivity boom of that magnitude takes
+
+00:06:50.340 --> 00:06:55.580
+years, if not decades, to actually materialize and trickle down to the average paycheck.
+
+00:06:55.580 --> 00:06:59.620
+That is the massive caveat that most economists are flagging right now.
+
+00:06:59.620 --> 00:07:01.620
+The timeline is misaligned.
+
+00:07:01.620 --> 00:07:06.500
+So what this means for you and me today is that we are basically paying a premium at
+
+00:07:06.500 --> 00:07:11.900
+the cash register for a technological utopia that might be a decade away.
+
+00:07:11.900 --> 00:07:17.140
+Like we are funding the AI revolution through more expensive iPads and higher mortgages, but
+
+00:07:17.140 --> 00:07:20.100
+we aren't seeing the promised economic benefits yet.
+
+00:07:20.100 --> 00:07:21.100
+Exactly.
+
+00:07:21.100 --> 00:07:25.300
+We are trapped in a highly awkward, very expensive transitional phase.
+
+00:07:25.300 --> 00:07:29.980
+The Federal Reserve, which is an institution built for traditional economic cycles, is struggling
+
+00:07:29.980 --> 00:07:34.660
+to regulate an economy that is suddenly being warped by an artificial intelligence boom,
+
+00:07:34.660 --> 00:07:38.660
+which perfectly illustrates the theme emerging from our sources today.
+
+00:07:38.660 --> 00:07:44.380
+But the Fed isn't the only foundational institution totally unprepared for how fast reality is moving.
+
+00:07:44.380 --> 00:07:49.180
+If we pivot from the round of macroeconomics to the highest levels of the federal legal system,
+
+00:07:49.180 --> 00:07:52.780
+we see the exact same institutional lag happening with science.
+
+00:07:52.780 --> 00:07:56.860
+We see it clearly in the Supreme Court ruling that was handed down yesterday.
+
+00:07:56.860 --> 00:08:03.780
+In a 72 decision, the Supreme Court delivered a massive sweeping victory to Bayer, the multinational
+
+00:08:03.780 --> 00:08:05.980
+pharmaceutical and biotechnology conglomerate.
+
+00:08:05.980 --> 00:08:08.300
+Let's get into the mechanics of this ruling.
+
+00:08:08.300 --> 00:08:09.860
+What exactly was it stake here?
+
+00:08:09.860 --> 00:08:14.700
+The ruling essentially shields Bayer from being sued in state level courts over claims
+
+00:08:14.700 --> 00:08:20.100
+that it failed to warn customers that its flagship herbicide roundup causes cancer.
+
+00:08:20.100 --> 00:08:22.860
+The contradiction at the heart of this case is fascinating.
+
+00:08:22.860 --> 00:08:28.100
+On one side, you have the World Health Organization explicitly stating that roundups key active
+
+00:08:28.100 --> 00:08:33.500
+ingredient a chemical called glyphosate is, quote, probably carcinogenic.
+
+00:08:33.500 --> 00:08:37.540
+But then on the other side, you have the US Environmental Protection Agency, the EPA,
+
+00:08:37.540 --> 00:08:41.820
+looking at the exact same chemical and deeming it unlikely to cause cancer.
+
+00:08:41.820 --> 00:08:46.700
+The EPA specifically does not require cancer warning labels on roundup bottles.
+
+00:08:46.700 --> 00:08:50.860
+Help me understand this because on the surface, a skeptical consumer might just assume the
+
+00:08:50.860 --> 00:08:53.700
+EPA is bending to corporate lobbying.
+
+00:08:53.700 --> 00:08:59.060
+Why do these two massive, incredibly well-funded global health authorities completely disagree?
+
+00:08:59.060 --> 00:09:03.420
+It is a brilliant question and it really comes down to the fundamental difference in how they
+
+00:09:03.420 --> 00:09:05.900
+conduct their scientific assessments.
+
+00:09:05.900 --> 00:09:10.100
+The World Health Organization conducts what is known as a hazard assessment.
+
+00:09:10.100 --> 00:09:15.820
+They're essentially asking, can this chemical cause cancer in a vacuum at any theoretically
+
+00:09:15.820 --> 00:09:16.820
+possible dose?
+
+00:09:16.820 --> 00:09:21.620
+So like if you were exposed to massive concentrated amounts of it in a laboratory setting?
+
+00:09:21.620 --> 00:09:22.620
+Yes.
+
+00:09:22.620 --> 00:09:27.620
+For context, the WHO also classifies things like aloe vera extract, pickled vegetables,
+
+00:09:27.620 --> 00:09:30.620
+and working a night shift in similar hazard categories.
+
+00:09:30.620 --> 00:09:31.620
+Wow, okay.
+
+00:09:31.620 --> 00:09:34.060
+The EPA, conversely, conducts a risk assessment.
+
+00:09:34.060 --> 00:09:38.540
+They ask, will this chemical cause cancer at the normal exposure levels a human would
+
+00:09:38.540 --> 00:09:40.780
+realistically encounter?
+
+00:09:40.780 --> 00:09:45.020
+Like a home gardener spraying weeds in their driveway on a Saturday afternoon.
+
+00:09:45.020 --> 00:09:47.260
+I see the distinction now.
+
+00:09:47.260 --> 00:09:53.020
+Hazard is about theoretical potential, but risk is about practical real-world application.
+
+00:09:53.020 --> 00:09:58.460
+And that profound regulatory discrepancy is the entire crux of the legal battle.
+
+00:09:58.460 --> 00:10:03.100
+Bayer has been completely mired in litigation over Roundup ever since they acquired Monsanto
+
+00:10:03.100 --> 00:10:04.100
+back in 2018.
+
+00:10:04.100 --> 00:10:05.100
+It's been everywhere.
+
+00:10:05.100 --> 00:10:10.540
+We are talking about tens of thousands of lawsuits from everyday people, gardeners,
+
+00:10:10.540 --> 00:10:16.340
+groundskeepers, farmers claiming that long-term exposure to Roundup gave them cancer and suing
+
+00:10:16.340 --> 00:10:19.540
+because the company failed to put a warning label on the product.
+
+00:10:19.540 --> 00:10:22.100
+Which brings us to the Supreme Court's desk.
+
+00:10:22.100 --> 00:10:27.140
+How does the highest court in the land resolve a situation where the Global Health Authority
+
+00:10:27.140 --> 00:10:32.860
+and the U.S. Environmental Authority are operating on two totally different scientific paradigms?
+
+00:10:32.860 --> 00:10:37.340
+Justice Brett Kavanaugh wrote the majority opinion and the ruling hinges entirely on a legal
+
+00:10:37.340 --> 00:10:39.780
+mechanism called federal preemption.
+
+00:10:39.780 --> 00:10:44.500
+In short, the Supreme Court ruled that federal law strictly bars individual states from imposing
+
+00:10:44.500 --> 00:10:47.940
+different pesticide label requirements than the EPA.
+
+00:10:47.940 --> 00:10:52.460
+Meaning that because the EPA, the overarching federal authority says no warning label is needed,
+
+00:10:52.460 --> 00:10:57.460
+a state legislature or a state court in Missouri or California cannot turn around and penalize
+
+00:10:57.460 --> 00:10:59.820
+the company for not having a warning label.
+
+00:10:59.820 --> 00:11:01.220
+That is the core logic.
+
+00:11:01.220 --> 00:11:05.140
+The court decided that if individual states were allowed to mandate their own health warnings
+
+00:11:05.140 --> 00:11:10.020
+based on local state level court decisions, a multinational company like Bayer would face
+
+00:11:10.020 --> 00:11:15.140
+an unworkable patchwork of 50 different conflicting labeling requirements.
+
+00:11:15.140 --> 00:11:19.140
+So the federal EPA standard is now established as the absolute ceiling.
+
+00:11:19.140 --> 00:11:22.740
+State level failure to warn claims are officially preempted.
+
+00:11:22.740 --> 00:11:25.980
+The immediate real world fallout of this is immense.
+
+00:11:25.980 --> 00:11:32.700
+For one, this specific ruling overturned a $1.25 million award from a Missouri jury to a gardener
+
+00:11:32.700 --> 00:11:35.900
+who claimed his cancer originated from roundup exposure.
+
+00:11:35.900 --> 00:11:40.340
+It wipes that judgment out entirely and far more consequently for Bayer's bottom line,
+
+00:11:40.340 --> 00:11:45.620
+this decision essentially clears the legal runway for a massive $7.25 billion proposed
+
+00:11:45.620 --> 00:11:50.300
+class action settlement that will largely close the book on their entire roundup crisis.
+
+00:11:50.300 --> 00:11:54.380
+We should also highlight the political context here because it is incredibly tangled and create
+
+00:11:54.380 --> 00:11:59.580
+some very strange bedfellows and to be absolutely clear to everyone listening.
+
+00:11:59.580 --> 00:12:03.780
+We are not taking aside on the underlying science of glyphosate or the legal merits
+
+00:12:03.780 --> 00:12:05.580
+of the Supreme Court's ruling.
+
+00:12:05.580 --> 00:12:09.500
+We are simply reporting the fascinating political alliances this case has forged.
+
+00:12:09.500 --> 00:12:12.820
+It genuinely scrambles the traditional partisan lines.
+
+00:12:12.820 --> 00:12:18.340
+On one hand, this Supreme Court decision is undeniably a massive win for the global pesticide
+
+00:12:18.340 --> 00:12:19.340
+industry.
+
+00:12:19.340 --> 00:12:24.420
+It is also a major validated victory for the former Trump administration, which actually
+
+00:12:24.420 --> 00:12:29.340
+filed briefs urging the Supreme Court to side with Bayer in this exact dispute.
+
+00:12:29.340 --> 00:12:34.060
+But on the flip side, this ruling has absolutely infuriated the followers of Robert F. Kennedy
+
+00:12:34.060 --> 00:12:35.060
+Jr.
+
+00:12:35.060 --> 00:12:41.420
+That particular political camp is staunchly aggressively opposed to glyphosate and agricultural chemicals
+
+00:12:41.420 --> 00:12:45.900
+and they are incredibly vocal about their displeasure with this corporate friendly Trump
+
+00:12:45.900 --> 00:12:47.140
+supported decision.
+
+00:12:47.140 --> 00:12:52.300
+It is a perfect illustration of how messy things get when complex, highly debated scientific
+
+00:12:52.300 --> 00:12:57.220
+uncertainty is forced into a rigid binary legal framework.
+
+00:12:57.220 --> 00:13:01.180
+The legal system had to make a black and white choice, can state sue or not, even though
+
+00:13:01.180 --> 00:13:06.620
+the scientific consensus regarding hazard versus risk is still full of gray areas globally.
+
+00:13:06.620 --> 00:13:11.940
+Science is outpacing the courts, artificial intelligence is outpacing the Federal Reserve.
+
+00:13:11.940 --> 00:13:16.260
+And if we look at our final source today, we see that modern financial reality is completely
+
+00:13:16.260 --> 00:13:18.820
+outpacing the rule book in college sports.
+
+00:13:18.820 --> 00:13:24.900
+Yes, we are looking at the NCAA, the governing body of collegiate athletics, which has officially
+
+00:13:24.980 --> 00:13:29.780
+announced a sweeping regulatory shift that is immediately resulting in lawsuits and administrative
+
+00:13:29.780 --> 00:13:30.780
+chaos.
+
+00:13:30.780 --> 00:13:31.780
+Walk us through the new rule.
+
+00:13:31.780 --> 00:13:34.620
+What exactly is the NCAA trying to change?
+
+00:13:34.620 --> 00:13:39.660
+They are implementing a strict, hard-capped, five-year eligibility limit for student athletes.
+
+00:13:39.660 --> 00:13:44.780
+This new policy goes into full effect, starting in the 2027-2028 academic year.
+
+00:13:44.780 --> 00:13:49.380
+The eligibility clock will start ticking the moment a student enrolls full time or the academic
+
+00:13:49.380 --> 00:13:51.780
+year after they turn 19, whichever comes first.
+
+00:13:51.780 --> 00:13:57.260
+Which means an athlete gets a five-year window to play four seasons of their sport,
+
+00:13:57.260 --> 00:13:59.820
+and then their time is unequivocally up.
+
+00:13:59.820 --> 00:14:05.420
+There are only extremely rare exceptions allowed for, like pregnancy or military service.
+
+00:14:05.420 --> 00:14:09.860
+The NCAA designed this rule to firmly put an end to the current phenomenon where some
+
+00:14:09.860 --> 00:14:14.620
+athletes, utilizing medical red shirts and extra years granted during the pandemic, are
+
+00:14:14.620 --> 00:14:18.300
+staying in college for six, seven, sometimes even eight years.
+
+00:14:18.300 --> 00:14:20.360
+It creates a bizarre visual.
+
+00:14:20.360 --> 00:14:24.080
+You turn on a college football game on a Saturday, and you frequently have physically
+
+00:14:24.080 --> 00:14:29.500
+mature 25-year-old men playing against 18-year-old kids who just went to their high school prom.
+
+00:14:29.500 --> 00:14:33.760
+It heavily skews the physical and competitive balance of the sport.
+
+00:14:33.760 --> 00:14:38.200
+But despite that, athletes are already suing the NCAA over this new clock.
+
+00:14:38.200 --> 00:14:39.200
+Why?
+
+00:14:39.200 --> 00:14:44.600
+The initial wave of lawsuits is coming specifically from athletes who enrolled in 2022.
+
+00:14:44.600 --> 00:14:49.120
+Their primary argument is that they are being uniquely and unfairly punished.
+
+00:14:49.120 --> 00:14:53.000
+Under this new rule, they will not be eligible for a fifth or sixth year of play.
+
+00:14:53.000 --> 00:14:57.160
+However, during their freshman and sophomore years, they were forced to compete against
+
+00:14:57.160 --> 00:15:02.320
+those older 24-year-old players who were grandfathered in under the old, looser pandemic
+
+00:15:02.320 --> 00:15:04.000
+era rules.
+
+00:15:04.000 --> 00:15:08.800
+They are arguing that they absorbed the physical disadvantage early on, but are now being denied
+
+00:15:08.800 --> 00:15:13.360
+the opportunity to become the older experienced veterans themselves.
+
+00:15:13.360 --> 00:15:15.080
+That covers the competitive argument.
+
+00:15:15.080 --> 00:15:16.080
+Yeah.
+
+00:15:16.080 --> 00:15:18.200
+In fact, the curtain even slightly.
+
+00:15:18.200 --> 00:15:22.320
+We know this isn't really about a pure love for the game or wanting one last season of
+
+00:15:22.320 --> 00:15:23.320
+campus camaraderie.
+
+00:15:23.320 --> 00:15:24.320
+Oh, no.
+
+00:15:24.320 --> 00:15:29.040
+It is entirely about the money, specifically name, image, and likeness revenue or NIL.
+
+00:15:29.040 --> 00:15:34.240
+The formal legal complaint explicitly argues that this new eligibility rule unfairly curtails
+
+00:15:34.240 --> 00:15:37.000
+the ability of these athletes to earn NIL income.
+
+00:15:37.000 --> 00:15:41.760
+I think we need to unpack how NIL actually functions today because it is no longer just,
+
+00:15:41.760 --> 00:15:46.280
+you know, a local quarterback getting $500 to do a radio ad for a car dealership.
+
+00:15:46.280 --> 00:15:49.680
+The entire financial paradigm of college sports has inverted.
+
+00:15:49.680 --> 00:15:55.000
+It has transformed into a massive unregulated shadow economy.
+
+00:15:55.000 --> 00:16:00.920
+Wealthy university alumni are pooling their money together to form what are called collectives.
+
+00:16:00.920 --> 00:16:06.000
+These collectives operate as independent limited liability companies, totally separate from
+
+00:16:06.000 --> 00:16:08.680
+the university's official athletic budget.
+
+00:16:08.680 --> 00:16:13.640
+They are essentially operating as unregulated payroll departments, distributing highly lucrative
+
+00:16:13.640 --> 00:16:17.040
+endorsement contracts to keep top talent on the roster.
+
+00:16:17.040 --> 00:16:20.360
+It used to be that you only stayed in college for five or six years if you weren't quite
+
+00:16:20.360 --> 00:16:21.880
+good enough to get drafted.
+
+00:16:21.880 --> 00:16:25.640
+You stayed because the NFL or the NBA wasn't calling.
+
+00:16:25.640 --> 00:16:31.000
+But today, because of these collectives, college sports is the professional league for many
+
+00:16:31.000 --> 00:16:32.000
+of these players.
+
+00:16:32.000 --> 00:16:33.000
+Exactly.
+
+00:16:33.000 --> 00:16:36.880
+We are talking about athletes making high six figures, sometimes even seven figures, while
+
+00:16:36.880 --> 00:16:38.880
+they are supposedly amateur students.
+
+00:16:38.880 --> 00:16:44.000
+If your peak earning window is happening right now at age 22 and you know you are likely
+
+00:16:44.000 --> 00:16:49.560
+going to be a career backup in the NFL making the league minimum or perhaps not make a professional
+
+00:16:49.560 --> 00:16:54.480
+roster at all, your financial incentive is to stretch your college eligibility out as long
+
+00:16:54.480 --> 00:16:55.840
+as humanly possible.
+
+00:16:55.840 --> 00:17:00.360
+The collegiate minor leagues are often paying significantly better than the actual lower
+
+00:17:00.360 --> 00:17:01.640
+tier pro leagues.
+
+00:17:01.640 --> 00:17:06.800
+And now the NCAA is stepping in and aggressively trying to slam that lucrative earning
+
+00:17:06.800 --> 00:17:09.960
+window shut after exactly five years.
+
+00:17:09.960 --> 00:17:15.760
+It's like the NCAA is trying to enforce a strict 55 mile per hour speed limit on a highway after
+
+00:17:15.760 --> 00:17:20.040
+they've already let everyone drive unregulated Formula One cars for the last three years.
+
+00:17:20.040 --> 00:17:25.640
+It is a profound clash between an institution stubbornly clinging to the traditional outdated
+
+00:17:25.640 --> 00:17:31.120
+concept of amateurism and a labor force that is operating in a completely unbridled free
+
+00:17:31.120 --> 00:17:32.800
+market economy.
+
+00:17:32.800 --> 00:17:38.000
+When we pull all of these threads together, the overarching narrative is incredibly clear.
+
+00:17:38.000 --> 00:17:43.040
+We are watching massive foundational institutions completely buckle under the weight of rapidly
+
+00:17:43.040 --> 00:17:44.440
+accelerating realities.
+
+00:17:44.440 --> 00:17:47.040
+The core issue is institutional lag.
+
+00:17:47.040 --> 00:17:51.160
+The reality on the ground whether it's driven by cutting edge technology, contested scientific
+
+00:17:51.160 --> 00:17:55.600
+research or modern sports economics is moving at absolute light speed.
+
+00:17:55.600 --> 00:17:59.960
+Meanwhile, the legal and regulatory systems designed to manage that reality are still moving
+
+00:17:59.960 --> 00:18:01.800
+at a bureaucratic crawl.
+
+00:18:01.800 --> 00:18:06.360
+And the most important question is who is caught in the crossfire of all these massive
+
+00:18:06.360 --> 00:18:08.360
+tectonic shifts?
+
+00:18:08.360 --> 00:18:09.680
+You are.
+
+00:18:09.680 --> 00:18:13.480
+Regular people are the ones absorbing the shock while the rules of everyday life are
+
+00:18:13.480 --> 00:18:16.080
+being rewritten from the top down.
+
+00:18:16.080 --> 00:18:20.560
+It is you standing in the aisle at the hardware store holding a bottle of weed killer having
+
+00:18:20.560 --> 00:18:26.200
+to blindly guess what the actual cancer risk is because the legal system just gave the manufacturer
+
+00:18:26.200 --> 00:18:29.800
+a pass on warning labels to avoid administrative headaches.
+
+00:18:29.800 --> 00:18:35.120
+It is you deciding to just tough it out with a dying five year old laptop because artificial
+
+00:18:35.120 --> 00:18:40.640
+intelligence supply chain constraints have made a basic replacement completely unaffordable.
+
+00:18:40.640 --> 00:18:45.920
+It is the 20 year old athlete having to hire a federal lawyer just to fight for their right
+
+00:18:45.920 --> 00:18:50.280
+to maximize their personal earning potential in a system that generates billions of dollars
+
+00:18:50.280 --> 00:18:51.560
+off their labor.
+
+00:18:51.560 --> 00:18:56.280
+Technological, scientific and financial advancements are moving exponentially faster than the systems
+
+00:18:56.280 --> 00:18:58.480
+designed to protect and regulate us.
+
+00:18:58.480 --> 00:19:02.640
+And at the end of the day, individual consumers are the ones left holding the bill.
+
+00:19:02.640 --> 00:19:05.640
+That is the definitive takeaway from the stack of sources.
+
+00:19:05.640 --> 00:19:10.520
+The friction between rapid innovation and sluggish regulation is only going to accelerate.
+
+00:19:10.520 --> 00:19:14.640
+To see how this plays out in real time, there are two specific things you should watch for
+
+00:19:14.640 --> 00:19:15.640
+next.
+
+00:19:15.640 --> 00:19:19.440
+First, keep an eye on the Apple iPhone 18 launch scheduled for this fall.
+
+00:19:19.440 --> 00:19:25.320
+Supply chain analysts are already bracing for a retail price hike of up to $200.
+
+00:19:25.320 --> 00:19:30.560
+If you see that jump, eye inflation is officially an entrenched economic reality and regarding
+
+00:19:30.560 --> 00:19:34.480
+the NCAA pay very close attention this Wednesday.
+
+00:19:34.480 --> 00:19:39.080
+There is a federal hearing scheduled to rule on a request for a preliminary injunction against
+
+00:19:39.080 --> 00:19:41.940
+that new five year eligibility rule.
+
+00:19:41.940 --> 00:19:46.920
+If the judge grants that injunction, the NCAA's authority to regulate its own sport will take
+
+00:19:46.920 --> 00:19:48.680
+another devastating hit.
+
+00:19:48.680 --> 00:19:52.160
+The broader question it all leaves us with is a bit unsettling.
+
+00:19:52.160 --> 00:19:55.880
+If the Supreme Court and the Federal Reserve are struggling this profoundly to figure out
+
+00:19:55.880 --> 00:20:00.080
+how to handle a common weed killer and some computer chips, imagine what happens when
+
+00:20:00.080 --> 00:20:04.760
+those exact same slow moving institutions have to figure out how to regulate human
+
+00:20:04.760 --> 00:20:09.160
+gene editing or brain computer interfaces in just a few short years.
