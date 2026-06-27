@@ -10,6 +10,24 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Billionaire battle: Taxing Billionaires as the AI Market Slumps</title>
+      <description>The fight over a California wealth tax is heating up...
+
+Congratulations. You made it through the full work week sandwiched in between two short ones. And at the end of the upcoming short one, you’ll even get fireworks to celebrate.
+
+https://www.morningbrew.com/issues/billionaire-battle</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-27.m4a" length="35482345" type="audio/mp4" />
+      <guid isPermaLink="false">morning-brew-2026-06-27</guid>
+      <pubDate>Sat, 27 Jun 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:18:22</itunes:duration>
+      <itunes:summary>The fight over a California wealth tax is heating up...
+
+Congratulations. You made it through the full work week sandwiched in between two short ones. And at the end of the upcoming short one, you’ll even get fireworks to celebrate.
+
+https://www.morningbrew.com/issues/billionaire-battle</itunes:summary>
+      <podcast:transcript url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-27.vtt" type="text/vtt" />
+    </item>
+    <item>
       <title>iFlation: The High Cost of Institutional Lag</title>
       <description>Apple jacks up prices due to AI inflation...
 
@@ -112,23 +130,6 @@ https://www.morningbrew.com/issues/prediction-markets-brew</description>
 Good morning. If you’ve heard the word “Polymarket” more times this year than your own name, you’re not alone. Prediction markets are, quite simply, everywhere . They’re forming partnerships with major pro sports leagues, giving betting apps like DraftKings a scare, spoiling your favorite reality TV shows, and, well, getting some people sent to prison. Read on to become the expert at your next dinner party when someone inevitably mentions “Kalshi,” or use it as the topic of conversation at your Father’s Day celebration today to see who can predict what color tie Dad’s getting this year.
 
 https://www.morningbrew.com/issues/prediction-markets-brew</itunes:summary>
-    </item>
-    <item>
-      <title>Making it work: Parenting burnout and the Buc-ee's cure</title>
-      <description>Both parents are working in more households...
-
-Carpe diem. Grab your sunscreen and remember to hydrate because tomorrow is the first day of summer in the Northern Hemisphere, or as Neil deGrasse Tyson would call it, the summer solstice. It’s also the longest day of the year, with the day you fly home from a wedding coming in a close second.
-
-https://www.morningbrew.com/issues/making-it-work</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-20.m4a" length="35422558" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-06-20</guid>
-      <pubDate>Sat, 20 Jun 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:18:20</itunes:duration>
-      <itunes:summary>Both parents are working in more households...
-
-Carpe diem. Grab your sunscreen and remember to hydrate because tomorrow is the first day of summer in the Northern Hemisphere, or as Neil deGrasse Tyson would call it, the summer solstice. It’s also the longest day of the year, with the day you fly home from a wedding coming in a close second.
-
-https://www.morningbrew.com/issues/making-it-work</itunes:summary>
     </item>
   </channel>
 </rss>
