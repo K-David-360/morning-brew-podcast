@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>Morning Brew Driver</title>
     <link>https://morningbrew.com</link>
@@ -9,6 +9,23 @@
     <itunes:image href="https://framerusercontent.com/images/tmPiaNWntCNFxenFgvkJRhykBE.png?width=612&amp;height=612" />
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Home Renovation Brew: American renovation nightmares and abandoned Japanese homes</title>
+      <description>A look at who’s nailing it…
+
+Good morning. If you’re reading this, that means you likely have either renovated your home, thought about renovating your home, or imagined owning a home so that you could renovate it. No matter what category you’re in, we’ve got you covered with a special edition that covers everything you need to know about the current state of home remodeling. We’ll surface the most popular trends, discuss whether house flipping is still worth it, and explain why your next project might be to move to Japan to fix up a remote mountain sanctuary.
+
+https://www.morningbrew.com/issues/home-renovation-brew</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-28.m4a" length="39366191" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-06-28</guid>
+      <pubDate>Sun, 28 Jun 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:20:23</itunes:duration>
+      <itunes:summary>A look at who’s nailing it…
+
+Good morning. If you’re reading this, that means you likely have either renovated your home, thought about renovating your home, or imagined owning a home so that you could renovate it. No matter what category you’re in, we’ve got you covered with a special edition that covers everything you need to know about the current state of home remodeling. We’ll surface the most popular trends, discuss whether house flipping is still worth it, and explain why your next project might be to move to Japan to fix up a remote mountain sanctuary.
+
+https://www.morningbrew.com/issues/home-renovation-brew</itunes:summary>
+    </item>
     <item>
       <title>Billionaire battle: Taxing Billionaires as the AI Market Slumps</title>
       <description>The fight over a California wealth tax is heating up...
@@ -25,7 +42,7 @@ https://www.morningbrew.com/issues/billionaire-battle</description>
 Congratulations. You made it through the full work week sandwiched in between two short ones. And at the end of the upcoming short one, you’ll even get fireworks to celebrate.
 
 https://www.morningbrew.com/issues/billionaire-battle</itunes:summary>
-      <podcast:transcript url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-27.vtt" type="text/vtt" />
+      <ns1:transcript url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-27.vtt" type="text/vtt" />
     </item>
     <item>
       <title>iFlation: The High Cost of Institutional Lag</title>
@@ -43,7 +60,7 @@ https://www.morningbrew.com/issues/iflation</description>
 Happy Friday. The final season of The Bear reportedly takes place over one night’s dinner service, like how each episode of The Pitt is one hour in a single ER shift.
 
 https://www.morningbrew.com/issues/iflation</itunes:summary>
-      <podcast:transcript url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-26.vtt" type="text/vtt" />
+      <ns1:transcript url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-26.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Betting on the Baconator: French heatwaves AI and the Wendy's squeeze</title>
@@ -61,7 +78,7 @@ https://www.morningbrew.com/issues/betting-on-the-baconater</description>
 Ho, ho, ho. Today, June 25, is Half-Christmas, marking the midway point between the start of the year and actual Christmas. That means it’s time to get serious about your naughty–nice ratio.
 
 https://www.morningbrew.com/issues/betting-on-the-baconater</itunes:summary>
-      <podcast:transcript url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-25.vtt" type="text/vtt" />
+      <ns1:transcript url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-25.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Race for your face: The Aggressive New Era of Hyper-monetization</title>
@@ -113,23 +130,6 @@ https://www.morningbrew.com/issues/to-infinity-and-even-farther</description>
 Welcome back, and HBD to…American fiat currency. On June 22, 1775, the Continental Congress created legal tender and authorized the printing of $2 million. If George Washington has never felt relatable, you should know that by 1778, he was already mad at inflation messing up his budget .
 
 https://www.morningbrew.com/issues/to-infinity-and-even-farther</itunes:summary>
-    </item>
-    <item>
-      <title>Prediction Markets Brew: Prediction markets profit from insider leaks</title>
-      <description>The weird world of betting on what's next...
-
-Good morning. If you’ve heard the word “Polymarket” more times this year than your own name, you’re not alone. Prediction markets are, quite simply, everywhere . They’re forming partnerships with major pro sports leagues, giving betting apps like DraftKings a scare, spoiling your favorite reality TV shows, and, well, getting some people sent to prison. Read on to become the expert at your next dinner party when someone inevitably mentions “Kalshi,” or use it as the topic of conversation at your Father’s Day celebration today to see who can predict what color tie Dad’s getting this year.
-
-https://www.morningbrew.com/issues/prediction-markets-brew</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-21.m4a" length="35763955" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-06-21</guid>
-      <pubDate>Sun, 21 Jun 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:18:31</itunes:duration>
-      <itunes:summary>The weird world of betting on what's next...
-
-Good morning. If you’ve heard the word “Polymarket” more times this year than your own name, you’re not alone. Prediction markets are, quite simply, everywhere . They’re forming partnerships with major pro sports leagues, giving betting apps like DraftKings a scare, spoiling your favorite reality TV shows, and, well, getting some people sent to prison. Read on to become the expert at your next dinner party when someone inevitably mentions “Kalshi,” or use it as the topic of conversation at your Father’s Day celebration today to see who can predict what color tie Dad’s getting this year.
-
-https://www.morningbrew.com/issues/prediction-markets-brew</itunes:summary>
     </item>
   </channel>
 </rss>
