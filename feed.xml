@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cooked: Why narcissistic CEOs are losing control</title>
+      <description>SCOTUS blocked the firing of a Fed governor...
+
+You made it halfway. It’s the final trading day of the first half of 2026. With half a year down, we thought it might be a good time to reflect on your New Year’s resolutions to see how you’re measuring up.
+
+https://www.morningbrew.com/issues/cooked</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-30.m4a" length="38093257" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-06-30</guid>
+      <pubDate>Tue, 30 Jun 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:19:44</itunes:duration>
+      <itunes:summary>SCOTUS blocked the firing of a Fed governor...
+
+You made it halfway. It’s the final trading day of the first half of 2026. With half a year down, we thought it might be a good time to reflect on your New Year’s resolutions to see how you’re measuring up.
+
+https://www.morningbrew.com/issues/cooked</itunes:summary>
+    </item>
+    <item>
       <title>Accelerated braking: US AI bans push businesses to China</title>
       <description>China’s AI is catching up to stalled-out US models…
 
@@ -113,23 +130,6 @@ https://www.morningbrew.com/issues/race-for-your-face</description>
 Hey there. Guinness World Records named an Australian air conditioner cleaner and honorary town crier as the loudest person in the world. The 58-year-old recorded the loudest ever shout by a human, at 122.4 decibels.
 
 https://www.morningbrew.com/issues/race-for-your-face</itunes:summary>
-    </item>
-    <item>
-      <title>Backroom deal: Fake influencer millions and zero dollar dates</title>
-      <description>A24 teams up Google's AI...
-
-Guten Morgen. We’re busy constructing an upcoming Sunday Special about home renovations, and we want to know if you have a horror story related to remodeling or repairing your living space. Whether a contractor accidentally bulldozed a load-bearing wall or you discovered a Victorian child poltergeist haunting your attic while you were fashioning it into a Zen den—we’re dying to hear about it.
-
-https://www.morningbrew.com/issues/backroom-deal</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-23.m4a" length="38492152" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-06-23</guid>
-      <pubDate>Tue, 23 Jun 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:56</itunes:duration>
-      <itunes:summary>A24 teams up Google's AI...
-
-Guten Morgen. We’re busy constructing an upcoming Sunday Special about home renovations, and we want to know if you have a horror story related to remodeling or repairing your living space. Whether a contractor accidentally bulldozed a load-bearing wall or you discovered a Victorian child poltergeist haunting your attic while you were fashioning it into a Zen den—we’re dying to hear about it.
-
-https://www.morningbrew.com/issues/backroom-deal</itunes:summary>
     </item>
   </channel>
 </rss>
