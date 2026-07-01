@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Firework: Why the AI jobpocalypse never happened</title>
+      <description>Stocks just had their best quarter since 2020...
+
+Glad you’re here. Today is not only the first day of the second half of the year, but it’s also a sacred day for baseball fans: Bobby Bonilla Day.
+
+https://www.morningbrew.com/issues/firework</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-01.m4a" length="38123886" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-01</guid>
+      <pubDate>Wed, 01 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:19:44</itunes:duration>
+      <itunes:summary>Stocks just had their best quarter since 2020...
+
+Glad you’re here. Today is not only the first day of the second half of the year, but it’s also a sacred day for baseball fans: Bobby Bonilla Day.
+
+https://www.morningbrew.com/issues/firework</itunes:summary>
+    </item>
+    <item>
       <title>Cooked: Why narcissistic CEOs are losing control</title>
       <description>SCOTUS blocked the firing of a Fed governor...
 
@@ -113,23 +130,6 @@ Ho, ho, ho. Today, June 25, is Half-Christmas, marking the midway point between 
 
 https://www.morningbrew.com/issues/betting-on-the-baconater</itunes:summary>
       <ns1:transcript url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-25.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Race for your face: The Aggressive New Era of Hyper-monetization</title>
-      <description>Meta unveils new, cheaper smart glasses...
-
-Hey there. Guinness World Records named an Australian air conditioner cleaner and honorary town crier as the loudest person in the world. The 58-year-old recorded the loudest ever shout by a human, at 122.4 decibels.
-
-https://www.morningbrew.com/issues/race-for-your-face</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-24.m4a" length="38394290" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-06-24</guid>
-      <pubDate>Wed, 24 Jun 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:53</itunes:duration>
-      <itunes:summary>Meta unveils new, cheaper smart glasses...
-
-Hey there. Guinness World Records named an Australian air conditioner cleaner and honorary town crier as the loudest person in the world. The 58-year-old recorded the loudest ever shout by a human, at 122.4 decibels.
-
-https://www.morningbrew.com/issues/race-for-your-face</itunes:summary>
     </item>
   </channel>
 </rss>
