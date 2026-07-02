@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cloud cover: Everything you buy is now a rental</title>
+      <description>Changes have arrived for student loans...
+
+Greetings. Did you know that today is the real Independence Day? The Continental Congress formally declared freedom from Great Britain on July 2, 1776, but approved the Declaration of Independence two days later. John Adams was so sure that July 2 would be the date of the holiday that he wrote, “It ought to be solemnized with Pomp and Parade, with Shews, Games, Sports, Guns, Bells, Bonfires, and Illuminations.”
+
+https://www.morningbrew.com/issues/in-the-clouds</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-02.m4a" length="40454630" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-02</guid>
+      <pubDate>Thu, 02 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:20:57</itunes:duration>
+      <itunes:summary>Changes have arrived for student loans...
+
+Greetings. Did you know that today is the real Independence Day? The Continental Congress formally declared freedom from Great Britain on July 2, 1776, but approved the Declaration of Independence two days later. John Adams was so sure that July 2 would be the date of the holiday that he wrote, “It ought to be solemnized with Pomp and Parade, with Shews, Games, Sports, Guns, Bells, Bonfires, and Illuminations.”
+
+https://www.morningbrew.com/issues/in-the-clouds</itunes:summary>
+    </item>
+    <item>
       <title>Firework: Why the AI jobpocalypse never happened</title>
       <description>Stocks just had their best quarter since 2020...
 
@@ -112,24 +129,6 @@ Happy Friday. The final season of The Bear reportedly takes place over one night
 
 https://www.morningbrew.com/issues/iflation</itunes:summary>
       <ns1:transcript url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-26.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Betting on the Baconator: French heatwaves AI and the Wendy's squeeze</title>
-      <description>Wendy's is the latest meme stock...
-
-Ho, ho, ho. Today, June 25, is Half-Christmas, marking the midway point between the start of the year and actual Christmas. That means it’s time to get serious about your naughty–nice ratio.
-
-https://www.morningbrew.com/issues/betting-on-the-baconater</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-25.m4a" length="35479333" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-06-25</guid>
-      <pubDate>Thu, 25 Jun 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:18:22</itunes:duration>
-      <itunes:summary>Wendy's is the latest meme stock...
-
-Ho, ho, ho. Today, June 25, is Half-Christmas, marking the midway point between the start of the year and actual Christmas. That means it’s time to get serious about your naughty–nice ratio.
-
-https://www.morningbrew.com/issues/betting-on-the-baconater</itunes:summary>
-      <ns1:transcript url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-25.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
