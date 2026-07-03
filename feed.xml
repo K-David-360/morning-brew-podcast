@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Red card: Broken rules of the velvet rope economy</title>
+      <description>US jobs report disappoints...
+
+Happy Friday. We hope you’ve got your hot dogs purchased and a prime fireworks viewing spot all picked out for tomorrow. Like many of you, the Brew will be taking the day off to celebrate July Fourth with the most American activity of all: drinking from red Solo cups.
+
+https://www.morningbrew.com/issues/red-card</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-03.m4a" length="30628073" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-03</guid>
+      <pubDate>Fri, 03 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:15:51</itunes:duration>
+      <itunes:summary>US jobs report disappoints...
+
+Happy Friday. We hope you’ve got your hot dogs purchased and a prime fireworks viewing spot all picked out for tomorrow. Like many of you, the Brew will be taking the day off to celebrate July Fourth with the most American activity of all: drinking from red Solo cups.
+
+https://www.morningbrew.com/issues/red-card</itunes:summary>
+    </item>
+    <item>
       <title>Cloud cover: Everything you buy is now a rental</title>
       <description>Changes have arrived for student loans...
 
@@ -111,24 +128,6 @@ Congratulations. You made it through the full work week sandwiched in between tw
 
 https://www.morningbrew.com/issues/billionaire-battle</itunes:summary>
       <ns1:transcript url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-27.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>iFlation: The High Cost of Institutional Lag</title>
-      <description>Apple jacks up prices due to AI inflation...
-
-Happy Friday. The final season of The Bear reportedly takes place over one night’s dinner service, like how each episode of The Pitt is one hour in a single ER shift.
-
-https://www.morningbrew.com/issues/iflation</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-26.m4a" length="38915723" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-06-26</guid>
-      <pubDate>Fri, 26 Jun 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:20:09</itunes:duration>
-      <itunes:summary>Apple jacks up prices due to AI inflation...
-
-Happy Friday. The final season of The Bear reportedly takes place over one night’s dinner service, like how each episode of The Pitt is one hour in a single ER shift.
-
-https://www.morningbrew.com/issues/iflation</itunes:summary>
-      <ns1:transcript url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-26.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
