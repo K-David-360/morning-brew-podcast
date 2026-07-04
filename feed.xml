@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Morning Brew Driver</title>
     <link>https://morningbrew.com</link>
@@ -9,6 +9,23 @@
     <itunes:image href="https://framerusercontent.com/images/tmPiaNWntCNFxenFgvkJRhykBE.png?width=612&amp;height=612" />
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Red card: Why Markets Punished Tesla Record Sales</title>
+      <description>US jobs report disappoints...
+
+Happy Friday. We hope you’ve got your hot dogs purchased and a prime fireworks viewing spot all picked out for tomorrow. Like many of you, the Brew will be taking the day off to celebrate July Fourth with the most American activity of all: drinking from red Solo cups.
+
+https://www.morningbrew.com/issues/red-card</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-04.m4a" length="36977154" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-04</guid>
+      <pubDate>Sat, 04 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:19:09</itunes:duration>
+      <itunes:summary>US jobs report disappoints...
+
+Happy Friday. We hope you’ve got your hot dogs purchased and a prime fireworks viewing spot all picked out for tomorrow. Like many of you, the Brew will be taking the day off to celebrate July Fourth with the most American activity of all: drinking from red Solo cups.
+
+https://www.morningbrew.com/issues/red-card</itunes:summary>
+    </item>
     <item>
       <title>Red card: Broken rules of the velvet rope economy</title>
       <description>US jobs report disappoints...
@@ -110,24 +127,6 @@ https://www.morningbrew.com/issues/home-renovation-brew</description>
 Good morning. If you’re reading this, that means you likely have either renovated your home, thought about renovating your home, or imagined owning a home so that you could renovate it. No matter what category you’re in, we’ve got you covered with a special edition that covers everything you need to know about the current state of home remodeling. We’ll surface the most popular trends, discuss whether house flipping is still worth it, and explain why your next project might be to move to Japan to fix up a remote mountain sanctuary.
 
 https://www.morningbrew.com/issues/home-renovation-brew</itunes:summary>
-    </item>
-    <item>
-      <title>Billionaire battle: Taxing Billionaires as the AI Market Slumps</title>
-      <description>The fight over a California wealth tax is heating up...
-
-Congratulations. You made it through the full work week sandwiched in between two short ones. And at the end of the upcoming short one, you’ll even get fireworks to celebrate.
-
-https://www.morningbrew.com/issues/billionaire-battle</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-27.m4a" length="35482345" type="audio/mp4" />
-      <guid isPermaLink="false">morning-brew-2026-06-27</guid>
-      <pubDate>Sat, 27 Jun 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:18:22</itunes:duration>
-      <itunes:summary>The fight over a California wealth tax is heating up...
-
-Congratulations. You made it through the full work week sandwiched in between two short ones. And at the end of the upcoming short one, you’ll even get fireworks to celebrate.
-
-https://www.morningbrew.com/issues/billionaire-battle</itunes:summary>
-      <ns1:transcript url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-27.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
