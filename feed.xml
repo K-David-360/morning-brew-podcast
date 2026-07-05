@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>250 Years of Business Brew: From Rented Pineapples to Trillionaire Rockets</title>
+      <description>How business shaped the US...
+
+Good morning. The US turned 250 yesterday, which, other than making us wonder how we’d explain the existence of Hawk Tuah to George Washington, has got us thinking about the fascinating evolution of business in America. How’d we go from an agrarian society to one with Elon Musk and SpaceX? What are the most important US companies in history, and what will be the most important moving forward? Those questions and more are answered in today’s special edition delving into 250 years of American biz.
+
+https://www.morningbrew.com/issues/250-years-of-business-brew</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-05.m4a" length="43561575" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-05</guid>
+      <pubDate>Sun, 05 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:22:33</itunes:duration>
+      <itunes:summary>How business shaped the US...
+
+Good morning. The US turned 250 yesterday, which, other than making us wonder how we’d explain the existence of Hawk Tuah to George Washington, has got us thinking about the fascinating evolution of business in America. How’d we go from an agrarian society to one with Elon Musk and SpaceX? What are the most important US companies in history, and what will be the most important moving forward? Those questions and more are answered in today’s special edition delving into 250 years of American biz.
+
+https://www.morningbrew.com/issues/250-years-of-business-brew</itunes:summary>
+    </item>
+    <item>
       <title>Red card: Why Markets Punished Tesla Record Sales</title>
       <description>US jobs report disappoints...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/accelerated-braking</description>
 Buongiorno. Over 10,000 Vespas buzzed around Rome on Saturday to celebrate the iconic scooter’s 80th anniversary. Fun fact: Vespa is Italian for “wasp.” You can see an encore swarm this week here in the States by leaving the watermelon uncovered outside for five seconds.
 
 https://www.morningbrew.com/issues/accelerated-braking</itunes:summary>
-    </item>
-    <item>
-      <title>Home Renovation Brew: American renovation nightmares and abandoned Japanese homes</title>
-      <description>A look at who’s nailing it…
-
-Good morning. If you’re reading this, that means you likely have either renovated your home, thought about renovating your home, or imagined owning a home so that you could renovate it. No matter what category you’re in, we’ve got you covered with a special edition that covers everything you need to know about the current state of home remodeling. We’ll surface the most popular trends, discuss whether house flipping is still worth it, and explain why your next project might be to move to Japan to fix up a remote mountain sanctuary.
-
-https://www.morningbrew.com/issues/home-renovation-brew</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-28.m4a" length="39366191" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-06-28</guid>
-      <pubDate>Sun, 28 Jun 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:20:23</itunes:duration>
-      <itunes:summary>A look at who’s nailing it…
-
-Good morning. If you’re reading this, that means you likely have either renovated your home, thought about renovating your home, or imagined owning a home so that you could renovate it. No matter what category you’re in, we’ve got you covered with a special edition that covers everything you need to know about the current state of home remodeling. We’ll surface the most popular trends, discuss whether house flipping is still worth it, and explain why your next project might be to move to Japan to fix up a remote mountain sanctuary.
-
-https://www.morningbrew.com/issues/home-renovation-brew</itunes:summary>
     </item>
   </channel>
 </rss>
