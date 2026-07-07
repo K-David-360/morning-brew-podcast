@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Xbox reset: Why the tech blank check finally bounced</title>
+      <description>Microsoft is making cuts at its gaming division...
+
+Mornin’. The long weekend may be behind us, but we’ve still got America on our minds. So, we’re whipping up a Sunday Special on National Parks. And we need your help. Tell us which National Park is your favorite and why you think it’s the best here . We’ll feature our favorite responses in Sunday’s newsletter. Until then, happy trails.
+
+https://www.morningbrew.com/issues/xbox-reset</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-07.m4a" length="35510709" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-07</guid>
+      <pubDate>Tue, 07 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:18:23</itunes:duration>
+      <itunes:summary>Microsoft is making cuts at its gaming division...
+
+Mornin’. The long weekend may be behind us, but we’ve still got America on our minds. So, we’re whipping up a Sunday Special on National Parks. And we need your help. Tell us which National Park is your favorite and why you think it’s the best here . We’ll feature our favorite responses in Sunday’s newsletter. Until then, happy trails.
+
+https://www.morningbrew.com/issues/xbox-reset</itunes:summary>
+    </item>
+    <item>
       <title>250 Years of Business Brew: From Rented Pineapples to Trillionaire Rockets</title>
       <description>How business shaped the US...
 
@@ -93,40 +110,6 @@ https://www.morningbrew.com/issues/firework</description>
 Glad you’re here. Today is not only the first day of the second half of the year, but it’s also a sacred day for baseball fans: Bobby Bonilla Day.
 
 https://www.morningbrew.com/issues/firework</itunes:summary>
-    </item>
-    <item>
-      <title>Cooked: Why narcissistic CEOs are losing control</title>
-      <description>SCOTUS blocked the firing of a Fed governor...
-
-You made it halfway. It’s the final trading day of the first half of 2026. With half a year down, we thought it might be a good time to reflect on your New Year’s resolutions to see how you’re measuring up.
-
-https://www.morningbrew.com/issues/cooked</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-30.m4a" length="38093257" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-06-30</guid>
-      <pubDate>Tue, 30 Jun 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:44</itunes:duration>
-      <itunes:summary>SCOTUS blocked the firing of a Fed governor...
-
-You made it halfway. It’s the final trading day of the first half of 2026. With half a year down, we thought it might be a good time to reflect on your New Year’s resolutions to see how you’re measuring up.
-
-https://www.morningbrew.com/issues/cooked</itunes:summary>
-    </item>
-    <item>
-      <title>Accelerated braking: US AI bans push businesses to China</title>
-      <description>China’s AI is catching up to stalled-out US models…
-
-Buongiorno. Over 10,000 Vespas buzzed around Rome on Saturday to celebrate the iconic scooter’s 80th anniversary. Fun fact: Vespa is Italian for “wasp.” You can see an encore swarm this week here in the States by leaving the watermelon uncovered outside for five seconds.
-
-https://www.morningbrew.com/issues/accelerated-braking</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-06-29.m4a" length="41106048" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-06-29</guid>
-      <pubDate>Mon, 29 Jun 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:21:17</itunes:duration>
-      <itunes:summary>China’s AI is catching up to stalled-out US models…
-
-Buongiorno. Over 10,000 Vespas buzzed around Rome on Saturday to celebrate the iconic scooter’s 80th anniversary. Fun fact: Vespa is Italian for “wasp.” You can see an encore swarm this week here in the States by leaving the watermelon uncovered outside for five seconds.
-
-https://www.morningbrew.com/issues/accelerated-braking</itunes:summary>
     </item>
   </channel>
 </rss>
