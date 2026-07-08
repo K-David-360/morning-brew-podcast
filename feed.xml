@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Hot new bombshell: Alibaba cloned Anthropic's AI for pennies</title>
+      <description>Battle between US and China over AI is escalating...
+
+Glad you could make it. Here’s some good news to share at your next brunch: It turns out that the Earth may not be swallowed by the sun in 5 billion years, according to a new study .
+
+https://www.morningbrew.com/issues/hot-new-bombshell</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-08.m4a" length="32683160" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-08</guid>
+      <pubDate>Wed, 08 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:16:55</itunes:duration>
+      <itunes:summary>Battle between US and China over AI is escalating...
+
+Glad you could make it. Here’s some good news to share at your next brunch: It turns out that the Earth may not be swallowed by the sun in 5 billion years, according to a new study .
+
+https://www.morningbrew.com/issues/hot-new-bombshell</itunes:summary>
+    </item>
+    <item>
       <title>Xbox reset: Why the tech blank check finally bounced</title>
       <description>Microsoft is making cuts at its gaming division...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/in-the-clouds</description>
 Greetings. Did you know that today is the real Independence Day? The Continental Congress formally declared freedom from Great Britain on July 2, 1776, but approved the Declaration of Independence two days later. John Adams was so sure that July 2 would be the date of the holiday that he wrote, “It ought to be solemnized with Pomp and Parade, with Shews, Games, Sports, Guns, Bells, Bonfires, and Illuminations.”
 
 https://www.morningbrew.com/issues/in-the-clouds</itunes:summary>
-    </item>
-    <item>
-      <title>Firework: Why the AI jobpocalypse never happened</title>
-      <description>Stocks just had their best quarter since 2020...
-
-Glad you’re here. Today is not only the first day of the second half of the year, but it’s also a sacred day for baseball fans: Bobby Bonilla Day.
-
-https://www.morningbrew.com/issues/firework</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-01.m4a" length="38123886" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-01</guid>
-      <pubDate>Wed, 01 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:44</itunes:duration>
-      <itunes:summary>Stocks just had their best quarter since 2020...
-
-Glad you’re here. Today is not only the first day of the second half of the year, but it’s also a sacred day for baseball fans: Bobby Bonilla Day.
-
-https://www.morningbrew.com/issues/firework</itunes:summary>
     </item>
   </channel>
 </rss>
