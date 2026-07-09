@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Like AI never happened: Nvidia's Trillion Dollar Slide and Border Chaos</title>
+      <description>Why Nvidia's stock is so cheap now...
+
+Happy Thursday to you all. And a happy unofficial Joe Jonas breakup day to the Taylor Swift fans who have been observing the date mentioned in “Last Kiss” since the Speak Now era. We debated giving the pop star yet another mention in the newsletter so soon after all the news coverage of her wedding, but we ultimately decided that it’s better to have Swifties with us than against us (and we really do want to see that dress).
+
+https://www.morningbrew.com/issues/like-ai-never-happened</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-09.m4a" length="37592713" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-09</guid>
+      <pubDate>Thu, 09 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:19:28</itunes:duration>
+      <itunes:summary>Why Nvidia's stock is so cheap now...
+
+Happy Thursday to you all. And a happy unofficial Joe Jonas breakup day to the Taylor Swift fans who have been observing the date mentioned in “Last Kiss” since the Speak Now era. We debated giving the pop star yet another mention in the newsletter so soon after all the news coverage of her wedding, but we ultimately decided that it’s better to have Swifties with us than against us (and we really do want to see that dress).
+
+https://www.morningbrew.com/issues/like-ai-never-happened</itunes:summary>
+    </item>
+    <item>
       <title>Hot new bombshell: Alibaba cloned Anthropic's AI for pennies</title>
       <description>Battle between US and China over AI is escalating...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/red-card</description>
 Happy Friday. We hope you’ve got your hot dogs purchased and a prime fireworks viewing spot all picked out for tomorrow. Like many of you, the Brew will be taking the day off to celebrate July Fourth with the most American activity of all: drinking from red Solo cups.
 
 https://www.morningbrew.com/issues/red-card</itunes:summary>
-    </item>
-    <item>
-      <title>Cloud cover: Everything you buy is now a rental</title>
-      <description>Changes have arrived for student loans...
-
-Greetings. Did you know that today is the real Independence Day? The Continental Congress formally declared freedom from Great Britain on July 2, 1776, but approved the Declaration of Independence two days later. John Adams was so sure that July 2 would be the date of the holiday that he wrote, “It ought to be solemnized with Pomp and Parade, with Shews, Games, Sports, Guns, Bells, Bonfires, and Illuminations.”
-
-https://www.morningbrew.com/issues/in-the-clouds</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-02.m4a" length="40454630" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-02</guid>
-      <pubDate>Thu, 02 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:20:57</itunes:duration>
-      <itunes:summary>Changes have arrived for student loans...
-
-Greetings. Did you know that today is the real Independence Day? The Continental Congress formally declared freedom from Great Britain on July 2, 1776, but approved the Declaration of Independence two days later. John Adams was so sure that July 2 would be the date of the holiday that he wrote, “It ought to be solemnized with Pomp and Parade, with Shews, Games, Sports, Guns, Bells, Bonfires, and Illuminations.”
-
-https://www.morningbrew.com/issues/in-the-clouds</itunes:summary>
     </item>
   </channel>
 </rss>
