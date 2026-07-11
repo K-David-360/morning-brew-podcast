@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Still reeling: Netflix becomes cable while EU targets scrolling</title>
+      <description>Netflix is reportedly eyeing live TV channels...
+
+Happy 7/11. Go get yourself a free Slurpee and a brain freeze.
+
+https://www.morningbrew.com/issues/still-reeling</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-11.m4a" length="45688402" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-11</guid>
+      <pubDate>Sat, 11 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:23:40</itunes:duration>
+      <itunes:summary>Netflix is reportedly eyeing live TV channels...
+
+Happy 7/11. Go get yourself a free Slurpee and a brain freeze.
+
+https://www.morningbrew.com/issues/still-reeling</itunes:summary>
+    </item>
+    <item>
       <title>Memory menu: Modern software on twentieth century hardware</title>
       <description>A $1 trillion chipmaker goes public in the US today...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/250-years-of-business-brew</description>
 Good morning. The US turned 250 yesterday, which, other than making us wonder how we’d explain the existence of Hawk Tuah to George Washington, has got us thinking about the fascinating evolution of business in America. How’d we go from an agrarian society to one with Elon Musk and SpaceX? What are the most important US companies in history, and what will be the most important moving forward? Those questions and more are answered in today’s special edition delving into 250 years of American biz.
 
 https://www.morningbrew.com/issues/250-years-of-business-brew</itunes:summary>
-    </item>
-    <item>
-      <title>Red card: Why Markets Punished Tesla Record Sales</title>
-      <description>US jobs report disappoints...
-
-Happy Friday. We hope you’ve got your hot dogs purchased and a prime fireworks viewing spot all picked out for tomorrow. Like many of you, the Brew will be taking the day off to celebrate July Fourth with the most American activity of all: drinking from red Solo cups.
-
-https://www.morningbrew.com/issues/red-card</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-04.m4a" length="36977154" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-04</guid>
-      <pubDate>Sat, 04 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:09</itunes:duration>
-      <itunes:summary>US jobs report disappoints...
-
-Happy Friday. We hope you’ve got your hot dogs purchased and a prime fireworks viewing spot all picked out for tomorrow. Like many of you, the Brew will be taking the day off to celebrate July Fourth with the most American activity of all: drinking from red Solo cups.
-
-https://www.morningbrew.com/issues/red-card</itunes:summary>
     </item>
   </channel>
 </rss>
