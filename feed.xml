@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>National Parks Brew: The broken economics of National Parks</title>
+      <description>A look outside without the bug bites...
+
+Good morning. Put on your Patagonia, open up AllTrails, and Google “what to do if bear,” because we’re talkin’ national parks, baby. From Mount Rainier to Death Valley, US national parks feature some of the most stunning ecosystems and geological features in the world. We’ll take you through the history of the National Park Service, explain the economics behind the parks, outline their unique charms (and dangers), and throw in some tips to make the best of your excursion. Welcome to Morning Brew Park.
+
+https://www.morningbrew.com/issues/national-parks-brew</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-12.m4a" length="41539334" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-12</guid>
+      <pubDate>Sun, 12 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:21:31</itunes:duration>
+      <itunes:summary>A look outside without the bug bites...
+
+Good morning. Put on your Patagonia, open up AllTrails, and Google “what to do if bear,” because we’re talkin’ national parks, baby. From Mount Rainier to Death Valley, US national parks feature some of the most stunning ecosystems and geological features in the world. We’ll take you through the history of the National Park Service, explain the economics behind the parks, outline their unique charms (and dangers), and throw in some tips to make the best of your excursion. Welcome to Morning Brew Park.
+
+https://www.morningbrew.com/issues/national-parks-brew</itunes:summary>
+    </item>
+    <item>
       <title>Still reeling: Netflix becomes cable while EU targets scrolling</title>
       <description>Netflix is reportedly eyeing live TV channels...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/xbox-reset</description>
 Mornin’. The long weekend may be behind us, but we’ve still got America on our minds. So, we’re whipping up a Sunday Special on National Parks. And we need your help. Tell us which National Park is your favorite and why you think it’s the best here . We’ll feature our favorite responses in Sunday’s newsletter. Until then, happy trails.
 
 https://www.morningbrew.com/issues/xbox-reset</itunes:summary>
-    </item>
-    <item>
-      <title>250 Years of Business Brew: From Rented Pineapples to Trillionaire Rockets</title>
-      <description>How business shaped the US...
-
-Good morning. The US turned 250 yesterday, which, other than making us wonder how we’d explain the existence of Hawk Tuah to George Washington, has got us thinking about the fascinating evolution of business in America. How’d we go from an agrarian society to one with Elon Musk and SpaceX? What are the most important US companies in history, and what will be the most important moving forward? Those questions and more are answered in today’s special edition delving into 250 years of American biz.
-
-https://www.morningbrew.com/issues/250-years-of-business-brew</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-05.m4a" length="43561575" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-05</guid>
-      <pubDate>Sun, 05 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:22:33</itunes:duration>
-      <itunes:summary>How business shaped the US...
-
-Good morning. The US turned 250 yesterday, which, other than making us wonder how we’d explain the existence of Hawk Tuah to George Washington, has got us thinking about the fascinating evolution of business in America. How’d we go from an agrarian society to one with Elon Musk and SpaceX? What are the most important US companies in history, and what will be the most important moving forward? Those questions and more are answered in today’s special edition delving into 250 years of American biz.
-
-https://www.morningbrew.com/issues/250-years-of-business-brew</itunes:summary>
     </item>
   </channel>
 </rss>
