@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Super cycle: The AI boom hits physical reality</title>
+      <description>US banks report record profits...
+
+Salutations. Today is the day after the MLB All-Star Game, which is usually the slowest sports day of the year, with none of the Big Four North American leagues holding competitive games.
+
+https://www.morningbrew.com/issues/super-cycle</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-15.m4a" length="42591168" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-15</guid>
+      <pubDate>Wed, 15 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:22:03</itunes:duration>
+      <itunes:summary>US banks report record profits...
+
+Salutations. Today is the day after the MLB All-Star Game, which is usually the slowest sports day of the year, with none of the Big Four North American leagues holding competitive games.
+
+https://www.morningbrew.com/issues/super-cycle</itunes:summary>
+    </item>
+    <item>
       <title>Infinite pasta glitch: Thirty million dollar tolls and infinite pasta</title>
       <description>The US may charge ships for Hormuz protection...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/like-ai-never-happened</description>
 Happy Thursday to you all. And a happy unofficial Joe Jonas breakup day to the Taylor Swift fans who have been observing the date mentioned in “Last Kiss” since the Speak Now era. We debated giving the pop star yet another mention in the newsletter so soon after all the news coverage of her wedding, but we ultimately decided that it’s better to have Swifties with us than against us (and we really do want to see that dress).
 
 https://www.morningbrew.com/issues/like-ai-never-happened</itunes:summary>
-    </item>
-    <item>
-      <title>Hot new bombshell: Alibaba cloned Anthropic's AI for pennies</title>
-      <description>Battle between US and China over AI is escalating...
-
-Glad you could make it. Here’s some good news to share at your next brunch: It turns out that the Earth may not be swallowed by the sun in 5 billion years, according to a new study .
-
-https://www.morningbrew.com/issues/hot-new-bombshell</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-08.m4a" length="32683160" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-08</guid>
-      <pubDate>Wed, 08 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:16:55</itunes:duration>
-      <itunes:summary>Battle between US and China over AI is escalating...
-
-Glad you could make it. Here’s some good news to share at your next brunch: It turns out that the Earth may not be swallowed by the sun in 5 billion years, according to a new study .
-
-https://www.morningbrew.com/issues/hot-new-bombshell</itunes:summary>
     </item>
   </channel>
 </rss>
