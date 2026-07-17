@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The sirens call: Broke shoppers and thousand dollar movie tickets</title>
+      <description>Christopher Nolan’s ‘The Odyssey’ is finally here...
+
+Happy Friday. Today, July 17, is World Emoji Day. Wanna know why?
+
+https://www.morningbrew.com/issues/the-sirens-call</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-17.m4a" length="42317752" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-17</guid>
+      <pubDate>Fri, 17 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:21:55</itunes:duration>
+      <itunes:summary>Christopher Nolan’s ‘The Odyssey’ is finally here...
+
+Happy Friday. Today, July 17, is World Emoji Day. Wanna know why?
+
+https://www.morningbrew.com/issues/the-sirens-call</itunes:summary>
+    </item>
+    <item>
       <title>A matter of time: Why We Engineer a Frictionless Life</title>
       <description>Congress considers ditching the clock switch...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/still-reeling</description>
 Happy 7/11. Go get yourself a free Slurpee and a brain freeze.
 
 https://www.morningbrew.com/issues/still-reeling</itunes:summary>
-    </item>
-    <item>
-      <title>Memory menu: Modern software on twentieth century hardware</title>
-      <description>A $1 trillion chipmaker goes public in the US today...
-
-Happy Friday. Yesterday, Hasbro launched “Blooms by Play-Doh,” which is not an elaborate 30 Rock joke but rather a real thing the toymaker is selling to cater to adults . Using the same compound you used when you were five to construct rainbow turds, Blooms is instead “an elevated way to craft realistic floral arrangements,” the company said.
-
-https://www.morningbrew.com/issues/memory-menu</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-10.m4a" length="35970142" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-10</guid>
-      <pubDate>Fri, 10 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:18:38</itunes:duration>
-      <itunes:summary>A $1 trillion chipmaker goes public in the US today...
-
-Happy Friday. Yesterday, Hasbro launched “Blooms by Play-Doh,” which is not an elaborate 30 Rock joke but rather a real thing the toymaker is selling to cater to adults . Using the same compound you used when you were five to construct rainbow turds, Blooms is instead “an elevated way to craft realistic floral arrangements,” the company said.
-
-https://www.morningbrew.com/issues/memory-menu</itunes:summary>
     </item>
   </channel>
 </rss>
