@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Catching up: China's Kimi K3 undercuts Silicon Valley</title>
+      <description>A Chinese AI model shocked Silicon Valley...
+
+It’s time! If you thought human UFC fighters were tough, you should see the robots coming for their jobs. This week, during a humanoid robot fight night in China, one competitor nearly lost its head, but kept on swinging. Though it ultimately lost the bout (once its decapitation was complete), it was still able to hang its head high. Higher, actually.
+
+https://www.morningbrew.com/issues/catching-up</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-18.m4a" length="39964569" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-18</guid>
+      <pubDate>Sat, 18 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:20:42</itunes:duration>
+      <itunes:summary>A Chinese AI model shocked Silicon Valley...
+
+It’s time! If you thought human UFC fighters were tough, you should see the robots coming for their jobs. This week, during a humanoid robot fight night in China, one competitor nearly lost its head, but kept on swinging. Though it ultimately lost the bout (once its decapitation was complete), it was still able to hang its head high. Higher, actually.
+
+https://www.morningbrew.com/issues/catching-up</itunes:summary>
+    </item>
+    <item>
       <title>The sirens call: Broke shoppers and thousand dollar movie tickets</title>
       <description>Christopher Nolan’s ‘The Odyssey’ is finally here...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/national-parks-brew</description>
 Good morning. Put on your Patagonia, open up AllTrails, and Google “what to do if bear,” because we’re talkin’ national parks, baby. From Mount Rainier to Death Valley, US national parks feature some of the most stunning ecosystems and geological features in the world. We’ll take you through the history of the National Park Service, explain the economics behind the parks, outline their unique charms (and dangers), and throw in some tips to make the best of your excursion. Welcome to Morning Brew Park.
 
 https://www.morningbrew.com/issues/national-parks-brew</itunes:summary>
-    </item>
-    <item>
-      <title>Still reeling: Netflix becomes cable while EU targets scrolling</title>
-      <description>Netflix is reportedly eyeing live TV channels...
-
-Happy 7/11. Go get yourself a free Slurpee and a brain freeze.
-
-https://www.morningbrew.com/issues/still-reeling</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-11.m4a" length="45688402" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-11</guid>
-      <pubDate>Sat, 11 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:23:40</itunes:duration>
-      <itunes:summary>Netflix is reportedly eyeing live TV channels...
-
-Happy 7/11. Go get yourself a free Slurpee and a brain freeze.
-
-https://www.morningbrew.com/issues/still-reeling</itunes:summary>
     </item>
   </channel>
 </rss>
