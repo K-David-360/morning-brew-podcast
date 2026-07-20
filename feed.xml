@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Upsizing: Million dollar jackets and the housing gridlock</title>
+      <description>The World Cup generated billions in US economic activity...
+
+Fancy that. One of the black leather Tom Ford jackets worn by Nvidia CEO Jensen Huang sold at a Sotheby’s auction on Friday for $960,000 . That’s about 9,900% more than the jacket retails for, simply because Huang wore it at a Foxconn event in Taipei, Taiwan, in 2023.
+
+https://www.morningbrew.com/issues/upsizing</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-20.m4a" length="39503646" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:20:27</itunes:duration>
+      <itunes:summary>The World Cup generated billions in US economic activity...
+
+Fancy that. One of the black leather Tom Ford jackets worn by Nvidia CEO Jensen Huang sold at a Sotheby’s auction on Friday for $960,000 . That’s about 9,900% more than the jacket retails for, simply because Huang wore it at a Foxconn event in Taipei, Taiwan, in 2023.
+
+https://www.morningbrew.com/issues/upsizing</itunes:summary>
+    </item>
+    <item>
       <title>Design Brew: How fonts and logos steer your behavior</title>
       <description>From iconic brands to impossible maps...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/infinite-pasta-glitch</description>
 Vive le 14 juillet! Of course, in France they don’t call it Bastille Day but rather La Fête Nationale (the national celebration). Call it what you like, but here at the Brew, we’ll take any excuse to eat a croissant and dream of retiring at 62 64.
 
 https://www.morningbrew.com/issues/infinite-pasta-glitch</itunes:summary>
-    </item>
-    <item>
-      <title>Apple of discord: Apple sues OpenAI over hardware espionage</title>
-      <description>Inside Apple's accusations against OpenAI...
-
-G’day. The noses at Bath &amp; Body Works are on the hunt for the next billion-dollar scent to follow its classic “Japanese Cherry Blossom.” Despite millions of dollars of research and development, the New York Times says, no one knows why some scents take off while others end up in the discount section.
-
-https://www.morningbrew.com/issues/apple-of-discord</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-13.m4a" length="38358432" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-13</guid>
-      <pubDate>Mon, 13 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:52</itunes:duration>
-      <itunes:summary>Inside Apple's accusations against OpenAI...
-
-G’day. The noses at Bath &amp; Body Works are on the hunt for the next billion-dollar scent to follow its classic “Japanese Cherry Blossom.” Despite millions of dollars of research and development, the New York Times says, no one knows why some scents take off while others end up in the discount section.
-
-https://www.morningbrew.com/issues/apple-of-discord</itunes:summary>
     </item>
   </channel>
 </rss>
