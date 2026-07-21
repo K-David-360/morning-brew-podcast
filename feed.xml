@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Lettuce lurch: Supply chain whiplash from lettuce to gas</title>
+      <description>The FDA backtracks but still eyes the iceberg...
+
+Just brew it. We, a newsletter named for your favorite morning beverage, are delighted to report that the American Heart Association (AHA) has deemed it safe—and even potentially beneficial—for most adults to drink up to five cups of coffee per day. In addition to keeping you awake at that 9am meeting, the AHA said the ~400 milligrams of caffeine from three to five cups of joe has been linked to a lower risk of heart disease, stroke, and Type 2 diabetes. However, the AHA did not mention what being around a colleague who just downed five cups of coffee does to your blood pressure.
+
+https://www.morningbrew.com/issues/lettuce-lurch</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-21.m4a" length="31632820" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:16:23</itunes:duration>
+      <itunes:summary>The FDA backtracks but still eyes the iceberg...
+
+Just brew it. We, a newsletter named for your favorite morning beverage, are delighted to report that the American Heart Association (AHA) has deemed it safe—and even potentially beneficial—for most adults to drink up to five cups of coffee per day. In addition to keeping you awake at that 9am meeting, the AHA said the ~400 milligrams of caffeine from three to five cups of joe has been linked to a lower risk of heart disease, stroke, and Type 2 diabetes. However, the AHA did not mention what being around a colleague who just downed five cups of coffee does to your blood pressure.
+
+https://www.morningbrew.com/issues/lettuce-lurch</itunes:summary>
+    </item>
+    <item>
       <title>Upsizing: Million dollar jackets and the housing gridlock</title>
       <description>The World Cup generated billions in US economic activity...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/super-cycle</description>
 Salutations. Today is the day after the MLB All-Star Game, which is usually the slowest sports day of the year, with none of the Big Four North American leagues holding competitive games.
 
 https://www.morningbrew.com/issues/super-cycle</itunes:summary>
-    </item>
-    <item>
-      <title>Infinite pasta glitch: Thirty million dollar tolls and infinite pasta</title>
-      <description>The US may charge ships for Hormuz protection...
-
-Vive le 14 juillet! Of course, in France they don’t call it Bastille Day but rather La Fête Nationale (the national celebration). Call it what you like, but here at the Brew, we’ll take any excuse to eat a croissant and dream of retiring at 62 64.
-
-https://www.morningbrew.com/issues/infinite-pasta-glitch</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-14.m4a" length="37865382" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-14</guid>
-      <pubDate>Tue, 14 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:36</itunes:duration>
-      <itunes:summary>The US may charge ships for Hormuz protection...
-
-Vive le 14 juillet! Of course, in France they don’t call it Bastille Day but rather La Fête Nationale (the national celebration). Call it what you like, but here at the Brew, we’ll take any excuse to eat a croissant and dream of retiring at 62 64.
-
-https://www.morningbrew.com/issues/infinite-pasta-glitch</itunes:summary>
     </item>
   </channel>
 </rss>
