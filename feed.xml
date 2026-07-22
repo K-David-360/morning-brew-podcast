@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The heat is on: Miami is now pricier than New York</title>
+      <description>Miami is now more expensive than NYC...
+
+Hear ye, hear ye! Big Boy’s comin’. The biggest operating steam locomotive in the world, nicknamed Big Boy, is currently on a coast-to-coast US tour, thrilling onlookers with its hugeness. Weighing 1.2 million pounds, the absolute unit is reportedly making grown men cry at every stop.
+
+https://www.morningbrew.com/issues/the-heat-is-on</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-22.m4a" length="34493985" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:17:52</itunes:duration>
+      <itunes:summary>Miami is now more expensive than NYC...
+
+Hear ye, hear ye! Big Boy’s comin’. The biggest operating steam locomotive in the world, nicknamed Big Boy, is currently on a coast-to-coast US tour, thrilling onlookers with its hugeness. Weighing 1.2 million pounds, the absolute unit is reportedly making grown men cry at every stop.
+
+https://www.morningbrew.com/issues/the-heat-is-on</itunes:summary>
+    </item>
+    <item>
       <title>Lettuce lurch: Supply chain whiplash from lettuce to gas</title>
       <description>The FDA backtracks but still eyes the iceberg...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/a-matter-of-time</description>
 Listen up. We’re about to find out how honest classical music fans are. In honor of the 270th anniversary of Wolfgang Amadeus Mozart’s birth, his hometown of Salzburg, Austria, began displaying 300 small gold-colored statues of the composer and his dog yesterday. But they had 400 made in anticipation of sticky-fingered symphonyheads helping themselves to the statues—and the Mozarteum Foundation told the Associated Press two were pinched in the first few hours. More scrupulous Mozart fans can purchase one for 100 euros a pop. There hasn’t been anything this divisive in the classical fandom since Mozart took on Salieri
 
 https://www.morningbrew.com/issues/a-matter-of-time</itunes:summary>
-    </item>
-    <item>
-      <title>Super cycle: The AI boom hits physical reality</title>
-      <description>US banks report record profits...
-
-Salutations. Today is the day after the MLB All-Star Game, which is usually the slowest sports day of the year, with none of the Big Four North American leagues holding competitive games.
-
-https://www.morningbrew.com/issues/super-cycle</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-15.m4a" length="42591168" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-15</guid>
-      <pubDate>Wed, 15 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:22:03</itunes:duration>
-      <itunes:summary>US banks report record profits...
-
-Salutations. Today is the day after the MLB All-Star Game, which is usually the slowest sports day of the year, with none of the Big Four North American leagues holding competitive games.
-
-https://www.morningbrew.com/issues/super-cycle</itunes:summary>
     </item>
   </channel>
 </rss>
