@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Breaking out: AI Breakouts And The Race Without Brakes</title>
+      <description>OpenAI's models went hacking on their own...
+
+Good day to you. Scientists in Poland have enlisted 2,000 volunteers to help restore the skeleton of a Mastodonsaurus, a 20-foot-long aquatic predator that lived about 240 million years ago. Clean all the bones of terrifying dinosaur era creatures you want, just don’t mix its DNA with a frog’s and open a theme park—that never ends well.
+
+https://www.morningbrew.com/issues/breaking-out</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-23.m4a" length="42082431" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-23</guid>
+      <pubDate>Thu, 23 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:21:48</itunes:duration>
+      <itunes:summary>OpenAI's models went hacking on their own...
+
+Good day to you. Scientists in Poland have enlisted 2,000 volunteers to help restore the skeleton of a Mastodonsaurus, a 20-foot-long aquatic predator that lived about 240 million years ago. Clean all the bones of terrifying dinosaur era creatures you want, just don’t mix its DNA with a frog’s and open a theme park—that never ends well.
+
+https://www.morningbrew.com/issues/breaking-out</itunes:summary>
+    </item>
+    <item>
       <title>The heat is on: Miami is now pricier than New York</title>
       <description>Miami is now more expensive than NYC...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/the-sirens-call</description>
 Happy Friday. Today, July 17, is World Emoji Day. Wanna know why?
 
 https://www.morningbrew.com/issues/the-sirens-call</itunes:summary>
-    </item>
-    <item>
-      <title>A matter of time: Why We Engineer a Frictionless Life</title>
-      <description>Congress considers ditching the clock switch...
-
-Listen up. We’re about to find out how honest classical music fans are. In honor of the 270th anniversary of Wolfgang Amadeus Mozart’s birth, his hometown of Salzburg, Austria, began displaying 300 small gold-colored statues of the composer and his dog yesterday. But they had 400 made in anticipation of sticky-fingered symphonyheads helping themselves to the statues—and the Mozarteum Foundation told the Associated Press two were pinched in the first few hours. More scrupulous Mozart fans can purchase one for 100 euros a pop. There hasn’t been anything this divisive in the classical fandom since Mozart took on Salieri
-
-https://www.morningbrew.com/issues/a-matter-of-time</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-16.m4a" length="38900035" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-16</guid>
-      <pubDate>Thu, 16 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:20:09</itunes:duration>
-      <itunes:summary>Congress considers ditching the clock switch...
-
-Listen up. We’re about to find out how honest classical music fans are. In honor of the 270th anniversary of Wolfgang Amadeus Mozart’s birth, his hometown of Salzburg, Austria, began displaying 300 small gold-colored statues of the composer and his dog yesterday. But they had 400 made in anticipation of sticky-fingered symphonyheads helping themselves to the statues—and the Mozarteum Foundation told the Associated Press two were pinched in the first few hours. More scrupulous Mozart fans can purchase one for 100 euros a pop. There hasn’t been anything this divisive in the classical fandom since Mozart took on Salieri
-
-https://www.morningbrew.com/issues/a-matter-of-time</itunes:summary>
     </item>
   </channel>
 </rss>
