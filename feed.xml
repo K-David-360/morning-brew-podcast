@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Let’s get this strait: Trading Nanoseconds While Oil Tankers Reroute</title>
+      <description>Oil soars past $100 as Houthis attack tankers...
+
+Happy Friday. Taco Bell is offering $1 lettuce-free Enchiritos today to win back customers after health officials linked the infamous diarrhea parasite to lettuce sold at some of its locations.
+
+https://www.morningbrew.com/issues/TBD242</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-24.m4a" length="33572136" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:17:23</itunes:duration>
+      <itunes:summary>Oil soars past $100 as Houthis attack tankers...
+
+Happy Friday. Taco Bell is offering $1 lettuce-free Enchiritos today to win back customers after health officials linked the infamous diarrhea parasite to lettuce sold at some of its locations.
+
+https://www.morningbrew.com/issues/TBD242</itunes:summary>
+    </item>
+    <item>
       <title>Breaking out: AI Breakouts And The Race Without Brakes</title>
       <description>OpenAI's models went hacking on their own...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/catching-up</description>
 It’s time! If you thought human UFC fighters were tough, you should see the robots coming for their jobs. This week, during a humanoid robot fight night in China, one competitor nearly lost its head, but kept on swinging. Though it ultimately lost the bout (once its decapitation was complete), it was still able to hang its head high. Higher, actually.
 
 https://www.morningbrew.com/issues/catching-up</itunes:summary>
-    </item>
-    <item>
-      <title>The sirens call: Broke shoppers and thousand dollar movie tickets</title>
-      <description>Christopher Nolan’s ‘The Odyssey’ is finally here...
-
-Happy Friday. Today, July 17, is World Emoji Day. Wanna know why?
-
-https://www.morningbrew.com/issues/the-sirens-call</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-17.m4a" length="42317752" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-17</guid>
-      <pubDate>Fri, 17 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:21:55</itunes:duration>
-      <itunes:summary>Christopher Nolan’s ‘The Odyssey’ is finally here...
-
-Happy Friday. Today, July 17, is World Emoji Day. Wanna know why?
-
-https://www.morningbrew.com/issues/the-sirens-call</itunes:summary>
     </item>
   </channel>
 </rss>
