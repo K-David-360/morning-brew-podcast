@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>In with the new: AI Wealth and the Inflation Triple Whammy</title>
+      <description>What to know about the fresh tariffs...
+
+Morning, sunshine. It’s somehow already the last weekend in July, so it’s time to assess whether you’re achieving everything on your summer bucket list. We still need to:
+
+https://www.morningbrew.com/issues/in-with-the-new</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-25.m4a" length="33826157" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-25</guid>
+      <pubDate>Sat, 25 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:17:31</itunes:duration>
+      <itunes:summary>What to know about the fresh tariffs...
+
+Morning, sunshine. It’s somehow already the last weekend in July, so it’s time to assess whether you’re achieving everything on your summer bucket list. We still need to:
+
+https://www.morningbrew.com/issues/in-with-the-new</itunes:summary>
+    </item>
+    <item>
       <title>Let’s get this strait: Trading Nanoseconds While Oil Tankers Reroute</title>
       <description>Oil soars past $100 as Houthis attack tankers...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/design-brew-26</description>
 Good morning. Put on your French beret and open up Adobe Illustrator, because we’re talking all things design. In today’s special edition, we’ll get into brand redesigns that surprisingly worked, hilariously bad fonts, and a brief history of subway maps. We’ll also argue over quiet luxury and explain why all AI logos look like...that. Call your friend who went to RISD and let them know you’re auditing a course in Design Brew.
 
 https://www.morningbrew.com/issues/design-brew-26</itunes:summary>
-    </item>
-    <item>
-      <title>Catching up: China's Kimi K3 undercuts Silicon Valley</title>
-      <description>A Chinese AI model shocked Silicon Valley...
-
-It’s time! If you thought human UFC fighters were tough, you should see the robots coming for their jobs. This week, during a humanoid robot fight night in China, one competitor nearly lost its head, but kept on swinging. Though it ultimately lost the bout (once its decapitation was complete), it was still able to hang its head high. Higher, actually.
-
-https://www.morningbrew.com/issues/catching-up</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-18.m4a" length="39964569" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-18</guid>
-      <pubDate>Sat, 18 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:20:42</itunes:duration>
-      <itunes:summary>A Chinese AI model shocked Silicon Valley...
-
-It’s time! If you thought human UFC fighters were tough, you should see the robots coming for their jobs. This week, during a humanoid robot fight night in China, one competitor nearly lost its head, but kept on swinging. Though it ultimately lost the bout (once its decapitation was complete), it was still able to hang its head high. Higher, actually.
-
-https://www.morningbrew.com/issues/catching-up</itunes:summary>
     </item>
   </channel>
 </rss>
