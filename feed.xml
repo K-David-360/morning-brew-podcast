@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Business Travel Brew: Private jets versus shared hotel rooms</title>
+      <description>Keeping the receipts on corporate excursions...
+
+Good morning. Put on that spiffy blazer and charge your devices, because the Brew’s taking you on a business trip. Today’s special edition will highlight the latest business travel trends, from “bleisure” becoming the standard to Orlando’s rise as the US’ top corporate meeting spot. We’ll also recommend some of pop culture’s best business travel moments and debate whether your boss should be able to ask you to share a hotel room with Bill from IT. Welcome to Business Travel Brew!
+
+https://www.morningbrew.com/issues/business-travel-brew</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-26.m4a" length="35979853" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:18:38</itunes:duration>
+      <itunes:summary>Keeping the receipts on corporate excursions...
+
+Good morning. Put on that spiffy blazer and charge your devices, because the Brew’s taking you on a business trip. Today’s special edition will highlight the latest business travel trends, from “bleisure” becoming the standard to Orlando’s rise as the US’ top corporate meeting spot. We’ll also recommend some of pop culture’s best business travel moments and debate whether your boss should be able to ask you to share a hotel room with Bill from IT. Welcome to Business Travel Brew!
+
+https://www.morningbrew.com/issues/business-travel-brew</itunes:summary>
+    </item>
+    <item>
       <title>In with the new: AI Wealth and the Inflation Triple Whammy</title>
       <description>What to know about the fresh tariffs...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/upsizing</description>
 Fancy that. One of the black leather Tom Ford jackets worn by Nvidia CEO Jensen Huang sold at a Sotheby’s auction on Friday for $960,000 . That’s about 9,900% more than the jacket retails for, simply because Huang wore it at a Foxconn event in Taipei, Taiwan, in 2023.
 
 https://www.morningbrew.com/issues/upsizing</itunes:summary>
-    </item>
-    <item>
-      <title>Design Brew: How fonts and logos steer your behavior</title>
-      <description>From iconic brands to impossible maps...
-
-Good morning. Put on your French beret and open up Adobe Illustrator, because we’re talking all things design. In today’s special edition, we’ll get into brand redesigns that surprisingly worked, hilariously bad fonts, and a brief history of subway maps. We’ll also argue over quiet luxury and explain why all AI logos look like...that. Call your friend who went to RISD and let them know you’re auditing a course in Design Brew.
-
-https://www.morningbrew.com/issues/design-brew-26</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-19.m4a" length="38915723" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:20:09</itunes:duration>
-      <itunes:summary>From iconic brands to impossible maps...
-
-Good morning. Put on your French beret and open up Adobe Illustrator, because we’re talking all things design. In today’s special edition, we’ll get into brand redesigns that surprisingly worked, hilariously bad fonts, and a brief history of subway maps. We’ll also argue over quiet luxury and explain why all AI logos look like...that. Call your friend who went to RISD and let them know you’re auditing a course in Design Brew.
-
-https://www.morningbrew.com/issues/design-brew-26</itunes:summary>
     </item>
   </channel>
 </rss>
