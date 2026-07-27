@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Pure projection: The fight for raw uncompromised access</title>
+      <description>Why the tech industry cares about open-weight AI...
+
+Hello there. Police are looking for two men who sneaked up to the top of the Seattle Space Needle with parachutes on, flipped over a glass wall, and floated down the 605 feet to the ground before disappearing. This happened around 8:50pm local time on Friday night. The most bizarre part for us is how anyone has that kind of energy to spare at the end of the workweek.
+
+https://www.morningbrew.com/issues/lured-in</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-27.m4a" length="39724793" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-27</guid>
+      <pubDate>Mon, 27 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:20:34</itunes:duration>
+      <itunes:summary>Why the tech industry cares about open-weight AI...
+
+Hello there. Police are looking for two men who sneaked up to the top of the Seattle Space Needle with parachutes on, flipped over a glass wall, and floated down the 605 feet to the ground before disappearing. This happened around 8:50pm local time on Friday night. The most bizarre part for us is how anyone has that kind of energy to spare at the end of the workweek.
+
+https://www.morningbrew.com/issues/lured-in</itunes:summary>
+    </item>
+    <item>
       <title>Business Travel Brew: Private jets versus shared hotel rooms</title>
       <description>Keeping the receipts on corporate excursions...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/lettuce-lurch</description>
 Just brew it. We, a newsletter named for your favorite morning beverage, are delighted to report that the American Heart Association (AHA) has deemed it safe—and even potentially beneficial—for most adults to drink up to five cups of coffee per day. In addition to keeping you awake at that 9am meeting, the AHA said the ~400 milligrams of caffeine from three to five cups of joe has been linked to a lower risk of heart disease, stroke, and Type 2 diabetes. However, the AHA did not mention what being around a colleague who just downed five cups of coffee does to your blood pressure.
 
 https://www.morningbrew.com/issues/lettuce-lurch</itunes:summary>
-    </item>
-    <item>
-      <title>Upsizing: Million dollar jackets and the housing gridlock</title>
-      <description>The World Cup generated billions in US economic activity...
-
-Fancy that. One of the black leather Tom Ford jackets worn by Nvidia CEO Jensen Huang sold at a Sotheby’s auction on Friday for $960,000 . That’s about 9,900% more than the jacket retails for, simply because Huang wore it at a Foxconn event in Taipei, Taiwan, in 2023.
-
-https://www.morningbrew.com/issues/upsizing</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-20.m4a" length="39503646" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-20</guid>
-      <pubDate>Mon, 20 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:20:27</itunes:duration>
-      <itunes:summary>The World Cup generated billions in US economic activity...
-
-Fancy that. One of the black leather Tom Ford jackets worn by Nvidia CEO Jensen Huang sold at a Sotheby’s auction on Friday for $960,000 . That’s about 9,900% more than the jacket retails for, simply because Huang wore it at a Foxconn event in Taipei, Taiwan, in 2023.
-
-https://www.morningbrew.com/issues/upsizing</itunes:summary>
     </item>
   </channel>
 </rss>
