@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Spicy secrets: Why Big Brands Are Losing Control</title>
+      <description>KFC's secret recipe may be up for auction...
+
+Attention passengers! We’ve got a Sunday Special about all things transportation arriving in your inbox in five days, and we want to hear about the most memorable conversation you’ve ever had with a rideshare or taxi driver. Whether they regaled you with tales about the streets of Berlin on the night the wall came down or gave an elaborate account of their former gig as Taylor Swift’s bodyguard—we’re all ears.
+
+https://www.morningbrew.com/issues/secret-sauce</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-28.m4a" length="43100649" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-28</guid>
+      <pubDate>Tue, 28 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:22:19</itunes:duration>
+      <itunes:summary>KFC's secret recipe may be up for auction...
+
+Attention passengers! We’ve got a Sunday Special about all things transportation arriving in your inbox in five days, and we want to hear about the most memorable conversation you’ve ever had with a rideshare or taxi driver. Whether they regaled you with tales about the streets of Berlin on the night the wall came down or gave an elaborate account of their former gig as Taylor Swift’s bodyguard—we’re all ears.
+
+https://www.morningbrew.com/issues/secret-sauce</itunes:summary>
+    </item>
+    <item>
       <title>Pure projection: The fight for raw uncompromised access</title>
       <description>Why the tech industry cares about open-weight AI...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/the-heat-is-on</description>
 Hear ye, hear ye! Big Boy’s comin’. The biggest operating steam locomotive in the world, nicknamed Big Boy, is currently on a coast-to-coast US tour, thrilling onlookers with its hugeness. Weighing 1.2 million pounds, the absolute unit is reportedly making grown men cry at every stop.
 
 https://www.morningbrew.com/issues/the-heat-is-on</itunes:summary>
-    </item>
-    <item>
-      <title>Lettuce lurch: Supply chain whiplash from lettuce to gas</title>
-      <description>The FDA backtracks but still eyes the iceberg...
-
-Just brew it. We, a newsletter named for your favorite morning beverage, are delighted to report that the American Heart Association (AHA) has deemed it safe—and even potentially beneficial—for most adults to drink up to five cups of coffee per day. In addition to keeping you awake at that 9am meeting, the AHA said the ~400 milligrams of caffeine from three to five cups of joe has been linked to a lower risk of heart disease, stroke, and Type 2 diabetes. However, the AHA did not mention what being around a colleague who just downed five cups of coffee does to your blood pressure.
-
-https://www.morningbrew.com/issues/lettuce-lurch</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-21.m4a" length="31632820" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-21</guid>
-      <pubDate>Tue, 21 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:16:23</itunes:duration>
-      <itunes:summary>The FDA backtracks but still eyes the iceberg...
-
-Just brew it. We, a newsletter named for your favorite morning beverage, are delighted to report that the American Heart Association (AHA) has deemed it safe—and even potentially beneficial—for most adults to drink up to five cups of coffee per day. In addition to keeping you awake at that 9am meeting, the AHA said the ~400 milligrams of caffeine from three to five cups of joe has been linked to a lower risk of heart disease, stroke, and Type 2 diabetes. However, the AHA did not mention what being around a colleague who just downed five cups of coffee does to your blood pressure.
-
-https://www.morningbrew.com/issues/lettuce-lurch</itunes:summary>
     </item>
   </channel>
 </rss>
