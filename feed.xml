@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Posting through it: Apple wins the AI war by renting</title>
+      <description>Investors have the AI jitters again...
+
+Hey there. LeBron James, who officially signed with the Philadelphia 76ers this week, is reportedly considering living in NYC and commuting to Philly via helicopter.
+
+https://www.morningbrew.com/issues/posting-through-it</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-29.m4a" length="46755177" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-29</guid>
+      <pubDate>Wed, 29 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:24:13</itunes:duration>
+      <itunes:summary>Investors have the AI jitters again...
+
+Hey there. LeBron James, who officially signed with the Philadelphia 76ers this week, is reportedly considering living in NYC and commuting to Philly via helicopter.
+
+https://www.morningbrew.com/issues/posting-through-it</itunes:summary>
+    </item>
+    <item>
       <title>Spicy secrets: Why Big Brands Are Losing Control</title>
       <description>KFC's secret recipe may be up for auction...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/breaking-out</description>
 Good day to you. Scientists in Poland have enlisted 2,000 volunteers to help restore the skeleton of a Mastodonsaurus, a 20-foot-long aquatic predator that lived about 240 million years ago. Clean all the bones of terrifying dinosaur era creatures you want, just don’t mix its DNA with a frog’s and open a theme park—that never ends well.
 
 https://www.morningbrew.com/issues/breaking-out</itunes:summary>
-    </item>
-    <item>
-      <title>The heat is on: Miami is now pricier than New York</title>
-      <description>Miami is now more expensive than NYC...
-
-Hear ye, hear ye! Big Boy’s comin’. The biggest operating steam locomotive in the world, nicknamed Big Boy, is currently on a coast-to-coast US tour, thrilling onlookers with its hugeness. Weighing 1.2 million pounds, the absolute unit is reportedly making grown men cry at every stop.
-
-https://www.morningbrew.com/issues/the-heat-is-on</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-22.m4a" length="34493985" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-22</guid>
-      <pubDate>Wed, 22 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:17:52</itunes:duration>
-      <itunes:summary>Miami is now more expensive than NYC...
-
-Hear ye, hear ye! Big Boy’s comin’. The biggest operating steam locomotive in the world, nicknamed Big Boy, is currently on a coast-to-coast US tour, thrilling onlookers with its hugeness. Weighing 1.2 million pounds, the absolute unit is reportedly making grown men cry at every stop.
-
-https://www.morningbrew.com/issues/the-heat-is-on</itunes:summary>
     </item>
   </channel>
 </rss>
