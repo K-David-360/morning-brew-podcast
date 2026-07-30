@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Steady on: Meta's AI billions and the silent Fed</title>
+      <description>The Fed left interest rates unchanged (for now)...
+
+Get ready for a thrill. A Six Flags theme park in New Jersey unveiled plans to build a new roller coaster it says will break six world records. The park says that when the coaster, named Bakunawa after a serpent from Philippine legend, opens next year, it will be the world’s: 1) fastest spinning coaster (zooming 100 miles per hour) 2) fastest inversion 3) first upside down launch 4) longest stall inversion 5) tallest spinning coaster and 6) first floorless spinning coaster. We don’t know if there’s a world record for getting sickest on an amusement park ride, but we bet we could break that one, too, if we get the chance to visit.
+
+https://www.morningbrew.com/issues/steady-on</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-30.m4a" length="36312357" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-07-30</guid>
+      <pubDate>Thu, 30 Jul 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:18:48</itunes:duration>
+      <itunes:summary>The Fed left interest rates unchanged (for now)...
+
+Get ready for a thrill. A Six Flags theme park in New Jersey unveiled plans to build a new roller coaster it says will break six world records. The park says that when the coaster, named Bakunawa after a serpent from Philippine legend, opens next year, it will be the world’s: 1) fastest spinning coaster (zooming 100 miles per hour) 2) fastest inversion 3) first upside down launch 4) longest stall inversion 5) tallest spinning coaster and 6) first floorless spinning coaster. We don’t know if there’s a world record for getting sickest on an amusement park ride, but we bet we could break that one, too, if we get the chance to visit.
+
+https://www.morningbrew.com/issues/steady-on</itunes:summary>
+    </item>
+    <item>
       <title>Posting through it: Apple wins the AI war by renting</title>
       <description>Investors have the AI jitters again...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/TBD242</description>
 Happy Friday. Taco Bell is offering $1 lettuce-free Enchiritos today to win back customers after health officials linked the infamous diarrhea parasite to lettuce sold at some of its locations.
 
 https://www.morningbrew.com/issues/TBD242</itunes:summary>
-    </item>
-    <item>
-      <title>Breaking out: AI Breakouts And The Race Without Brakes</title>
-      <description>OpenAI's models went hacking on their own...
-
-Good day to you. Scientists in Poland have enlisted 2,000 volunteers to help restore the skeleton of a Mastodonsaurus, a 20-foot-long aquatic predator that lived about 240 million years ago. Clean all the bones of terrifying dinosaur era creatures you want, just don’t mix its DNA with a frog’s and open a theme park—that never ends well.
-
-https://www.morningbrew.com/issues/breaking-out</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-07-23.m4a" length="42082431" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-07-23</guid>
-      <pubDate>Thu, 23 Jul 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:21:48</itunes:duration>
-      <itunes:summary>OpenAI's models went hacking on their own...
-
-Good day to you. Scientists in Poland have enlisted 2,000 volunteers to help restore the skeleton of a Mastodonsaurus, a 20-foot-long aquatic predator that lived about 240 million years ago. Clean all the bones of terrifying dinosaur era creatures you want, just don’t mix its DNA with a frog’s and open a theme park—that never ends well.
-
-https://www.morningbrew.com/issues/breaking-out</itunes:summary>
     </item>
   </channel>
 </rss>
