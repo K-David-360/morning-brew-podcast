@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dairy Brew: Raw milk rebels and sixty dollar butter</title>
+      <description>A splash of milk culture...
+
+Good morning. Got milk? Because we sure do. Welcome to Dairy Brew, a special edition all about the business of the stuff that Joey from Friends claims he can drink a gallon of in 10 seconds . We’ll explain why some Americans swear by raw milk despite the health risks, discuss whether soy, coconut, and other plant-based “milks” really count as milk, look into why celebs are lathering dairy products all over their bodies, and a lot more.
+
+https://www.morningbrew.com/issues/dairy-brew</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-16.m4a" length="37533697" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-08-16</guid>
+      <pubDate>Sun, 16 Aug 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:19:26</itunes:duration>
+      <itunes:summary>A splash of milk culture...
+
+Good morning. Got milk? Because we sure do. Welcome to Dairy Brew, a special edition all about the business of the stuff that Joey from Friends claims he can drink a gallon of in 10 seconds . We’ll explain why some Americans swear by raw milk despite the health risks, discuss whether soy, coconut, and other plant-based “milks” really count as milk, look into why celebs are lathering dairy products all over their bodies, and a lot more.
+
+https://www.morningbrew.com/issues/dairy-brew</itunes:summary>
+    </item>
+    <item>
       <title>Retail details: Retail Sales and the Prime Day Hangover</title>
       <description>US consumers are shopping less...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/beaver-suit</description>
 Yo. Did you hear about the guy who hooked up his hamster’s wheel to Strava ? That little critter has been clearing up to 6 miles per night since he started on July 29. We’re concerned that he’s running on the wheel of time, though, because it’s definitely been getting darker earlier since then…
 
 https://www.morningbrew.com/issues/beaver-suit</itunes:summary>
-    </item>
-    <item>
-      <title>Parenting Brew: The Death of the Independent Nuclear Family</title>
-      <description>A look at raising kids in this economy...
-
-Good morning. Today’s special edition is all about the evolving business of parenting. We’ll explain why so many young adults still financially depend on their parents, discuss the rise of platonic co-parenting (yes, that’s a thing), visit the Hogwarts for nannies (yes, that’s also a thing), and much more. Whether you’re a parent to humans, hope to be one someday, or are content with just keeping your Sims alive, there’s something for everyone in Parenting Brew.
-
-https://www.morningbrew.com/issues/parenting-brew</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-09.m4a" length="39074123" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-08-09</guid>
-      <pubDate>Sun, 09 Aug 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:20:14</itunes:duration>
-      <itunes:summary>A look at raising kids in this economy...
-
-Good morning. Today’s special edition is all about the evolving business of parenting. We’ll explain why so many young adults still financially depend on their parents, discuss the rise of platonic co-parenting (yes, that’s a thing), visit the Hogwarts for nannies (yes, that’s also a thing), and much more. Whether you’re a parent to humans, hope to be one someday, or are content with just keeping your Sims alive, there’s something for everyone in Parenting Brew.
-
-https://www.morningbrew.com/issues/parenting-brew</itunes:summary>
     </item>
   </channel>
 </rss>
