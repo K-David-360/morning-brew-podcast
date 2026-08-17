@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Major shift: Why students are ditching computer science</title>
+      <description>AI is changing how students pick college majors...
+
+Good morning, and congratulations to Jinny Lu, the winner of the 50th annual World’s Ugliest Dog Contest. In case you need to turn this moment into a LinkedIn post, here’s what the pug with its tongue hanging out of the side of its mouth taught us about perseverance. Jinny Lu’s path to winning the $5,000 prize and eternal bragging rights wasn’t easy: Before being adopted, the pup was abandoned in freezing weather in South Korea. Plus, this was her fourth attempt to clinch the world’s ugliest title, and she finally made it after being first runner-up last year. Take that same energy to prepare for your next sales presentation.
+
+https://www.morningbrew.com/issues/major-shift</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-17.m4a" length="33491456" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-08-17</guid>
+      <pubDate>Mon, 17 Aug 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:17:20</itunes:duration>
+      <itunes:summary>AI is changing how students pick college majors...
+
+Good morning, and congratulations to Jinny Lu, the winner of the 50th annual World’s Ugliest Dog Contest. In case you need to turn this moment into a LinkedIn post, here’s what the pug with its tongue hanging out of the side of its mouth taught us about perseverance. Jinny Lu’s path to winning the $5,000 prize and eternal bragging rights wasn’t easy: Before being adopted, the pup was abandoned in freezing weather in South Korea. Plus, this was her fourth attempt to clinch the world’s ugliest title, and she finally made it after being first runner-up last year. Take that same energy to prepare for your next sales presentation.
+
+https://www.morningbrew.com/issues/major-shift</itunes:summary>
+    </item>
+    <item>
       <title>Dairy Brew: Raw milk rebels and sixty dollar butter</title>
       <description>A splash of milk culture...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/work-boots-and-subarus</description>
 Welcome aboard. A Porter Airlines flight to Toronto was canceled last week because a young kid refused to sit down and secure their seatbelt before takeoff. The child and parent were eventually removed from the plane, but the process took so long that the runway closed for the night.
 
 https://www.morningbrew.com/issues/work-boots-and-subarus</itunes:summary>
-    </item>
-    <item>
-      <title>Beaver suit: Berkshire Buybacks and Local Brand Battles</title>
-      <description>Buc-ee’s ramps up trademark protection efforts…
-
-Yo. Did you hear about the guy who hooked up his hamster’s wheel to Strava ? That little critter has been clearing up to 6 miles per night since he started on July 29. We’re concerned that he’s running on the wheel of time, though, because it’s definitely been getting darker earlier since then…
-
-https://www.morningbrew.com/issues/beaver-suit</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-10.m4a" length="37128055" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-08-10</guid>
-      <pubDate>Mon, 10 Aug 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:14</itunes:duration>
-      <itunes:summary>Buc-ee’s ramps up trademark protection efforts…
-
-Yo. Did you hear about the guy who hooked up his hamster’s wheel to Strava ? That little critter has been clearing up to 6 miles per night since he started on July 29. We’re concerned that he’s running on the wheel of time, though, because it’s definitely been getting darker earlier since then…
-
-https://www.morningbrew.com/issues/beaver-suit</itunes:summary>
     </item>
   </channel>
 </rss>
