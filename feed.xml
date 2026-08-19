@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>How Far I’ll Go: Seatback screens and the global bond rout</title>
+      <description>Disney sues the FCC on First Amendment grounds...
+
+Happy National Potato Day. Today we honor perhaps our most versatile vegetable. Here’s a fun potato fact: President Thomas Jefferson is credited with helping to popularize French fries when he had potatoes served “in the French manner” at a White House dinner in 1802.
+
+https://www.morningbrew.com/issues/how-far-ill-go</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-19.m4a" length="44689608" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:23:09</itunes:duration>
+      <itunes:summary>Disney sues the FCC on First Amendment grounds...
+
+Happy National Potato Day. Today we honor perhaps our most versatile vegetable. Here’s a fun potato fact: President Thomas Jefferson is credited with helping to popularize French fries when he had potatoes served “in the French manner” at a White House dinner in 1802.
+
+https://www.morningbrew.com/issues/how-far-ill-go</itunes:summary>
+    </item>
+    <item>
       <title>Coming to court: Trillion dollar lawsuits and viral cartoon cows</title>
       <description>Meta faces a trillion-dollar lawsuit...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/what-about-bob</description>
 Good morning, and Happy Left Handers Day to roughly 10% of humans and most kangaroos reading this. From scissors to those desks in lecture halls, the world was not designed for you, yet you’ve persevered to produce the likes of Oprah, Sir Paul McCartney, Lady Gaga, Dontrelle Willis, Bart Simpson, Link, and our devoted copyeditor, Kristin.
 
 https://www.morningbrew.com/issues/what-about-bob</itunes:summary>
-    </item>
-    <item>
-      <title>Solar windfall: New guardrails for massive demand shocks</title>
-      <description>The eclipse is boosting Euro tourism...
-
-Keep your feet on the ground. NASA has debunked a viral conspiracy theory that the Earth will lose gravity for seven seconds today. But just in case they’re wrong, we’re borrowing those leashed backpacks for all our friends.
-
-https://www.morningbrew.com/issues/solar-windfall</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-12.m4a" length="37394748" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-08-12</guid>
-      <pubDate>Wed, 12 Aug 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:22</itunes:duration>
-      <itunes:summary>The eclipse is boosting Euro tourism...
-
-Keep your feet on the ground. NASA has debunked a viral conspiracy theory that the Earth will lose gravity for seven seconds today. But just in case they’re wrong, we’re borrowing those leashed backpacks for all our friends.
-
-https://www.morningbrew.com/issues/solar-windfall</itunes:summary>
     </item>
   </channel>
 </rss>
