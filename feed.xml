@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Your best shot: Our digital future hits a physical wall</title>
+      <description>A cancer vaccine had success in trials...
+
+Hold our spot. Not content to simply spend their weekends waiting in lines for pastries that have gone viral on TikTok, New Yorkers are now bringing that energy to a less trendy pastime: buying movie tickets. Business Insider reports that the line at one Manhattan cinema to snag tickets to see Dune: Part 3 in 70-millimeter IMAX format when it opens in December stretched 1,500 feet. They’re one enormous bed sheet away from honoring Shai Hulud with an epic group costume.
+
+https://www.morningbrew.com/issues/your-best-shot</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-20.m4a" length="38241147" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-08-20</guid>
+      <pubDate>Thu, 20 Aug 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:19:48</itunes:duration>
+      <itunes:summary>A cancer vaccine had success in trials...
+
+Hold our spot. Not content to simply spend their weekends waiting in lines for pastries that have gone viral on TikTok, New Yorkers are now bringing that energy to a less trendy pastime: buying movie tickets. Business Insider reports that the line at one Manhattan cinema to snag tickets to see Dune: Part 3 in 70-millimeter IMAX format when it opens in December stretched 1,500 feet. They’re one enormous bed sheet away from honoring Shai Hulud with an epic group costume.
+
+https://www.morningbrew.com/issues/your-best-shot</itunes:summary>
+    </item>
+    <item>
       <title>How Far I’ll Go: Seatback screens and the global bond rout</title>
       <description>Disney sues the FCC on First Amendment grounds...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/oh-my-claude</description>
 Happy Friday. The New York Times charted the most popular emoji in the world, and the results suggest people are...crying a lot. These were the three most popular last year:
 
 https://www.morningbrew.com/issues/oh-my-claude</itunes:summary>
-    </item>
-    <item>
-      <title>What about Bob: Lakers Fire Sale and Lettuce Parasite Inflation</title>
-      <description>The Lakers are getting a new owner again...
-
-Good morning, and Happy Left Handers Day to roughly 10% of humans and most kangaroos reading this. From scissors to those desks in lecture halls, the world was not designed for you, yet you’ve persevered to produce the likes of Oprah, Sir Paul McCartney, Lady Gaga, Dontrelle Willis, Bart Simpson, Link, and our devoted copyeditor, Kristin.
-
-https://www.morningbrew.com/issues/what-about-bob</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-13.m4a" length="42189286" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-08-13</guid>
-      <pubDate>Thu, 13 Aug 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:21:51</itunes:duration>
-      <itunes:summary>The Lakers are getting a new owner again...
-
-Good morning, and Happy Left Handers Day to roughly 10% of humans and most kangaroos reading this. From scissors to those desks in lecture halls, the world was not designed for you, yet you’ve persevered to produce the likes of Oprah, Sir Paul McCartney, Lady Gaga, Dontrelle Willis, Bart Simpson, Link, and our devoted copyeditor, Kristin.
-
-https://www.morningbrew.com/issues/what-about-bob</itunes:summary>
     </item>
   </channel>
 </rss>
