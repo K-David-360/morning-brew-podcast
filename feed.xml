@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Feeling blue: The American consumer is tapped out</title>
+      <description>Walmart posts slowest sales growth in six years...
+
+Happy Friday. The Bulwer-Lytton Fiction Contest may have been retired, but it’s always a good time to remember the beautiful gems it gave us. Launched in 1983, the contest invited writers to submit the worst possible opening sentence to a novel nobody would ever want to read.
+
+https://www.morningbrew.com/issues/feeling-blue</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-21.m4a" length="39152538" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-08-21</guid>
+      <pubDate>Fri, 21 Aug 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:20:16</itunes:duration>
+      <itunes:summary>Walmart posts slowest sales growth in six years...
+
+Happy Friday. The Bulwer-Lytton Fiction Contest may have been retired, but it’s always a good time to remember the beautiful gems it gave us. Launched in 1983, the contest invited writers to submit the worst possible opening sentence to a novel nobody would ever want to read.
+
+https://www.morningbrew.com/issues/feeling-blue</itunes:summary>
+    </item>
+    <item>
       <title>Your best shot: Our digital future hits a physical wall</title>
       <description>A cancer vaccine had success in trials...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/retail-details</description>
 Hello there. Sure, this weekend is just getting started, but we’re already thinking about the next one—when we’ll be bringing you a Sunday Special about “Sweaty Startups,” i.e., unglamorous local businesses that make people rich. And we want to hear about yours. Do you do something that makes folks at parties go, “Oh wow, you can really make money doing that?” Tell us about it here , and we’ll feature some of the most interesting (but not too interesting!) businesses in the newsletter.
 
 https://www.morningbrew.com/issues/retail-details</itunes:summary>
-    </item>
-    <item>
-      <title>Oh my Claude: How Corporate AI Models Your Behavior</title>
-      <description>Anthropic could IPO at record $2t valuation...
-
-Happy Friday. The New York Times charted the most popular emoji in the world, and the results suggest people are...crying a lot. These were the three most popular last year:
-
-https://www.morningbrew.com/issues/oh-my-claude</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-14.m4a" length="44650014" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-08-14</guid>
-      <pubDate>Fri, 14 Aug 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:23:07</itunes:duration>
-      <itunes:summary>Anthropic could IPO at record $2t valuation...
-
-Happy Friday. The New York Times charted the most popular emoji in the world, and the results suggest people are...crying a lot. These were the three most popular last year:
-
-https://www.morningbrew.com/issues/oh-my-claude</itunes:summary>
     </item>
   </channel>
 </rss>
