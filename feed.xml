@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Going after ghosts: Ghost Jobs and the Broken Economic Map</title>
+      <description>Lawmakers are targeting ghost jobs...
+
+Good morning, and many happy returns to the world’s oldest living person, Ethel Caterham, who turned 117 yesterday. Caterham once attributed her longevity to her agreeable demeanor, telling the Associated Press, her secret was “never arguing with anyone.” It’s way too late for us to try that, so I guess we’ll have to stick with eating right and getting enough sleep for long enough that Bryan Johnson figures out how to make us immortal.
+
+https://www.morningbrew.com/issues/going-after-ghosts</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-22.m4a" length="39407278" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:20:24</itunes:duration>
+      <itunes:summary>Lawmakers are targeting ghost jobs...
+
+Good morning, and many happy returns to the world’s oldest living person, Ethel Caterham, who turned 117 yesterday. Caterham once attributed her longevity to her agreeable demeanor, telling the Associated Press, her secret was “never arguing with anyone.” It’s way too late for us to try that, so I guess we’ll have to stick with eating right and getting enough sleep for long enough that Bryan Johnson figures out how to make us immortal.
+
+https://www.morningbrew.com/issues/going-after-ghosts</itunes:summary>
+    </item>
+    <item>
       <title>Feeling blue: The American consumer is tapped out</title>
       <description>Walmart posts slowest sales growth in six years...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/dairy-brew</description>
 Good morning. Got milk? Because we sure do. Welcome to Dairy Brew, a special edition all about the business of the stuff that Joey from Friends claims he can drink a gallon of in 10 seconds . We’ll explain why some Americans swear by raw milk despite the health risks, discuss whether soy, coconut, and other plant-based “milks” really count as milk, look into why celebs are lathering dairy products all over their bodies, and a lot more.
 
 https://www.morningbrew.com/issues/dairy-brew</itunes:summary>
-    </item>
-    <item>
-      <title>Retail details: Retail Sales and the Prime Day Hangover</title>
-      <description>US consumers are shopping less...
-
-Hello there. Sure, this weekend is just getting started, but we’re already thinking about the next one—when we’ll be bringing you a Sunday Special about “Sweaty Startups,” i.e., unglamorous local businesses that make people rich. And we want to hear about yours. Do you do something that makes folks at parties go, “Oh wow, you can really make money doing that?” Tell us about it here , and we’ll feature some of the most interesting (but not too interesting!) businesses in the newsletter.
-
-https://www.morningbrew.com/issues/retail-details</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-15.m4a" length="33540013" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-08-15</guid>
-      <pubDate>Sat, 15 Aug 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:17:22</itunes:duration>
-      <itunes:summary>US consumers are shopping less...
-
-Hello there. Sure, this weekend is just getting started, but we’re already thinking about the next one—when we’ll be bringing you a Sunday Special about “Sweaty Startups,” i.e., unglamorous local businesses that make people rich. And we want to hear about yours. Do you do something that makes folks at parties go, “Oh wow, you can really make money doing that?” Tell us about it here , and we’ll feature some of the most interesting (but not too interesting!) businesses in the newsletter.
-
-https://www.morningbrew.com/issues/retail-details</itunes:summary>
     </item>
   </channel>
 </rss>
