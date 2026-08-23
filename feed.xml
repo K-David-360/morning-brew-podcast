@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Sweaty Startup Brew: Why Boring Businesses Are Making Millions</title>
+      <description>Get your hands dirty...
+
+Good morning. That landscaping business you and your friends tried to start in high school before realizing it required time and energy you preferred to spend on video games wasn’t a half-bad idea. Turns out, that’s all the rage these days. Welcome to Sweaty Startup Brew, a special edition on the movement devoted to starting “boring” and often physically demanding businesses (as opposed to VC-backed tech companies). The next million-dollar powerwashing success story may be waiting at the other end of this newsletter.
+
+https://www.morningbrew.com/issues/sweaty-startup-brew</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-23.m4a" length="42750287" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-08-23</guid>
+      <pubDate>Sun, 23 Aug 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:22:08</itunes:duration>
+      <itunes:summary>Get your hands dirty...
+
+Good morning. That landscaping business you and your friends tried to start in high school before realizing it required time and energy you preferred to spend on video games wasn’t a half-bad idea. Turns out, that’s all the rage these days. Welcome to Sweaty Startup Brew, a special edition on the movement devoted to starting “boring” and often physically demanding businesses (as opposed to VC-backed tech companies). The next million-dollar powerwashing success story may be waiting at the other end of this newsletter.
+
+https://www.morningbrew.com/issues/sweaty-startup-brew</itunes:summary>
+    </item>
+    <item>
       <title>Going after ghosts: Ghost Jobs and the Broken Economic Map</title>
       <description>Lawmakers are targeting ghost jobs...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/major-shift</description>
 Good morning, and congratulations to Jinny Lu, the winner of the 50th annual World’s Ugliest Dog Contest. In case you need to turn this moment into a LinkedIn post, here’s what the pug with its tongue hanging out of the side of its mouth taught us about perseverance. Jinny Lu’s path to winning the $5,000 prize and eternal bragging rights wasn’t easy: Before being adopted, the pup was abandoned in freezing weather in South Korea. Plus, this was her fourth attempt to clinch the world’s ugliest title, and she finally made it after being first runner-up last year. Take that same energy to prepare for your next sales presentation.
 
 https://www.morningbrew.com/issues/major-shift</itunes:summary>
-    </item>
-    <item>
-      <title>Dairy Brew: Raw milk rebels and sixty dollar butter</title>
-      <description>A splash of milk culture...
-
-Good morning. Got milk? Because we sure do. Welcome to Dairy Brew, a special edition all about the business of the stuff that Joey from Friends claims he can drink a gallon of in 10 seconds . We’ll explain why some Americans swear by raw milk despite the health risks, discuss whether soy, coconut, and other plant-based “milks” really count as milk, look into why celebs are lathering dairy products all over their bodies, and a lot more.
-
-https://www.morningbrew.com/issues/dairy-brew</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-16.m4a" length="37533697" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-08-16</guid>
-      <pubDate>Sun, 16 Aug 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:26</itunes:duration>
-      <itunes:summary>A splash of milk culture...
-
-Good morning. Got milk? Because we sure do. Welcome to Dairy Brew, a special edition all about the business of the stuff that Joey from Friends claims he can drink a gallon of in 10 seconds . We’ll explain why some Americans swear by raw milk despite the health risks, discuss whether soy, coconut, and other plant-based “milks” really count as milk, look into why celebs are lathering dairy products all over their bodies, and a lot more.
-
-https://www.morningbrew.com/issues/dairy-brew</itunes:summary>
     </item>
   </channel>
 </rss>
