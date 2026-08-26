@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Targeted punches: Canada trade wars and local AI</title>
+      <description>Canada announces retaliatory tariffs on the US...
+
+Ruff. Happy National Dog Day. Here are our five favorite dogs:
+
+https://www.morningbrew.com/issues/targeted-punches</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-26.m4a" length="39647824" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-08-26</guid>
+      <pubDate>Wed, 26 Aug 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:20:32</itunes:duration>
+      <itunes:summary>Canada announces retaliatory tariffs on the US...
+
+Ruff. Happy National Dog Day. Here are our five favorite dogs:
+
+https://www.morningbrew.com/issues/targeted-punches</itunes:summary>
+    </item>
+    <item>
       <title>Supersized sanctions: Why the world is choosing friction</title>
       <description>The US threatened a crackdown on Iran's trading partners...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/your-best-shot</description>
 Hold our spot. Not content to simply spend their weekends waiting in lines for pastries that have gone viral on TikTok, New Yorkers are now bringing that energy to a less trendy pastime: buying movie tickets. Business Insider reports that the line at one Manhattan cinema to snag tickets to see Dune: Part 3 in 70-millimeter IMAX format when it opens in December stretched 1,500 feet. They’re one enormous bed sheet away from honoring Shai Hulud with an epic group costume.
 
 https://www.morningbrew.com/issues/your-best-shot</itunes:summary>
-    </item>
-    <item>
-      <title>How Far I’ll Go: Seatback screens and the global bond rout</title>
-      <description>Disney sues the FCC on First Amendment grounds...
-
-Happy National Potato Day. Today we honor perhaps our most versatile vegetable. Here’s a fun potato fact: President Thomas Jefferson is credited with helping to popularize French fries when he had potatoes served “in the French manner” at a White House dinner in 1802.
-
-https://www.morningbrew.com/issues/how-far-ill-go</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-19.m4a" length="44689608" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:23:09</itunes:duration>
-      <itunes:summary>Disney sues the FCC on First Amendment grounds...
-
-Happy National Potato Day. Today we honor perhaps our most versatile vegetable. Here’s a fun potato fact: President Thomas Jefferson is credited with helping to popularize French fries when he had potatoes served “in the French manner” at a White House dinner in 1802.
-
-https://www.morningbrew.com/issues/how-far-ill-go</itunes:summary>
     </item>
   </channel>
 </rss>
