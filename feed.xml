@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Settling down: Nvidia Growth and the Meta Settlement</title>
+      <description>Meta agreed to an $18 billion settlement...
+
+Duck! Yesterday, in the small town of Buñol, Spain, thousands of people gathered to be left on red. The revelers attended the town’s annual tomato-flinging food fight, a tradition dating back to 1945 and now attended by international tourists, subject to only one rule: squash the tomatoes before you toss them. This year’s event included 165 tons of tomatoes. While the world’s biggest food fight leaves behind an epic mess , don’t feel bad for the town: Because of the citric acid contained in the tomatoes strewn everywhere, the cleanup leaves Buñol more sparkling than it was before.
+
+https://www.morningbrew.com/issues/settling-down</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-27.m4a" length="26888358" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-08-27</guid>
+      <pubDate>Thu, 27 Aug 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:13:55</itunes:duration>
+      <itunes:summary>Meta agreed to an $18 billion settlement...
+
+Duck! Yesterday, in the small town of Buñol, Spain, thousands of people gathered to be left on red. The revelers attended the town’s annual tomato-flinging food fight, a tradition dating back to 1945 and now attended by international tourists, subject to only one rule: squash the tomatoes before you toss them. This year’s event included 165 tons of tomatoes. While the world’s biggest food fight leaves behind an epic mess , don’t feel bad for the town: Because of the citric acid contained in the tomatoes strewn everywhere, the cleanup leaves Buñol more sparkling than it was before.
+
+https://www.morningbrew.com/issues/settling-down</itunes:summary>
+    </item>
+    <item>
       <title>Targeted punches: Canada trade wars and local AI</title>
       <description>Canada announces retaliatory tariffs on the US...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/feeling-blue</description>
 Happy Friday. The Bulwer-Lytton Fiction Contest may have been retired, but it’s always a good time to remember the beautiful gems it gave us. Launched in 1983, the contest invited writers to submit the worst possible opening sentence to a novel nobody would ever want to read.
 
 https://www.morningbrew.com/issues/feeling-blue</itunes:summary>
-    </item>
-    <item>
-      <title>Your best shot: Our digital future hits a physical wall</title>
-      <description>A cancer vaccine had success in trials...
-
-Hold our spot. Not content to simply spend their weekends waiting in lines for pastries that have gone viral on TikTok, New Yorkers are now bringing that energy to a less trendy pastime: buying movie tickets. Business Insider reports that the line at one Manhattan cinema to snag tickets to see Dune: Part 3 in 70-millimeter IMAX format when it opens in December stretched 1,500 feet. They’re one enormous bed sheet away from honoring Shai Hulud with an epic group costume.
-
-https://www.morningbrew.com/issues/your-best-shot</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-20.m4a" length="38241147" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-08-20</guid>
-      <pubDate>Thu, 20 Aug 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:19:48</itunes:duration>
-      <itunes:summary>A cancer vaccine had success in trials...
-
-Hold our spot. Not content to simply spend their weekends waiting in lines for pastries that have gone viral on TikTok, New Yorkers are now bringing that energy to a less trendy pastime: buying movie tickets. Business Insider reports that the line at one Manhattan cinema to snag tickets to see Dune: Part 3 in 70-millimeter IMAX format when it opens in December stretched 1,500 feet. They’re one enormous bed sheet away from honoring Shai Hulud with an epic group costume.
-
-https://www.morningbrew.com/issues/your-best-shot</itunes:summary>
     </item>
   </channel>
 </rss>
