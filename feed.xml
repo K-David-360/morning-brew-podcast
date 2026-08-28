@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Giddy up: Why humanoid robots outrun our failing institutions</title>
+      <description>All eyes on Warsh’s Jackson Hole speech...
+
+Hey hey. It’s one of the last Summer Fridays of the year, so don’t wait any longer to check off the remaining items on your summer bucket list:
+
+https://www.morningbrew.com/issues/giddy-up</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-28.m4a" length="26603736" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-08-28</guid>
+      <pubDate>Fri, 28 Aug 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:13:46</itunes:duration>
+      <itunes:summary>All eyes on Warsh’s Jackson Hole speech...
+
+Hey hey. It’s one of the last Summer Fridays of the year, so don’t wait any longer to check off the remaining items on your summer bucket list:
+
+https://www.morningbrew.com/issues/giddy-up</itunes:summary>
+    </item>
+    <item>
       <title>Settling down: Nvidia Growth and the Meta Settlement</title>
       <description>Meta agreed to an $18 billion settlement...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/going-after-ghosts</description>
 Good morning, and many happy returns to the world’s oldest living person, Ethel Caterham, who turned 117 yesterday. Caterham once attributed her longevity to her agreeable demeanor, telling the Associated Press, her secret was “never arguing with anyone.” It’s way too late for us to try that, so I guess we’ll have to stick with eating right and getting enough sleep for long enough that Bryan Johnson figures out how to make us immortal.
 
 https://www.morningbrew.com/issues/going-after-ghosts</itunes:summary>
-    </item>
-    <item>
-      <title>Feeling blue: The American consumer is tapped out</title>
-      <description>Walmart posts slowest sales growth in six years...
-
-Happy Friday. The Bulwer-Lytton Fiction Contest may have been retired, but it’s always a good time to remember the beautiful gems it gave us. Launched in 1983, the contest invited writers to submit the worst possible opening sentence to a novel nobody would ever want to read.
-
-https://www.morningbrew.com/issues/feeling-blue</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-21.m4a" length="39152538" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-08-21</guid>
-      <pubDate>Fri, 21 Aug 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:20:16</itunes:duration>
-      <itunes:summary>Walmart posts slowest sales growth in six years...
-
-Happy Friday. The Bulwer-Lytton Fiction Contest may have been retired, but it’s always a good time to remember the beautiful gems it gave us. Launched in 1983, the contest invited writers to submit the worst possible opening sentence to a novel nobody would ever want to read.
-
-https://www.morningbrew.com/issues/feeling-blue</itunes:summary>
     </item>
   </channel>
 </rss>
