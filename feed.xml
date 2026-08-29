@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Warsh's warning: From trashed movies to Fed rate hikes</title>
+      <description>The Fed chair hinted at a possible rate hike...
+
+Greetings. Your AC may still be running at full blast and the leaves may not have changed, but one telltale sign of fall emerged this week: the return of the Starbucks PSL. It’s the perfect drink to sip while buying all the Halloween decorations that have already been available at your local convenience store for weeks.
+
+https://www.morningbrew.com/issues/warshs-warning</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-29.m4a" length="23677574" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-08-29</guid>
+      <pubDate>Sat, 29 Aug 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:12:15</itunes:duration>
+      <itunes:summary>The Fed chair hinted at a possible rate hike...
+
+Greetings. Your AC may still be running at full blast and the leaves may not have changed, but one telltale sign of fall emerged this week: the return of the Starbucks PSL. It’s the perfect drink to sip while buying all the Halloween decorations that have already been available at your local convenience store for weeks.
+
+https://www.morningbrew.com/issues/warshs-warning</itunes:summary>
+    </item>
+    <item>
       <title>Giddy up: Why humanoid robots outrun our failing institutions</title>
       <description>All eyes on Warsh’s Jackson Hole speech...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/sweaty-startup-brew</description>
 Good morning. That landscaping business you and your friends tried to start in high school before realizing it required time and energy you preferred to spend on video games wasn’t a half-bad idea. Turns out, that’s all the rage these days. Welcome to Sweaty Startup Brew, a special edition on the movement devoted to starting “boring” and often physically demanding businesses (as opposed to VC-backed tech companies). The next million-dollar powerwashing success story may be waiting at the other end of this newsletter.
 
 https://www.morningbrew.com/issues/sweaty-startup-brew</itunes:summary>
-    </item>
-    <item>
-      <title>Going after ghosts: Ghost Jobs and the Broken Economic Map</title>
-      <description>Lawmakers are targeting ghost jobs...
-
-Good morning, and many happy returns to the world’s oldest living person, Ethel Caterham, who turned 117 yesterday. Caterham once attributed her longevity to her agreeable demeanor, telling the Associated Press, her secret was “never arguing with anyone.” It’s way too late for us to try that, so I guess we’ll have to stick with eating right and getting enough sleep for long enough that Bryan Johnson figures out how to make us immortal.
-
-https://www.morningbrew.com/issues/going-after-ghosts</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-22.m4a" length="39407278" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-08-22</guid>
-      <pubDate>Sat, 22 Aug 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:20:24</itunes:duration>
-      <itunes:summary>Lawmakers are targeting ghost jobs...
-
-Good morning, and many happy returns to the world’s oldest living person, Ethel Caterham, who turned 117 yesterday. Caterham once attributed her longevity to her agreeable demeanor, telling the Associated Press, her secret was “never arguing with anyone.” It’s way too late for us to try that, so I guess we’ll have to stick with eating right and getting enough sleep for long enough that Bryan Johnson figures out how to make us immortal.
-
-https://www.morningbrew.com/issues/going-after-ghosts</itunes:summary>
     </item>
   </channel>
 </rss>
