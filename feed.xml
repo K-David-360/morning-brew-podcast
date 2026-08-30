@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Football Brew: How football became a borderless tech empire</title>
+      <description>Any given Sunday...
+
+Good morning. September means back-to-school, pumpkin spice lattes, and losing your fantasy football matchup by one point because of a Derrick Henry fumble. The 2026 NFL season kicks off next Wednesday (Sept. 9), when the Seattle Seahawks and New England Patriots meet for a Super Bowl rematch. Off the field, there’s a lot going on, from the NFL’s attempt to go global, to Netflix going all-in on the sport, to scientists trying to make the game safer. We’ll get into all that and much more in today’s special edition, Football Brew.
+
+https://www.morningbrew.com/issues/football-brew</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-30.m4a" length="23462427" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-08-30</guid>
+      <pubDate>Sun, 30 Aug 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:12:09</itunes:duration>
+      <itunes:summary>Any given Sunday...
+
+Good morning. September means back-to-school, pumpkin spice lattes, and losing your fantasy football matchup by one point because of a Derrick Henry fumble. The 2026 NFL season kicks off next Wednesday (Sept. 9), when the Seattle Seahawks and New England Patriots meet for a Super Bowl rematch. Off the field, there’s a lot going on, from the NFL’s attempt to go global, to Netflix going all-in on the sport, to scientists trying to make the game safer. We’ll get into all that and much more in today’s special edition, Football Brew.
+
+https://www.morningbrew.com/issues/football-brew</itunes:summary>
+    </item>
+    <item>
       <title>Warsh's warning: From trashed movies to Fed rate hikes</title>
       <description>The Fed chair hinted at a possible rate hike...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/oh-canada</description>
 Cough, cough. Feeling a little bit under the weather? You’re not alone. Today, Aug. 24, is the most popular day of the year for US employees to call out sick, according to a survey by PTO management software company Flamingo. It even tops America’s second-sickest day of the year, Feb. 13—which suspiciously usually lines up with the day after the Super Bowl. So, if this is because there was a big party last night, can someone please toss us an invite next time?
 
 https://www.morningbrew.com/issues/oh-canada</itunes:summary>
-    </item>
-    <item>
-      <title>Sweaty Startup Brew: Why Boring Businesses Are Making Millions</title>
-      <description>Get your hands dirty...
-
-Good morning. That landscaping business you and your friends tried to start in high school before realizing it required time and energy you preferred to spend on video games wasn’t a half-bad idea. Turns out, that’s all the rage these days. Welcome to Sweaty Startup Brew, a special edition on the movement devoted to starting “boring” and often physically demanding businesses (as opposed to VC-backed tech companies). The next million-dollar powerwashing success story may be waiting at the other end of this newsletter.
-
-https://www.morningbrew.com/issues/sweaty-startup-brew</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-23.m4a" length="42750287" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-08-23</guid>
-      <pubDate>Sun, 23 Aug 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:22:08</itunes:duration>
-      <itunes:summary>Get your hands dirty...
-
-Good morning. That landscaping business you and your friends tried to start in high school before realizing it required time and energy you preferred to spend on video games wasn’t a half-bad idea. Turns out, that’s all the rage these days. Welcome to Sweaty Startup Brew, a special edition on the movement devoted to starting “boring” and often physically demanding businesses (as opposed to VC-backed tech companies). The next million-dollar powerwashing success story may be waiting at the other end of this newsletter.
-
-https://www.morningbrew.com/issues/sweaty-startup-brew</itunes:summary>
     </item>
   </channel>
 </rss>
