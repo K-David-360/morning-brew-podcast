@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Hello, Cybercab: Tesla's Cybercab and the AI Power Grab</title>
+      <description>Tesla debuts its long-awaited robotaxi...
+
+Happy Friday. Miley Cyrus revealed she is dropping her last name and will henceforth be known professionally as just “Miley.” And so we have decided to do the same. Dibs on all these names:
+
+https://www.morningbrew.com/issues/hello-cybercab</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-04.m4a" length="30375546" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-09-04</guid>
+      <pubDate>Fri, 04 Sep 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:15:44</itunes:duration>
+      <itunes:summary>Tesla debuts its long-awaited robotaxi...
+
+Happy Friday. Miley Cyrus revealed she is dropping her last name and will henceforth be known professionally as just “Miley.” And so we have decided to do the same. Dibs on all these names:
+
+https://www.morningbrew.com/issues/hello-cybercab</itunes:summary>
+    </item>
+    <item>
       <title>Fanciful food: Fake shrimp and big tech double standards</title>
       <description>AI menu pics are turning off diners...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/warshs-warning</description>
 Greetings. Your AC may still be running at full blast and the leaves may not have changed, but one telltale sign of fall emerged this week: the return of the Starbucks PSL. It’s the perfect drink to sip while buying all the Halloween decorations that have already been available at your local convenience store for weeks.
 
 https://www.morningbrew.com/issues/warshs-warning</itunes:summary>
-    </item>
-    <item>
-      <title>Giddy up: Why humanoid robots outrun our failing institutions</title>
-      <description>All eyes on Warsh’s Jackson Hole speech...
-
-Hey hey. It’s one of the last Summer Fridays of the year, so don’t wait any longer to check off the remaining items on your summer bucket list:
-
-https://www.morningbrew.com/issues/giddy-up</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-28.m4a" length="26603736" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-08-28</guid>
-      <pubDate>Fri, 28 Aug 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:13:46</itunes:duration>
-      <itunes:summary>All eyes on Warsh’s Jackson Hole speech...
-
-Hey hey. It’s one of the last Summer Fridays of the year, so don’t wait any longer to check off the remaining items on your summer bucket list:
-
-https://www.morningbrew.com/issues/giddy-up</itunes:summary>
     </item>
   </channel>
 </rss>
