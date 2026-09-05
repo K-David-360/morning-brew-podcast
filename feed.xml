@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Hot jobs summer: Why Tech Jobs Vanish Despite Record Hiring</title>
+      <description>The US added more jobs than expected last month...
+
+Welcome to the long weekend! We’ll be in your inbox tomorrow with a Sunday Special, but we’re taking a break on Monday to consume as many hot dogs as possible while wearing white shoes before the season ends. But you won’t have to miss us too much—we’ll be back with a newsletter on Tuesday morning.
+
+https://www.morningbrew.com/issues/hot-jobs-summer</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-05.m4a" length="26212308" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-09-05</guid>
+      <pubDate>Sat, 05 Sep 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:13:34</itunes:duration>
+      <itunes:summary>The US added more jobs than expected last month...
+
+Welcome to the long weekend! We’ll be in your inbox tomorrow with a Sunday Special, but we’re taking a break on Monday to consume as many hot dogs as possible while wearing white shoes before the season ends. But you won’t have to miss us too much—we’ll be back with a newsletter on Tuesday morning.
+
+https://www.morningbrew.com/issues/hot-jobs-summer</itunes:summary>
+    </item>
+    <item>
       <title>Hello, Cybercab: Tesla's Cybercab and the AI Power Grab</title>
       <description>Tesla debuts its long-awaited robotaxi...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/football-brew</description>
 Good morning. September means back-to-school, pumpkin spice lattes, and losing your fantasy football matchup by one point because of a Derrick Henry fumble. The 2026 NFL season kicks off next Wednesday (Sept. 9), when the Seattle Seahawks and New England Patriots meet for a Super Bowl rematch. Off the field, there’s a lot going on, from the NFL’s attempt to go global, to Netflix going all-in on the sport, to scientists trying to make the game safer. We’ll get into all that and much more in today’s special edition, Football Brew.
 
 https://www.morningbrew.com/issues/football-brew</itunes:summary>
-    </item>
-    <item>
-      <title>Warsh's warning: From trashed movies to Fed rate hikes</title>
-      <description>The Fed chair hinted at a possible rate hike...
-
-Greetings. Your AC may still be running at full blast and the leaves may not have changed, but one telltale sign of fall emerged this week: the return of the Starbucks PSL. It’s the perfect drink to sip while buying all the Halloween decorations that have already been available at your local convenience store for weeks.
-
-https://www.morningbrew.com/issues/warshs-warning</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-29.m4a" length="23677574" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-08-29</guid>
-      <pubDate>Sat, 29 Aug 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:12:15</itunes:duration>
-      <itunes:summary>The Fed chair hinted at a possible rate hike...
-
-Greetings. Your AC may still be running at full blast and the leaves may not have changed, but one telltale sign of fall emerged this week: the return of the Starbucks PSL. It’s the perfect drink to sip while buying all the Halloween decorations that have already been available at your local convenience store for weeks.
-
-https://www.morningbrew.com/issues/warshs-warning</itunes:summary>
     </item>
   </channel>
 </rss>
