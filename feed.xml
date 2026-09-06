@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Youth Sports Brew: Wall Street’s $40 billion youth sports takeover</title>
+      <description>From hat tricks to pony sticks...
+
+Good morning. Rev up the minivan and prep those orange slices, because it’s time to talk youth sports. In today’s special edition, we’ll discuss how private equity is transforming the industry, shine a spotlight on girls flag football, debate the best kids sports movies, and much more. Whether you’re a parent of a young athlete or just want to relive your glory years as a 12-year-old baseball player who was totally going to make it to the majors, there’s something for everyone in Youth Sports Brew.
+
+https://www.morningbrew.com/issues/youth-sports-brew</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-06.m4a" length="31005303" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-09-06</guid>
+      <pubDate>Sun, 06 Sep 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:16:03</itunes:duration>
+      <itunes:summary>From hat tricks to pony sticks...
+
+Good morning. Rev up the minivan and prep those orange slices, because it’s time to talk youth sports. In today’s special edition, we’ll discuss how private equity is transforming the industry, shine a spotlight on girls flag football, debate the best kids sports movies, and much more. Whether you’re a parent of a young athlete or just want to relive your glory years as a 12-year-old baseball player who was totally going to make it to the majors, there’s something for everyone in Youth Sports Brew.
+
+https://www.morningbrew.com/issues/youth-sports-brew</itunes:summary>
+    </item>
+    <item>
       <title>Hot jobs summer: Why Tech Jobs Vanish Despite Record Hiring</title>
       <description>The US added more jobs than expected last month...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/oil-change</description>
 Time to wake up, campers. It’s the last day of August, and for some, the symbolic end of summer. The “-ber” months are nigh, and with them, come the crunching of leaves, the wearing of flannels, and, of course, the eating of pies.
 
 https://www.morningbrew.com/issues/oil-change</itunes:summary>
-    </item>
-    <item>
-      <title>Football Brew: How football became a borderless tech empire</title>
-      <description>Any given Sunday...
-
-Good morning. September means back-to-school, pumpkin spice lattes, and losing your fantasy football matchup by one point because of a Derrick Henry fumble. The 2026 NFL season kicks off next Wednesday (Sept. 9), when the Seattle Seahawks and New England Patriots meet for a Super Bowl rematch. Off the field, there’s a lot going on, from the NFL’s attempt to go global, to Netflix going all-in on the sport, to scientists trying to make the game safer. We’ll get into all that and much more in today’s special edition, Football Brew.
-
-https://www.morningbrew.com/issues/football-brew</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-08-30.m4a" length="23462427" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-08-30</guid>
-      <pubDate>Sun, 30 Aug 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:12:09</itunes:duration>
-      <itunes:summary>Any given Sunday...
-
-Good morning. September means back-to-school, pumpkin spice lattes, and losing your fantasy football matchup by one point because of a Derrick Henry fumble. The 2026 NFL season kicks off next Wednesday (Sept. 9), when the Seattle Seahawks and New England Patriots meet for a Super Bowl rematch. Off the field, there’s a lot going on, from the NFL’s attempt to go global, to Netflix going all-in on the sport, to scientists trying to make the game safer. We’ll get into all that and much more in today’s special edition, Football Brew.
-
-https://www.morningbrew.com/issues/football-brew</itunes:summary>
     </item>
   </channel>
 </rss>
