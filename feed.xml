@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Pump it up: Record gas prices and the fallcation boom</title>
+      <description>Gas prices hit a record high for Labor Day...
+
+Morning. Returning to work after Labor Day always hits like a ton of bricks. But as T.S. Eliot said, “The darkness (realizing that summer is essentially over) declares the glory of the light (a four-day week).”
+
+https://www.morningbrew.com/issues/pump-it-up</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-08.m4a" length="15349557" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:07:57</itunes:duration>
+      <itunes:summary>Gas prices hit a record high for Labor Day...
+
+Morning. Returning to work after Labor Day always hits like a ton of bricks. But as T.S. Eliot said, “The darkness (realizing that summer is essentially over) declares the glory of the light (a four-day week).”
+
+https://www.morningbrew.com/issues/pump-it-up</itunes:summary>
+    </item>
+    <item>
       <title>Youth Sports Brew: Private Equity Is Buying Youth Sports</title>
       <description>From hat tricks to pony sticks...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/global-sale</description>
 Step on in. Yesterday officially marked the beginning of the late 2020s, according to Encyclopædia Britannica.
 
 https://www.morningbrew.com/issues/global-sale</itunes:summary>
-    </item>
-    <item>
-      <title>Apple's turnover: John Ternus and the MapQuest revolt</title>
-      <description>A new CEO takes the reins...
-
-Good morning and welcome to September… the month when everyone stops complaining about the humidity and starts complaining about their fantasy football injuries.
-
-https://www.morningbrew.com/issues/apples-turnover</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-01.m4a" length="28782856" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-09-01</guid>
-      <pubDate>Tue, 01 Sep 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:14:54</itunes:duration>
-      <itunes:summary>A new CEO takes the reins...
-
-Good morning and welcome to September… the month when everyone stops complaining about the humidity and starts complaining about their fantasy football injuries.
-
-https://www.morningbrew.com/issues/apples-turnover</itunes:summary>
     </item>
   </channel>
 </rss>
