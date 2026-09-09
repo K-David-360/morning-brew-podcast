@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Tit for tat: Trade Wars Tech and Stolen Renoirs</title>
+      <description>Trump threatens Canadian jetmaker as trade war intensifies...
+
+Are you ready for some football? The NFL is back tonight, and your fantasy team, “Olave Garden,” is looking dangerous. Nothing can go wrong this season.
+
+https://www.morningbrew.com/issues/tit-for-tat</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-09.m4a" length="29468661" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-09-09</guid>
+      <pubDate>Wed, 09 Sep 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:15:15</itunes:duration>
+      <itunes:summary>Trump threatens Canadian jetmaker as trade war intensifies...
+
+Are you ready for some football? The NFL is back tonight, and your fantasy team, “Olave Garden,” is looking dangerous. Nothing can go wrong this season.
+
+https://www.morningbrew.com/issues/tit-for-tat</itunes:summary>
+    </item>
+    <item>
       <title>Pump it up: Record gas prices and the fallcation boom</title>
       <description>Gas prices hit a record high for Labor Day...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/fanciful-food</description>
 Welcome aboard. Southwest is taking another step toward being more like other airlines by opening its first four airport lounges in partnership with Chase. We assume that despite the airline joining the race to attract big spenders, seating in the lounge will still be for whoever gets to the chair first.
 
 https://www.morningbrew.com/issues/fanciful-food</itunes:summary>
-    </item>
-    <item>
-      <title>Global sale: Meme wars and the bond market meltdown</title>
-      <description>The bond selloff is escalating...
-
-Step on in. Yesterday officially marked the beginning of the late 2020s, according to Encyclopædia Britannica.
-
-https://www.morningbrew.com/issues/global-sale</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-02.m4a" length="26691140" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-09-02</guid>
-      <pubDate>Wed, 02 Sep 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:13:49</itunes:duration>
-      <itunes:summary>The bond selloff is escalating...
-
-Step on in. Yesterday officially marked the beginning of the late 2020s, according to Encyclopædia Britannica.
-
-https://www.morningbrew.com/issues/global-sale</itunes:summary>
     </item>
   </channel>
 </rss>
