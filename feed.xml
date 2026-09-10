@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Into the fold: Folding phones and AI doomsday warnings</title>
+      <description>Apple's new CEO debuted its new phone...
+
+Pleasure to meet you. On Sunday, we’re bringing you a special edition on all things hiring, and we’ve got a question for those of you who’ve ever had to ask a job applicant how many hamsters can fit in a cubicle: What is a telltale sign of a good interview or a strong predictor of job performance that you might not guess?
+
+https://www.morningbrew.com/issues/in-the-fold</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-10.m4a" length="23864334" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-09-10</guid>
+      <pubDate>Thu, 10 Sep 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:12:21</itunes:duration>
+      <itunes:summary>Apple's new CEO debuted its new phone...
+
+Pleasure to meet you. On Sunday, we’re bringing you a special edition on all things hiring, and we’ve got a question for those of you who’ve ever had to ask a job applicant how many hamsters can fit in a cubicle: What is a telltale sign of a good interview or a strong predictor of job performance that you might not guess?
+
+https://www.morningbrew.com/issues/in-the-fold</itunes:summary>
+    </item>
+    <item>
       <title>Tit for tat: Trade Wars Tech and Stolen Renoirs</title>
       <description>Trump threatens Canadian jetmaker as trade war intensifies...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/hello-cybercab</description>
 Happy Friday. Miley Cyrus revealed she is dropping her last name and will henceforth be known professionally as just “Miley.” And so we have decided to do the same. Dibs on all these names:
 
 https://www.morningbrew.com/issues/hello-cybercab</itunes:summary>
-    </item>
-    <item>
-      <title>Fanciful food: Fake shrimp and big tech double standards</title>
-      <description>AI menu pics are turning off diners...
-
-Welcome aboard. Southwest is taking another step toward being more like other airlines by opening its first four airport lounges in partnership with Chase. We assume that despite the airline joining the race to attract big spenders, seating in the lounge will still be for whoever gets to the chair first.
-
-https://www.morningbrew.com/issues/fanciful-food</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-03.m4a" length="26133845" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-09-03</guid>
-      <pubDate>Thu, 03 Sep 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:13:32</itunes:duration>
-      <itunes:summary>AI menu pics are turning off diners...
-
-Welcome aboard. Southwest is taking another step toward being more like other airlines by opening its first four airport lounges in partnership with Chase. We assume that despite the airline joining the race to attract big spenders, seating in the lounge will still be for whoever gets to the chair first.
-
-https://www.morningbrew.com/issues/fanciful-food</itunes:summary>
     </item>
   </channel>
 </rss>
