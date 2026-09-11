@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>25 years later: Toxic air coverup and the election dividend</title>
+      <description>America commemorates 9/11...
+
+It’s Friday! That means you made it to the end of the short week—even if it somehow still felt long.
+
+https://www.morningbrew.com/issues/25-years-later</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-11.m4a" length="26534286" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-09-11</guid>
+      <pubDate>Fri, 11 Sep 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:13:44</itunes:duration>
+      <itunes:summary>America commemorates 9/11...
+
+It’s Friday! That means you made it to the end of the short week—even if it somehow still felt long.
+
+https://www.morningbrew.com/issues/25-years-later</itunes:summary>
+    </item>
+    <item>
       <title>Into the fold: Folding phones and AI doomsday warnings</title>
       <description>Apple's new CEO debuted its new phone...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/hot-jobs-summer</description>
 Welcome to the long weekend! We’ll be in your inbox tomorrow with a Sunday Special, but we’re taking a break on Monday to consume as many hot dogs as possible while wearing white shoes before the season ends. But you won’t have to miss us too much—we’ll be back with a newsletter on Tuesday morning.
 
 https://www.morningbrew.com/issues/hot-jobs-summer</itunes:summary>
-    </item>
-    <item>
-      <title>Hello, Cybercab: Tesla's Cybercab and the AI Power Grab</title>
-      <description>Tesla debuts its long-awaited robotaxi...
-
-Happy Friday. Miley Cyrus revealed she is dropping her last name and will henceforth be known professionally as just “Miley.” And so we have decided to do the same. Dibs on all these names:
-
-https://www.morningbrew.com/issues/hello-cybercab</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-04.m4a" length="30375546" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-09-04</guid>
-      <pubDate>Fri, 04 Sep 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:15:44</itunes:duration>
-      <itunes:summary>Tesla debuts its long-awaited robotaxi...
-
-Happy Friday. Miley Cyrus revealed she is dropping her last name and will henceforth be known professionally as just “Miley.” And so we have decided to do the same. Dibs on all these names:
-
-https://www.morningbrew.com/issues/hello-cybercab</itunes:summary>
     </item>
   </channel>
 </rss>
