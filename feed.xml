@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Hiring Brew: How to survive the AI hiring gauntlet</title>
+      <description>There are two sides to every job posting...
+
+Good morning. We are writing this note to express our strong interest in welcoming you to Hiring Brew. Our background has equipped us to provide you with insights into how AI has swarmed both hiring and applying, the most bizarre questions that tech companies are asking interviewees these days, what “work trials” are and how job seekers are navigating them, and more. Looking forward to connecting!
+
+https://www.morningbrew.com/issues/HiringBrew</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-13.m4a" length="26629883" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:13:47</itunes:duration>
+      <itunes:summary>There are two sides to every job posting...
+
+Good morning. We are writing this note to express our strong interest in welcoming you to Hiring Brew. Our background has equipped us to provide you with insights into how AI has swarmed both hiring and applying, the most bizarre questions that tech companies are asking interviewees these days, what “work trials” are and how job seekers are navigating them, and more. Looking forward to connecting!
+
+https://www.morningbrew.com/issues/HiringBrew</itunes:summary>
+    </item>
+    <item>
       <title>Looking inevitable: Global chokepoints from inflation to AI</title>
       <description>New inflation data makes a rate hike seem all but certain...
 
@@ -105,23 +122,6 @@ https://www.morningbrew.com/issues/youth-sports-brew</description>
       <guid isPermaLink="false">morning-brew-2026-09-07</guid>
       <pubDate>Mon, 07 Sep 2026 06:30:00 -0500</pubDate>
       <itunes:duration>00:14:00</itunes:duration>
-      <itunes:summary>From hat tricks to pony sticks...
-
-Good morning. Rev up the minivan and prep those orange slices, because it’s time to talk youth sports. In today’s special edition, we’ll discuss how private equity is transforming the industry, shine a spotlight on girls flag football, debate the best kids sports movies, and much more. Whether you’re a parent of a young athlete or just want to relive your glory years as a 12-year-old baseball player who was totally going to make it to the majors, there’s something for everyone in Youth Sports Brew.
-
-https://www.morningbrew.com/issues/youth-sports-brew</itunes:summary>
-    </item>
-    <item>
-      <title>Youth Sports Brew: Wall Street’s $40 billion youth sports takeover</title>
-      <description>From hat tricks to pony sticks...
-
-Good morning. Rev up the minivan and prep those orange slices, because it’s time to talk youth sports. In today’s special edition, we’ll discuss how private equity is transforming the industry, shine a spotlight on girls flag football, debate the best kids sports movies, and much more. Whether you’re a parent of a young athlete or just want to relive your glory years as a 12-year-old baseball player who was totally going to make it to the majors, there’s something for everyone in Youth Sports Brew.
-
-https://www.morningbrew.com/issues/youth-sports-brew</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-06.m4a" length="31005303" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-09-06</guid>
-      <pubDate>Sun, 06 Sep 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:16:03</itunes:duration>
       <itunes:summary>From hat tricks to pony sticks...
 
 Good morning. Rev up the minivan and prep those orange slices, because it’s time to talk youth sports. In today’s special edition, we’ll discuss how private equity is transforming the industry, shine a spotlight on girls flag football, debate the best kids sports movies, and much more. Whether you’re a parent of a young athlete or just want to relive your glory years as a 12-year-old baseball player who was totally going to make it to the majors, there’s something for everyone in Youth Sports Brew.
