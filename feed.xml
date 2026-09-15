@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Smokin': Silicon Valley Revives the Coal Age</title>
+      <description>The EPA is rolling back power plant emissions limits...
+
+Hello there, and happy National IT Professionals Day. It’s a great day to be extra nice to the person who tries their absolute hardest not to roll their eyes while explaining that the problem sending you into a panic spiral can be solved by rebooting your computer.
+
+https://www.morningbrew.com/issues/smokin</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-15.m4a" length="24947544" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 06:30:00 -0500</pubDate>
+      <itunes:duration>00:12:55</itunes:duration>
+      <itunes:summary>The EPA is rolling back power plant emissions limits...
+
+Hello there, and happy National IT Professionals Day. It’s a great day to be extra nice to the person who tries their absolute hardest not to roll their eyes while explaining that the problem sending you into a panic spiral can be solved by rebooting your computer.
+
+https://www.morningbrew.com/issues/smokin</itunes:summary>
+    </item>
+    <item>
       <title>Kinda unglued: Why AI agents are hiding their tracks</title>
       <description>Top AI execs agree the tech has a problem...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/tit-for-tat</description>
 Are you ready for some football? The NFL is back tonight, and your fantasy team, “Olave Garden,” is looking dangerous. Nothing can go wrong this season.
 
 https://www.morningbrew.com/issues/tit-for-tat</itunes:summary>
-    </item>
-    <item>
-      <title>Pump it up: Record gas prices and the fallcation boom</title>
-      <description>Gas prices hit a record high for Labor Day...
-
-Morning. Returning to work after Labor Day always hits like a ton of bricks. But as T.S. Eliot said, “The darkness (realizing that summer is essentially over) declares the glory of the light (a four-day week).”
-
-https://www.morningbrew.com/issues/pump-it-up</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-08.m4a" length="15349557" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-09-08</guid>
-      <pubDate>Tue, 08 Sep 2026 06:30:00 -0500</pubDate>
-      <itunes:duration>00:07:57</itunes:duration>
-      <itunes:summary>Gas prices hit a record high for Labor Day...
-
-Morning. Returning to work after Labor Day always hits like a ton of bricks. But as T.S. Eliot said, “The darkness (realizing that summer is essentially over) declares the glory of the light (a four-day week).”
-
-https://www.morningbrew.com/issues/pump-it-up</itunes:summary>
     </item>
   </channel>
 </rss>
