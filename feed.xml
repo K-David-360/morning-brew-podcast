@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Slow growing: Wall Street Celebrates Bad Job News</title>
+      <description>The performance review of last month's hiring shows need for improvement...
+
+Hi there. The runners in this morning’s 50K ultramarathon in Denver won’t just need stamina; they’ll need strong stomachs. That’s because competitors must stop at 10 Taco Bell locations along the race course, and eat a menu item at nine of them. Something tells us that No. 2 will be the most popular stop.
+
+https://www.morningbrew.com/issues/slow-growing</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-03.m4a" length="28500475" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-03</guid>
+      <pubDate>Sat, 03 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:14:45</itunes:duration>
+      <itunes:summary>The performance review of last month's hiring shows need for improvement...
+
+Hi there. The runners in this morning’s 50K ultramarathon in Denver won’t just need stamina; they’ll need strong stomachs. That’s because competitors must stop at 10 Taco Bell locations along the race course, and eat a menu item at nine of them. Something tells us that No. 2 will be the most popular stop.
+
+https://www.morningbrew.com/issues/slow-growing</itunes:summary>
+    </item>
+    <item>
       <title>Signs point to maybe: The breakdown of institutional autopilot</title>
       <description>New data makes an interest rate hike less certain...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/alternative-investments-brew</description>
 Good morning. It’s time to finally dust off the binder of Pokémon cards that’s been under your bed since 2002. Welcome to Alternative Investments Brew, a special edition all about financial assets other than stocks and bonds. We’re talkin’ private markets, trading cards, fractional horse ownership, domain names, and more. So, close the Stocks app and open your horizons to some very different kinds of investing.
 
 https://www.morningbrew.com/issues/alternative-investments-brew</itunes:summary>
-    </item>
-    <item>
-      <title>Cha-Cha Slide: Locked in homes and walled off AI</title>
-      <description>Mortgage rates go to the top and may never ever stop...
-
-Warmest of welcomes. Hidden Valley is releasing its first-ever seasonal product—a black Spooky Ranch salad dressing that comes in a glow-in-the-dark bottle. The company said that the creamy white dressing was turned black using fruit juice and cocoa.
-
-https://www.morningbrew.com/issues/cha-cha-slide</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-26.m4a" length="33783552" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-09-26</guid>
-      <pubDate>Sat, 26 Sep 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:17:30</itunes:duration>
-      <itunes:summary>Mortgage rates go to the top and may never ever stop...
-
-Warmest of welcomes. Hidden Valley is releasing its first-ever seasonal product—a black Spooky Ranch salad dressing that comes in a glow-in-the-dark bottle. The company said that the creamy white dressing was turned black using fruit juice and cocoa.
-
-https://www.morningbrew.com/issues/cha-cha-slide</itunes:summary>
     </item>
   </channel>
 </rss>
