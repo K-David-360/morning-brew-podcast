@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Delicacy Brew: How Caviar Ended Up on McNuggets</title>
+      <description>Turns out there is accounting for taste...
+
+Good morning. In today’s newsletter, we’ve got a little treat for you. Usually, you’d have to shell out big bucks or travel to enjoy the delicacies we’ll be digging into this morning, but we’re delivering them straight to your inbox. So, feel free to gorge on these stories about gastronomic luxuries, from caviar, truffles, and Champagne to even more exotic—and in some cases even illegal—culinary offerings.
+
+https://www.morningbrew.com/issues/delicacy-brew</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-04.m4a" length="33600523" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-04</guid>
+      <pubDate>Sun, 04 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:17:24</itunes:duration>
+      <itunes:summary>Turns out there is accounting for taste...
+
+Good morning. In today’s newsletter, we’ve got a little treat for you. Usually, you’d have to shell out big bucks or travel to enjoy the delicacies we’ll be digging into this morning, but we’re delivering them straight to your inbox. So, feel free to gorge on these stories about gastronomic luxuries, from caviar, truffles, and Champagne to even more exotic—and in some cases even illegal—culinary offerings.
+
+https://www.morningbrew.com/issues/delicacy-brew</itunes:summary>
+    </item>
+    <item>
       <title>Slow growing: Wall Street Celebrates Bad Job News</title>
       <description>The performance review of last month's hiring shows need for improvement...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/whisper-singing</description>
 ’Sup. After 21 MLB seasons, Detroit Tigers legend Justin Verlander pitched his final game on Saturday, a 4–3 win over the Pittsburgh Pirates. When it was time for the 43-year-old to walk off the mound, his seven-year-old daughter ran out to give him a big hug, causing him to break down in tears. It was also an emotional moment for many fans, who were grateful to have a nice reason to cry, instead of the usual Detroit Tiger reasons.
 
 https://www.morningbrew.com/issues/whisper-singing</itunes:summary>
-    </item>
-    <item>
-      <title>Alternative Investments Brew: Gen Z swaps index funds for sportsbooks</title>
-      <description>The stranger side of your portfolio...
-
-Good morning. It’s time to finally dust off the binder of Pokémon cards that’s been under your bed since 2002. Welcome to Alternative Investments Brew, a special edition all about financial assets other than stocks and bonds. We’re talkin’ private markets, trading cards, fractional horse ownership, domain names, and more. So, close the Stocks app and open your horizons to some very different kinds of investing.
-
-https://www.morningbrew.com/issues/alternative-investments-brew</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-27.m4a" length="28854619" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-09-27</guid>
-      <pubDate>Sun, 27 Sep 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:14:56</itunes:duration>
-      <itunes:summary>The stranger side of your portfolio...
-
-Good morning. It’s time to finally dust off the binder of Pokémon cards that’s been under your bed since 2002. Welcome to Alternative Investments Brew, a special edition all about financial assets other than stocks and bonds. We’re talkin’ private markets, trading cards, fractional horse ownership, domain names, and more. So, close the Stocks app and open your horizons to some very different kinds of investing.
-
-https://www.morningbrew.com/issues/alternative-investments-brew</itunes:summary>
     </item>
   </channel>
 </rss>
