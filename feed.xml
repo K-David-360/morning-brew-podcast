@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Deets peeping: Why Hybrids Are Crushing Detroit Automakers</title>
+      <description>How the US auto market reflects the wider economy...
+
+How about them apples? No, really, consider this our public service announcement: Do not eat an apple straight off the tree when apple-picking. Give it the old rinse ‘n’ rub first to avoid illness.
+
+https://www.morningbrew.com/issues/deets-peeping</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-05.m4a" length="25796931" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:13:21</itunes:duration>
+      <itunes:summary>How the US auto market reflects the wider economy...
+
+How about them apples? No, really, consider this our public service announcement: Do not eat an apple straight off the tree when apple-picking. Give it the old rinse ‘n’ rub first to avoid illness.
+
+https://www.morningbrew.com/issues/deets-peeping</itunes:summary>
+    </item>
+    <item>
       <title>Delicacy Brew: How Caviar Ended Up on McNuggets</title>
       <description>Turns out there is accounting for taste...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/in-orbit</description>
 Well, hello. We, a newsletter that is not actually affiliated in any way with selling coffee, would like to wish you a very happy National Coffee Day. And since we’re not in the coffee biz, we have no problem sharing these deals to help you get what we hope is your second-favorite morning brew today.
 
 https://www.morningbrew.com/issues/in-orbit</itunes:summary>
-    </item>
-    <item>
-      <title>Whisper-singing: Meta's Muse AI kills the subscription economy</title>
-      <description>Retail trading volume is down...
-
-’Sup. After 21 MLB seasons, Detroit Tigers legend Justin Verlander pitched his final game on Saturday, a 4–3 win over the Pittsburgh Pirates. When it was time for the 43-year-old to walk off the mound, his seven-year-old daughter ran out to give him a big hug, causing him to break down in tears. It was also an emotional moment for many fans, who were grateful to have a nice reason to cry, instead of the usual Detroit Tiger reasons.
-
-https://www.morningbrew.com/issues/whisper-singing</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-28.m4a" length="25155968" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-09-28</guid>
-      <pubDate>Mon, 28 Sep 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:13:01</itunes:duration>
-      <itunes:summary>Retail trading volume is down...
-
-’Sup. After 21 MLB seasons, Detroit Tigers legend Justin Verlander pitched his final game on Saturday, a 4–3 win over the Pittsburgh Pirates. When it was time for the 43-year-old to walk off the mound, his seven-year-old daughter ran out to give him a big hug, causing him to break down in tears. It was also an emotional moment for many fans, who were grateful to have a nice reason to cry, instead of the usual Detroit Tiger reasons.
-
-https://www.morningbrew.com/issues/whisper-singing</itunes:summary>
     </item>
   </channel>
 </rss>
