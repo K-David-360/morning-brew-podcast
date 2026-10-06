@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Breaking some eggs: OpenAI Demands You Accept AI Risk</title>
+      <description>Sam Altman says "some bad things" are ok for AI...
+
+Mornin’. Our family is growing! But we won’t make you watch us cut a colorful cake to reveal anything, we’ll just tell you right now that Express Checkout is joining Morning Brew Inc. So get ready to have Nate Rosen and Jenna Movsowitz fill you in on the latest trends in consumer packaged goods and the why and how behind what we’ll all be buying next. You can check it out here .
+
+https://www.morningbrew.com/issues/breaking-a-few-eggs</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-06.m4a" length="28629713" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:14:49</itunes:duration>
+      <itunes:summary>Sam Altman says "some bad things" are ok for AI...
+
+Mornin’. Our family is growing! But we won’t make you watch us cut a colorful cake to reveal anything, we’ll just tell you right now that Express Checkout is joining Morning Brew Inc. So get ready to have Nate Rosen and Jenna Movsowitz fill you in on the latest trends in consumer packaged goods and the why and how behind what we’ll all be buying next. You can check it out here .
+
+https://www.morningbrew.com/issues/breaking-a-few-eggs</itunes:summary>
+    </item>
+    <item>
       <title>Deets peeping: Why Hybrids Are Crushing Detroit Automakers</title>
       <description>How the US auto market reflects the wider economy...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/hold-your-horses</description>
 Good morrow, friend. Today is the last day of September, the end of Q3 for most businesses, and, most importantly, the 21st anniversary of the Twilight book series. On this day in 2005, the vampire Edward Cullen entered our lives.
 
 https://www.morningbrew.com/issues/hold-your-horses</itunes:summary>
-    </item>
-    <item>
-      <title>In orbit: The struggle to control shadow AI</title>
-      <description>SpaceX's biggest rocket reached orbit for the first time...
-
-Well, hello. We, a newsletter that is not actually affiliated in any way with selling coffee, would like to wish you a very happy National Coffee Day. And since we’re not in the coffee biz, we have no problem sharing these deals to help you get what we hope is your second-favorite morning brew today.
-
-https://www.morningbrew.com/issues/in-orbit</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-09-29.m4a" length="26151774" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-09-29</guid>
-      <pubDate>Tue, 29 Sep 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:13:32</itunes:duration>
-      <itunes:summary>SpaceX's biggest rocket reached orbit for the first time...
-
-Well, hello. We, a newsletter that is not actually affiliated in any way with selling coffee, would like to wish you a very happy National Coffee Day. And since we’re not in the coffee biz, we have no problem sharing these deals to help you get what we hope is your second-favorite morning brew today.
-
-https://www.morningbrew.com/issues/in-orbit</itunes:summary>
     </item>
   </channel>
 </rss>
