@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The cost of cozy: AI Solves Math as Heating Bills Soar</title>
+      <description>The price of heating oil is spiking this winter...
+
+This is your captain speaking. PSA: Do not dial in to your Zoom on an airplane. With in-flight wi-fi becoming the norm, reports are growing of people taking meetings in the sky. But the etiquette here is much clearer than the polarizing question of whether it’s ok to recline your seat—no one wants to involuntarily come along to your all-hands unless it’s the meeting where the tension between Jane from HR and Brad from accounting finally boils over.
+
+https://www.morningbrew.com/issues/the-cost-of-cozy</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-08.m4a" length="24328249" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:12:36</itunes:duration>
+      <itunes:summary>The price of heating oil is spiking this winter...
+
+This is your captain speaking. PSA: Do not dial in to your Zoom on an airplane. With in-flight wi-fi becoming the norm, reports are growing of people taking meetings in the sky. But the etiquette here is much clearer than the polarizing question of whether it’s ok to recline your seat—no one wants to involuntarily come along to your all-hands unless it’s the meeting where the tension between Jane from HR and Brad from accounting finally boils over.
+
+https://www.morningbrew.com/issues/the-cost-of-cozy</itunes:summary>
+    </item>
+    <item>
       <title>The new players: AI Shopping Bots Split E-Commerce</title>
       <description>Western companies debut open-weight AI models...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/slow-growing</description>
 Hi there. The runners in this morning’s 50K ultramarathon in Denver won’t just need stamina; they’ll need strong stomachs. That’s because competitors must stop at 10 Taco Bell locations along the race course, and eat a menu item at nine of them. Something tells us that No. 2 will be the most popular stop.
 
 https://www.morningbrew.com/issues/slow-growing</itunes:summary>
-    </item>
-    <item>
-      <title>Signs point to maybe: The breakdown of institutional autopilot</title>
-      <description>New data makes an interest rate hike less certain...
-
-Rise and shine. It’s October, which means that for the next month, any cobwebs found in your home are considered festive.
-
-https://www.morningbrew.com/issues/signs-point-to-maybe</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-01.m4a" length="25099193" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-01</guid>
-      <pubDate>Thu, 01 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:13:00</itunes:duration>
-      <itunes:summary>New data makes an interest rate hike less certain...
-
-Rise and shine. It’s October, which means that for the next month, any cobwebs found in your home are considered festive.
-
-https://www.morningbrew.com/issues/signs-point-to-maybe</itunes:summary>
     </item>
   </channel>
 </rss>
