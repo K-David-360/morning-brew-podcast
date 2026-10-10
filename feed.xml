@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Shuffled around: Delta's Fuel Shock and Walmart's Broken Robots</title>
+      <description>Delta’s latest earnings might be an omen for the airline industry
+
+Greetings. It’s the Saturday of a three-day weekend, a liminal day of both shadow and substance, of things and ideas. A day as vast as space and as timeless as infinity. A wondrous day whose boundaries are those of imagination. Fear not, we will be with you all weekend, and on Monday.
+
+https://www.morningbrew.com/issues/shuffled-around</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-10.m4a" length="26298941" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:13:37</itunes:duration>
+      <itunes:summary>Delta’s latest earnings might be an omen for the airline industry
+
+Greetings. It’s the Saturday of a three-day weekend, a liminal day of both shadow and substance, of things and ideas. A day as vast as space and as timeless as infinity. A wondrous day whose boundaries are those of imagination. Fear not, we will be with you all weekend, and on Monday.
+
+https://www.morningbrew.com/issues/shuffled-around</itunes:summary>
+    </item>
+    <item>
       <title>From Sam A. to Mark Z.: Big Tech Overpowers Traditional Institutions</title>
       <description>Hollywood goes after Big Tech...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/delicacy-brew</description>
 Good morning. In today’s newsletter, we’ve got a little treat for you. Usually, you’d have to shell out big bucks or travel to enjoy the delicacies we’ll be digging into this morning, but we’re delivering them straight to your inbox. So, feel free to gorge on these stories about gastronomic luxuries, from caviar, truffles, and Champagne to even more exotic—and in some cases even illegal—culinary offerings.
 
 https://www.morningbrew.com/issues/delicacy-brew</itunes:summary>
-    </item>
-    <item>
-      <title>Slow growing: Wall Street Celebrates Bad Job News</title>
-      <description>The performance review of last month's hiring shows need for improvement...
-
-Hi there. The runners in this morning’s 50K ultramarathon in Denver won’t just need stamina; they’ll need strong stomachs. That’s because competitors must stop at 10 Taco Bell locations along the race course, and eat a menu item at nine of them. Something tells us that No. 2 will be the most popular stop.
-
-https://www.morningbrew.com/issues/slow-growing</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-03.m4a" length="28500475" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-03</guid>
-      <pubDate>Sat, 03 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:14:45</itunes:duration>
-      <itunes:summary>The performance review of last month's hiring shows need for improvement...
-
-Hi there. The runners in this morning’s 50K ultramarathon in Denver won’t just need stamina; they’ll need strong stomachs. That’s because competitors must stop at 10 Taco Bell locations along the race course, and eat a menu item at nine of them. Something tells us that No. 2 will be the most popular stop.
-
-https://www.morningbrew.com/issues/slow-growing</itunes:summary>
     </item>
   </channel>
 </rss>
