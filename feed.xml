@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Horror Movie Brew: How Cheap Horror Conquered Hollywood</title>
+      <description>The future of scary movies looks ominously bright...
+
+Boo! We got you good, didn’t we? While you recover from that scare, prepare for several more: Today’s special edition is all about the business of horror movies. We’ll get into how they became such a reliable moneymaker, why Hollywood is mining the internet for new talent and story ideas, the debate surrounding “elevated” horror, and much more. Lock the doors and grab your blankie—it’s time to put on Horror Movie Brew.
+
+https://www.morningbrew.com/issues/horror-movie-brew</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-11.m4a" length="16789851" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:08:41</itunes:duration>
+      <itunes:summary>The future of scary movies looks ominously bright...
+
+Boo! We got you good, didn’t we? While you recover from that scare, prepare for several more: Today’s special edition is all about the business of horror movies. We’ll get into how they became such a reliable moneymaker, why Hollywood is mining the internet for new talent and story ideas, the debate surrounding “elevated” horror, and much more. Lock the doors and grab your blankie—it’s time to put on Horror Movie Brew.
+
+https://www.morningbrew.com/issues/horror-movie-brew</itunes:summary>
+    </item>
+    <item>
       <title>Shuffled around: Delta's Fuel Shock and Walmart's Broken Robots</title>
       <description>Delta’s latest earnings might be an omen for the airline industry
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/deets-peeping</description>
 How about them apples? No, really, consider this our public service announcement: Do not eat an apple straight off the tree when apple-picking. Give it the old rinse ‘n’ rub first to avoid illness.
 
 https://www.morningbrew.com/issues/deets-peeping</itunes:summary>
-    </item>
-    <item>
-      <title>Delicacy Brew: How Caviar Ended Up on McNuggets</title>
-      <description>Turns out there is accounting for taste...
-
-Good morning. In today’s newsletter, we’ve got a little treat for you. Usually, you’d have to shell out big bucks or travel to enjoy the delicacies we’ll be digging into this morning, but we’re delivering them straight to your inbox. So, feel free to gorge on these stories about gastronomic luxuries, from caviar, truffles, and Champagne to even more exotic—and in some cases even illegal—culinary offerings.
-
-https://www.morningbrew.com/issues/delicacy-brew</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-04.m4a" length="33600523" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-04</guid>
-      <pubDate>Sun, 04 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:17:24</itunes:duration>
-      <itunes:summary>Turns out there is accounting for taste...
-
-Good morning. In today’s newsletter, we’ve got a little treat for you. Usually, you’d have to shell out big bucks or travel to enjoy the delicacies we’ll be digging into this morning, but we’re delivering them straight to your inbox. So, feel free to gorge on these stories about gastronomic luxuries, from caviar, truffles, and Champagne to even more exotic—and in some cases even illegal—culinary offerings.
-
-https://www.morningbrew.com/issues/delicacy-brew</itunes:summary>
     </item>
   </channel>
 </rss>
