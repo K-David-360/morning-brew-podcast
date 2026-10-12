@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Energy transfer: Trump Proposes Russian Diesel Deal</title>
+      <description>A closer look at the US-Russia diesel deal...
+
+Mornin’. Hope you got to sleep in a bit today. But also, don’t forget to set your alarm back to early o’clock for work tomorrow.
+
+https://www.morningbrew.com/issues/energy-transfer</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-12.m4a" length="27942433" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:14:28</itunes:duration>
+      <itunes:summary>A closer look at the US-Russia diesel deal...
+
+Mornin’. Hope you got to sleep in a bit today. But also, don’t forget to set your alarm back to early o’clock for work tomorrow.
+
+https://www.morningbrew.com/issues/energy-transfer</itunes:summary>
+    </item>
+    <item>
       <title>Horror Movie Brew: How Cheap Horror Conquered Hollywood</title>
       <description>The future of scary movies looks ominously bright...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/breaking-a-few-eggs</description>
 Mornin’. Our family is growing! But we won’t make you watch us cut a colorful cake to reveal anything, we’ll just tell you right now that Express Checkout is joining Morning Brew Inc. So get ready to have Nate Rosen and Jenna Movsowitz fill you in on the latest trends in consumer packaged goods and the why and how behind what we’ll all be buying next. You can check it out here .
 
 https://www.morningbrew.com/issues/breaking-a-few-eggs</itunes:summary>
-    </item>
-    <item>
-      <title>Deets peeping: Why Hybrids Are Crushing Detroit Automakers</title>
-      <description>How the US auto market reflects the wider economy...
-
-How about them apples? No, really, consider this our public service announcement: Do not eat an apple straight off the tree when apple-picking. Give it the old rinse ‘n’ rub first to avoid illness.
-
-https://www.morningbrew.com/issues/deets-peeping</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-05.m4a" length="25796931" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-05</guid>
-      <pubDate>Mon, 05 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:13:21</itunes:duration>
-      <itunes:summary>How the US auto market reflects the wider economy...
-
-How about them apples? No, really, consider this our public service announcement: Do not eat an apple straight off the tree when apple-picking. Give it the old rinse ‘n’ rub first to avoid illness.
-
-https://www.morningbrew.com/issues/deets-peeping</itunes:summary>
     </item>
   </channel>
 </rss>
