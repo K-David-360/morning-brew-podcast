@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Character flaws: Disney Buys Character AI After Bankruptcy</title>
+      <description>AI chatbot company implodes amid lawsuits...
+
+Wakey wakey. A pumpkin grower from Rhode Island has grown what appears to be the heaviest pumpkin in world history . At 3,156 pounds, the absolute unit squashed the previous record of 2,857 pounds, set just days ago.
+
+https://www.morningbrew.com/issues/character-flaws</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-14.m4a" length="28879971" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:14:57</itunes:duration>
+      <itunes:summary>AI chatbot company implodes amid lawsuits...
+
+Wakey wakey. A pumpkin grower from Rhode Island has grown what appears to be the heaviest pumpkin in world history . At 3,156 pounds, the absolute unit squashed the previous record of 2,857 pounds, set just days ago.
+
+https://www.morningbrew.com/issues/character-flaws</itunes:summary>
+    </item>
+    <item>
       <title>Respect your elders' riches: Why Older Americans Own the Economy</title>
       <description>People age 75+ are America's wealthiest...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/the-cost-of-cozy</description>
 This is your captain speaking. PSA: Do not dial in to your Zoom on an airplane. With in-flight wi-fi becoming the norm, reports are growing of people taking meetings in the sky. But the etiquette here is much clearer than the polarizing question of whether it’s ok to recline your seat—no one wants to involuntarily come along to your all-hands unless it’s the meeting where the tension between Jane from HR and Brad from accounting finally boils over.
 
 https://www.morningbrew.com/issues/the-cost-of-cozy</itunes:summary>
-    </item>
-    <item>
-      <title>The new players: AI Shopping Bots Split E-Commerce</title>
-      <description>Western companies debut open-weight AI models...
-
-Hey, peeps. Warren Buffett is just like us. The newly retired investor is apparently spending his evenings going down random YouTube rabbit holes , including clips of Uzbekistan’s version of America’s Got Talent .
-
-https://www.morningbrew.com/issues/the-new-players</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-07.m4a" length="25944868" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-07</guid>
-      <pubDate>Wed, 07 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:13:26</itunes:duration>
-      <itunes:summary>Western companies debut open-weight AI models...
-
-Hey, peeps. Warren Buffett is just like us. The newly retired investor is apparently spending his evenings going down random YouTube rabbit holes , including clips of Uzbekistan’s version of America’s Got Talent .
-
-https://www.morningbrew.com/issues/the-new-players</itunes:summary>
     </item>
   </channel>
 </rss>
