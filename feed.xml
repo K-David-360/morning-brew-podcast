@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Pepsi challenged: KFC Dumps Pepsi Over Dirty Sodas</title>
+      <description>KFC ditches Pepsi for Coke...
+
+Bon appétit. It’s National Pasta Day, so throw on a bow tie, brush out your angel hair, elbow someone out of the way, and start chomping on some spaghetti.
+
+https://www.morningbrew.com/issues/pepsi-challenged</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-17.m4a" length="23186019" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:12:00</itunes:duration>
+      <itunes:summary>KFC ditches Pepsi for Coke...
+
+Bon appétit. It’s National Pasta Day, so throw on a bow tie, brush out your angel hair, elbow someone out of the way, and start chomping on some spaghetti.
+
+https://www.morningbrew.com/issues/pepsi-challenged</itunes:summary>
+    </item>
+    <item>
       <title>Rubber meets the Roadster: AI Valuations Collide With Massive Debt</title>
       <description>Tesla finally unveils its next-gen sports car...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/horror-movie-brew</description>
 Boo! We got you good, didn’t we? While you recover from that scare, prepare for several more: Today’s special edition is all about the business of horror movies. We’ll get into how they became such a reliable moneymaker, why Hollywood is mining the internet for new talent and story ideas, the debate surrounding “elevated” horror, and much more. Lock the doors and grab your blankie—it’s time to put on Horror Movie Brew.
 
 https://www.morningbrew.com/issues/horror-movie-brew</itunes:summary>
-    </item>
-    <item>
-      <title>Shuffled around: Delta's Fuel Shock and Walmart's Broken Robots</title>
-      <description>Delta’s latest earnings might be an omen for the airline industry
-
-Greetings. It’s the Saturday of a three-day weekend, a liminal day of both shadow and substance, of things and ideas. A day as vast as space and as timeless as infinity. A wondrous day whose boundaries are those of imagination. Fear not, we will be with you all weekend, and on Monday.
-
-https://www.morningbrew.com/issues/shuffled-around</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-10.m4a" length="26298941" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-10</guid>
-      <pubDate>Sat, 10 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:13:37</itunes:duration>
-      <itunes:summary>Delta’s latest earnings might be an omen for the airline industry
-
-Greetings. It’s the Saturday of a three-day weekend, a liminal day of both shadow and substance, of things and ideas. A day as vast as space and as timeless as infinity. A wondrous day whose boundaries are those of imagination. Fear not, we will be with you all weekend, and on Monday.
-
-https://www.morningbrew.com/issues/shuffled-around</itunes:summary>
     </item>
   </channel>
 </rss>
