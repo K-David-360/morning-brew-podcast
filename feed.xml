@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Pepsi challenged: KFC Dumps Pepsi As Guardrails Collapse</title>
+      <description>KFC ditches Pepsi for Coke...
+
+Bon appétit. It’s National Pasta Day, so throw on a bow tie, brush out your angel hair, elbow someone out of the way, and start chomping on some spaghetti.
+
+https://www.morningbrew.com/issues/pepsi-challenged</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-18.m4a" length="24872840" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:12:53</itunes:duration>
+      <itunes:summary>KFC ditches Pepsi for Coke...
+
+Bon appétit. It’s National Pasta Day, so throw on a bow tie, brush out your angel hair, elbow someone out of the way, and start chomping on some spaghetti.
+
+https://www.morningbrew.com/issues/pepsi-challenged</itunes:summary>
+    </item>
+    <item>
       <title>Pepsi challenged: KFC Dumps Pepsi Over Dirty Sodas</title>
       <description>KFC ditches Pepsi for Coke...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/energy-transfer</description>
 Mornin’. Hope you got to sleep in a bit today. But also, don’t forget to set your alarm back to early o’clock for work tomorrow.
 
 https://www.morningbrew.com/issues/energy-transfer</itunes:summary>
-    </item>
-    <item>
-      <title>Horror Movie Brew: How Cheap Horror Conquered Hollywood</title>
-      <description>The future of scary movies looks ominously bright...
-
-Boo! We got you good, didn’t we? While you recover from that scare, prepare for several more: Today’s special edition is all about the business of horror movies. We’ll get into how they became such a reliable moneymaker, why Hollywood is mining the internet for new talent and story ideas, the debate surrounding “elevated” horror, and much more. Lock the doors and grab your blankie—it’s time to put on Horror Movie Brew.
-
-https://www.morningbrew.com/issues/horror-movie-brew</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-11.m4a" length="16789851" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-11</guid>
-      <pubDate>Sun, 11 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:08:41</itunes:duration>
-      <itunes:summary>The future of scary movies looks ominously bright...
-
-Boo! We got you good, didn’t we? While you recover from that scare, prepare for several more: Today’s special edition is all about the business of horror movies. We’ll get into how they became such a reliable moneymaker, why Hollywood is mining the internet for new talent and story ideas, the debate surrounding “elevated” horror, and much more. Lock the doors and grab your blankie—it’s time to put on Horror Movie Brew.
-
-https://www.morningbrew.com/issues/horror-movie-brew</itunes:summary>
     </item>
   </channel>
 </rss>
