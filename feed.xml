@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Bumpy ride: How Corporations Squeeze Your Wallet</title>
+      <description>Holiday travel could be the priciest in a decade...
+
+Happy Hump Day. Do you know why it’s called Wednesday? The name is derived from the Old English Wōdnesdæg , which means “Woden’s Day.” Woden was the Anglo-Saxon equivalent of the Norse god Odin.
+
+https://www.morningbrew.com/issues/bumpy-ride</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-21.m4a" length="26508886" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:13:43</itunes:duration>
+      <itunes:summary>Holiday travel could be the priciest in a decade...
+
+Happy Hump Day. Do you know why it’s called Wednesday? The name is derived from the Old English Wōdnesdæg , which means “Woden’s Day.” Woden was the Anglo-Saxon equivalent of the Norse god Odin.
+
+https://www.morningbrew.com/issues/bumpy-ride</itunes:summary>
+    </item>
+    <item>
       <title>A time to give: Tech Stock Pledges Face AI Backlash</title>
       <description>Elon Musk and Anthropic made big pledges...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/piping-hot</description>
 Hi there. Sci-fi did not adequately prepare us for this moment. When we pictured having to make our way through an AI simulation to get a job, we assumed there would be a lot more impressive martial arts and a lot less imagining you’re in a conference room in a suburban Ohio office park. But, according to the Wall Street Journal, McKinsey is now using an AI avatar trained to behave like a client as part of the hiring process for some junior roles. And not even a particularly demanding and difficult client, just the kind they’re likely to encounter most days, so it’s not even like pretending to take on a final boss.
 
 https://www.morningbrew.com/issues/piping-hot</itunes:summary>
-    </item>
-    <item>
-      <title>Character flaws: Disney Buys Character AI After Bankruptcy</title>
-      <description>AI chatbot company implodes amid lawsuits...
-
-Wakey wakey. A pumpkin grower from Rhode Island has grown what appears to be the heaviest pumpkin in world history . At 3,156 pounds, the absolute unit squashed the previous record of 2,857 pounds, set just days ago.
-
-https://www.morningbrew.com/issues/character-flaws</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-14.m4a" length="28879971" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-14</guid>
-      <pubDate>Wed, 14 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:14:57</itunes:duration>
-      <itunes:summary>AI chatbot company implodes amid lawsuits...
-
-Wakey wakey. A pumpkin grower from Rhode Island has grown what appears to be the heaviest pumpkin in world history . At 3,156 pounds, the absolute unit squashed the previous record of 2,857 pounds, set just days ago.
-
-https://www.morningbrew.com/issues/character-flaws</itunes:summary>
     </item>
   </channel>
 </rss>
