@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Very vulnerable: Hackers Race to Exploit PHP Bug</title>
+      <description>The bug threatening 70% of the internet...
+
+Buongiorno. We regret to inform you that mozzarella lovers in Italy are not currently having a ball. Protests over high fuel costs by the nation’s truckers have halted buffalo mozzarella production in the country’s southern region, with road blockades preventing milk from reaching dairies. However, the government is poised to approve new transportation and agriculture aid today, which should…get the ball rolling again.
+
+https://www.morningbrew.com/issues/very-vulnerable</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-22.m4a" length="26431170" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:13:41</itunes:duration>
+      <itunes:summary>The bug threatening 70% of the internet...
+
+Buongiorno. We regret to inform you that mozzarella lovers in Italy are not currently having a ball. Protests over high fuel costs by the nation’s truckers have halted buffalo mozzarella production in the country’s southern region, with road blockades preventing milk from reaching dairies. However, the government is poised to approve new transportation and agriculture aid today, which should…get the ball rolling again.
+
+https://www.morningbrew.com/issues/very-vulnerable</itunes:summary>
+    </item>
+    <item>
       <title>Bumpy ride: How Corporations Squeeze Your Wallet</title>
       <description>Holiday travel could be the priciest in a decade...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/rubber-meets-the-roadster</description>
 Happy Friday. It’s that time of the year again: The sky has been pitch-black for an hour, you put on your PJs, and get ready for bed…until you look at the clock and realize it’s only 7pm.
 
 https://www.morningbrew.com/issues/rubber-meets-the-roadster</itunes:summary>
-    </item>
-    <item>
-      <title>Piping hot: How the AI Buildout Drives Inflation</title>
-      <description>Inflation is heating up...
-
-Hi there. Sci-fi did not adequately prepare us for this moment. When we pictured having to make our way through an AI simulation to get a job, we assumed there would be a lot more impressive martial arts and a lot less imagining you’re in a conference room in a suburban Ohio office park. But, according to the Wall Street Journal, McKinsey is now using an AI avatar trained to behave like a client as part of the hiring process for some junior roles. And not even a particularly demanding and difficult client, just the kind they’re likely to encounter most days, so it’s not even like pretending to take on a final boss.
-
-https://www.morningbrew.com/issues/piping-hot</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-15.m4a" length="23305549" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-15</guid>
-      <pubDate>Thu, 15 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:12:04</itunes:duration>
-      <itunes:summary>Inflation is heating up...
-
-Hi there. Sci-fi did not adequately prepare us for this moment. When we pictured having to make our way through an AI simulation to get a job, we assumed there would be a lot more impressive martial arts and a lot less imagining you’re in a conference room in a suburban Ohio office park. But, according to the Wall Street Journal, McKinsey is now using an AI avatar trained to behave like a client as part of the hiring process for some junior roles. And not even a particularly demanding and difficult client, just the kind they’re likely to encounter most days, so it’s not even like pretending to take on a final boss.
-
-https://www.morningbrew.com/issues/piping-hot</itunes:summary>
     </item>
   </channel>
 </rss>
