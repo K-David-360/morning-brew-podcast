@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dynamic Duo: Data Center Paint and Rogue Banking AI</title>
+      <description>The reviews of Apple’s foldable iPhone are in...
+
+Shaken, not stirred. According to Deadline, the race to be the next James Bond is down to four actors : Jack Lowden ( Slow Horses guy), Callum Turner (Dua Lipa’s husband), Josh O’Connor (wore plaid shorts in Challengers ), and a mystery fourth person.
+
+https://www.morningbrew.com/issues/dynamic-duo</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-23.m4a" length="24254292" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:12:33</itunes:duration>
+      <itunes:summary>The reviews of Apple’s foldable iPhone are in...
+
+Shaken, not stirred. According to Deadline, the race to be the next James Bond is down to four actors : Jack Lowden ( Slow Horses guy), Callum Turner (Dua Lipa’s husband), Josh O’Connor (wore plaid shorts in Challengers ), and a mystery fourth person.
+
+https://www.morningbrew.com/issues/dynamic-duo</itunes:summary>
+    </item>
+    <item>
       <title>Very vulnerable: Hackers Race to Exploit PHP Bug</title>
       <description>The bug threatening 70% of the internet...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/pepsi-challenged</description>
 Bon appétit. It’s National Pasta Day, so throw on a bow tie, brush out your angel hair, elbow someone out of the way, and start chomping on some spaghetti.
 
 https://www.morningbrew.com/issues/pepsi-challenged</itunes:summary>
-    </item>
-    <item>
-      <title>Rubber meets the Roadster: AI Valuations Collide With Massive Debt</title>
-      <description>Tesla finally unveils its next-gen sports car...
-
-Happy Friday. It’s that time of the year again: The sky has been pitch-black for an hour, you put on your PJs, and get ready for bed…until you look at the clock and realize it’s only 7pm.
-
-https://www.morningbrew.com/issues/rubber-meets-the-roadster</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-16.m4a" length="21390881" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-16</guid>
-      <pubDate>Fri, 16 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:11:04</itunes:duration>
-      <itunes:summary>Tesla finally unveils its next-gen sports car...
-
-Happy Friday. It’s that time of the year again: The sky has been pitch-black for an hour, you put on your PJs, and get ready for bed…until you look at the clock and realize it’s only 7pm.
-
-https://www.morningbrew.com/issues/rubber-meets-the-roadster</itunes:summary>
     </item>
   </channel>
 </rss>
