@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Morning Boo: Why Halloween Starts in July</title>
+      <description>It's time for business to get spooky...
+
+Happy (almost) Halloween. It wouldn’t be late October without a newsletter discussing the intricacies of everyone’s favorite Home Depot skeleton. Welcome to Morning Boo, our annual edition about the business of Halloween, from how the holiday has crept into the summer months, to the rising profession of porch stylists who make sure your stoop is vibier than your neighbor’s. Whip out the fake cobwebs, stock up on Sour Patch Kids, and light your Witches’ Brew Yankee Candle. We’re gettin’ spooky.
+
+https://www.morningbrew.com/issues/morning-boo-2026</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-25.m4a" length="28104541" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:14:33</itunes:duration>
+      <itunes:summary>It's time for business to get spooky...
+
+Happy (almost) Halloween. It wouldn’t be late October without a newsletter discussing the intricacies of everyone’s favorite Home Depot skeleton. Welcome to Morning Boo, our annual edition about the business of Halloween, from how the holiday has crept into the summer months, to the rising profession of porch stylists who make sure your stoop is vibier than your neighbor’s. Whip out the fake cobwebs, stock up on Sour Patch Kids, and light your Witches’ Brew Yankee Candle. We’re gettin’ spooky.
+
+https://www.morningbrew.com/issues/morning-boo-2026</itunes:summary>
+    </item>
+    <item>
       <title>Gone phishing: Phishing Traps AI Layoffs and Cloned Dogs</title>
       <description>MSG's phishing simulation drew backlash...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/big-spending</description>
 Howdy. Today is National Clean Your Virtual Desktop Day, because somebody somewhere realized that literally nothing could compel us to tidy digital files short of a contrived holiday. So, go ahead and delete Untitled 1 through Untitled 37. Or at least combine them into one document if you’re afraid of obliterating your own personal Ur-Hamlet .
 
 https://www.morningbrew.com/issues/big-spending</itunes:summary>
-    </item>
-    <item>
-      <title>Pepsi challenged: KFC Dumps Pepsi As Guardrails Collapse</title>
-      <description>KFC ditches Pepsi for Coke...
-
-Bon appétit. It’s National Pasta Day, so throw on a bow tie, brush out your angel hair, elbow someone out of the way, and start chomping on some spaghetti.
-
-https://www.morningbrew.com/issues/pepsi-challenged</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-18.m4a" length="24872840" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-18</guid>
-      <pubDate>Sun, 18 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:12:53</itunes:duration>
-      <itunes:summary>KFC ditches Pepsi for Coke...
-
-Bon appétit. It’s National Pasta Day, so throw on a bow tie, brush out your angel hair, elbow someone out of the way, and start chomping on some spaghetti.
-
-https://www.morningbrew.com/issues/pepsi-challenged</itunes:summary>
     </item>
   </channel>
 </rss>
