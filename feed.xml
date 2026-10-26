@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Money loses sleep: AI Agents Are Logging Into Banks</title>
+      <description>Banks are being turned upside down by AI agents...
+
+Happy Sports Equinox! It’s a magical Monday when the US’ four major sports leagues—MLB, NFL, NBA, and NHL—all have games.
+
+https://www.morningbrew.com/issues/ready-steady-go</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-26.m4a" length="21266126" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:11:00</itunes:duration>
+      <itunes:summary>Banks are being turned upside down by AI agents...
+
+Happy Sports Equinox! It’s a magical Monday when the US’ four major sports leagues—MLB, NFL, NBA, and NHL—all have games.
+
+https://www.morningbrew.com/issues/ready-steady-go</itunes:summary>
+    </item>
+    <item>
       <title>Morning Boo: Why Halloween Starts in July</title>
       <description>It's time for business to get spooky...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/a-time-to-give</description>
 Well, hello. In disappointing news for aviation history enthusiasts, researchers who traveled to a remote Pacific island in search of the remnants of Amelia Earhart’s plane concluded that the mysterious object that brought them there was most likely just a clump of trees. It’s being called the biggest confusion caused by trees since Macbeth .
 
 https://www.morningbrew.com/issues/a-time-to-give</itunes:summary>
-    </item>
-    <item>
-      <title>Big spending: Billionaires Spend Millions Fighting Prop 40</title>
-      <description>Billionaire tax opposition spending exceeded $1 mil a day...
-
-Howdy. Today is National Clean Your Virtual Desktop Day, because somebody somewhere realized that literally nothing could compel us to tidy digital files short of a contrived holiday. So, go ahead and delete Untitled 1 through Untitled 37. Or at least combine them into one document if you’re afraid of obliterating your own personal Ur-Hamlet .
-
-https://www.morningbrew.com/issues/big-spending</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-19.m4a" length="27158786" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-19</guid>
-      <pubDate>Mon, 19 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:14:04</itunes:duration>
-      <itunes:summary>Billionaire tax opposition spending exceeded $1 mil a day...
-
-Howdy. Today is National Clean Your Virtual Desktop Day, because somebody somewhere realized that literally nothing could compel us to tidy digital files short of a contrived holiday. So, go ahead and delete Untitled 1 through Untitled 37. Or at least combine them into one document if you’re afraid of obliterating your own personal Ur-Hamlet .
-
-https://www.morningbrew.com/issues/big-spending</itunes:summary>
     </item>
   </channel>
 </rss>
