@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>ANT on the march: Anthropic Warns Investors Of Catastrophic Risks</title>
+      <description>Anthropic files to go public...
+
+ENOUGH. You’re not showing up to the Halloween party dressed as an overused pun or “party guest.” But don’t worry, because we asked your fellow Brew readers what to be this year, so now you can borrow their easy(ish) ideas:
+
+https://www.morningbrew.com/issues/lifting-the-veil</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-27.m4a" length="28916576" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:14:58</itunes:duration>
+      <itunes:summary>Anthropic files to go public...
+
+ENOUGH. You’re not showing up to the Halloween party dressed as an overused pun or “party guest.” But don’t worry, because we asked your fellow Brew readers what to be this year, so now you can borrow their easy(ish) ideas:
+
+https://www.morningbrew.com/issues/lifting-the-veil</itunes:summary>
+    </item>
+    <item>
       <title>Money loses sleep: AI Agents Are Logging Into Banks</title>
       <description>Banks are being turned upside down by AI agents...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/bumpy-ride</description>
 Happy Hump Day. Do you know why it’s called Wednesday? The name is derived from the Old English Wōdnesdæg , which means “Woden’s Day.” Woden was the Anglo-Saxon equivalent of the Norse god Odin.
 
 https://www.morningbrew.com/issues/bumpy-ride</itunes:summary>
-    </item>
-    <item>
-      <title>A time to give: Tech Stock Pledges Face AI Backlash</title>
-      <description>Elon Musk and Anthropic made big pledges...
-
-Well, hello. In disappointing news for aviation history enthusiasts, researchers who traveled to a remote Pacific island in search of the remnants of Amelia Earhart’s plane concluded that the mysterious object that brought them there was most likely just a clump of trees. It’s being called the biggest confusion caused by trees since Macbeth .
-
-https://www.morningbrew.com/issues/a-time-to-give</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-20.m4a" length="21359506" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-20</guid>
-      <pubDate>Tue, 20 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:11:03</itunes:duration>
-      <itunes:summary>Elon Musk and Anthropic made big pledges...
-
-Well, hello. In disappointing news for aviation history enthusiasts, researchers who traveled to a remote Pacific island in search of the remnants of Amelia Earhart’s plane concluded that the mysterious object that brought them there was most likely just a clump of trees. It’s being called the biggest confusion caused by trees since Macbeth .
-
-https://www.morningbrew.com/issues/a-time-to-give</itunes:summary>
     </item>
   </channel>
 </rss>
