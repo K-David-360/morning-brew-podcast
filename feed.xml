@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Rev up the Buick: GM Trades NYSE for Tech Rebrand</title>
+      <description>GM joins the Nasdaq as it pushes into AI...
+
+Greetings unto thee. October 28 (that’s today) is historically the best day of the year for stocks. Congrats on having the coolest factoid in the office today.
+
+https://www.morningbrew.com/issues/rev-up-the-buick</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-28.m4a" length="27823654" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-28</guid>
+      <pubDate>Wed, 28 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:14:24</itunes:duration>
+      <itunes:summary>GM joins the Nasdaq as it pushes into AI...
+
+Greetings unto thee. October 28 (that’s today) is historically the best day of the year for stocks. Congrats on having the coolest factoid in the office today.
+
+https://www.morningbrew.com/issues/rev-up-the-buick</itunes:summary>
+    </item>
+    <item>
       <title>ANT on the march: Anthropic Warns Investors Of Catastrophic Risks</title>
       <description>Anthropic files to go public...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/very-vulnerable</description>
 Buongiorno. We regret to inform you that mozzarella lovers in Italy are not currently having a ball. Protests over high fuel costs by the nation’s truckers have halted buffalo mozzarella production in the country’s southern region, with road blockades preventing milk from reaching dairies. However, the government is poised to approve new transportation and agriculture aid today, which should…get the ball rolling again.
 
 https://www.morningbrew.com/issues/very-vulnerable</itunes:summary>
-    </item>
-    <item>
-      <title>Bumpy ride: How Corporations Squeeze Your Wallet</title>
-      <description>Holiday travel could be the priciest in a decade...
-
-Happy Hump Day. Do you know why it’s called Wednesday? The name is derived from the Old English Wōdnesdæg , which means “Woden’s Day.” Woden was the Anglo-Saxon equivalent of the Norse god Odin.
-
-https://www.morningbrew.com/issues/bumpy-ride</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-21.m4a" length="26508886" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-21</guid>
-      <pubDate>Wed, 21 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:13:43</itunes:duration>
-      <itunes:summary>Holiday travel could be the priciest in a decade...
-
-Happy Hump Day. Do you know why it’s called Wednesday? The name is derived from the Old English Wōdnesdæg , which means “Woden’s Day.” Woden was the Anglo-Saxon equivalent of the Norse god Odin.
-
-https://www.morningbrew.com/issues/bumpy-ride</itunes:summary>
     </item>
   </channel>
 </rss>
