@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Holding on: How AI Spending Drives Up Inflation</title>
+      <description>The Fed makes changes but not to interest rates...
+
+We’ve come a long way. On this day in 1969, researchers successfully sent the first message via ARPANET, the tech that would eventually become the internet. And now we can all send funny memes to our grandmas.
+
+https://www.morningbrew.com/issues/holding-on</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-29.m4a" length="25243371" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-10-29</guid>
+      <pubDate>Thu, 29 Oct 2026 05:30:00 -0400</pubDate>
+      <itunes:duration>00:13:04</itunes:duration>
+      <itunes:summary>The Fed makes changes but not to interest rates...
+
+We’ve come a long way. On this day in 1969, researchers successfully sent the first message via ARPANET, the tech that would eventually become the internet. And now we can all send funny memes to our grandmas.
+
+https://www.morningbrew.com/issues/holding-on</itunes:summary>
+    </item>
+    <item>
       <title>Rev up the Buick: GM Trades NYSE for Tech Rebrand</title>
       <description>GM joins the Nasdaq as it pushes into AI...
 
@@ -110,23 +127,6 @@ https://www.morningbrew.com/issues/dynamic-duo</description>
 Shaken, not stirred. According to Deadline, the race to be the next James Bond is down to four actors : Jack Lowden ( Slow Horses guy), Callum Turner (Dua Lipa’s husband), Josh O’Connor (wore plaid shorts in Challengers ), and a mystery fourth person.
 
 https://www.morningbrew.com/issues/dynamic-duo</itunes:summary>
-    </item>
-    <item>
-      <title>Very vulnerable: Hackers Race to Exploit PHP Bug</title>
-      <description>The bug threatening 70% of the internet...
-
-Buongiorno. We regret to inform you that mozzarella lovers in Italy are not currently having a ball. Protests over high fuel costs by the nation’s truckers have halted buffalo mozzarella production in the country’s southern region, with road blockades preventing milk from reaching dairies. However, the government is poised to approve new transportation and agriculture aid today, which should…get the ball rolling again.
-
-https://www.morningbrew.com/issues/very-vulnerable</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-22.m4a" length="26431170" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-22</guid>
-      <pubDate>Thu, 22 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:13:41</itunes:duration>
-      <itunes:summary>The bug threatening 70% of the internet...
-
-Buongiorno. We regret to inform you that mozzarella lovers in Italy are not currently having a ball. Protests over high fuel costs by the nation’s truckers have halted buffalo mozzarella production in the country’s southern region, with road blockades preventing milk from reaching dairies. However, the government is poised to approve new transportation and agriculture aid today, which should…get the ball rolling again.
-
-https://www.morningbrew.com/issues/very-vulnerable</itunes:summary>
     </item>
   </channel>
 </rss>
