@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Endurance Brew: The Booming Industry of Extreme Suffering</title>
+      <description>Taking things to extremes is having a moment...
+
+Good morning. It’s Marathon Day in NYC today, but here in the cozy confines of the Brew, we’re taking it up a notch by running you through the business behind events that are even more extreme than marathons (without having to leave bed). We’re talkin’ the rise of Ironman competitions and “darecations,” frigid swims through ice water and foot races through the Sahara Desert, plus a whole lot more. Welcome to...Endurance Brew.
+
+https://www.morningbrew.com/issues/endurance-brew</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-01.m4a" length="28575179" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 05:30:00 -0500</pubDate>
+      <itunes:duration>00:14:48</itunes:duration>
+      <itunes:summary>Taking things to extremes is having a moment...
+
+Good morning. It’s Marathon Day in NYC today, but here in the cozy confines of the Brew, we’re taking it up a notch by running you through the business behind events that are even more extreme than marathons (without having to leave bed). We’re talkin’ the rise of Ironman competitions and “darecations,” frigid swims through ice water and foot races through the Sahara Desert, plus a whole lot more. Welcome to...Endurance Brew.
+
+https://www.morningbrew.com/issues/endurance-brew</itunes:summary>
+    </item>
+    <item>
       <title>Nothing scarier: Google's 475 Billion Dollar AI Crash</title>
       <description>Wall Street sells off tech stocks...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/ready-steady-go</description>
 Happy Sports Equinox! It’s a magical Monday when the US’ four major sports leagues—MLB, NFL, NBA, and NHL—all have games.
 
 https://www.morningbrew.com/issues/ready-steady-go</itunes:summary>
-    </item>
-    <item>
-      <title>Morning Boo: Why Halloween Starts in July</title>
-      <description>It's time for business to get spooky...
-
-Happy (almost) Halloween. It wouldn’t be late October without a newsletter discussing the intricacies of everyone’s favorite Home Depot skeleton. Welcome to Morning Boo, our annual edition about the business of Halloween, from how the holiday has crept into the summer months, to the rising profession of porch stylists who make sure your stoop is vibier than your neighbor’s. Whip out the fake cobwebs, stock up on Sour Patch Kids, and light your Witches’ Brew Yankee Candle. We’re gettin’ spooky.
-
-https://www.morningbrew.com/issues/morning-boo-2026</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-25.m4a" length="28104541" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-25</guid>
-      <pubDate>Sun, 25 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:14:33</itunes:duration>
-      <itunes:summary>It's time for business to get spooky...
-
-Happy (almost) Halloween. It wouldn’t be late October without a newsletter discussing the intricacies of everyone’s favorite Home Depot skeleton. Welcome to Morning Boo, our annual edition about the business of Halloween, from how the holiday has crept into the summer months, to the rising profession of porch stylists who make sure your stoop is vibier than your neighbor’s. Whip out the fake cobwebs, stock up on Sour Patch Kids, and light your Witches’ Brew Yankee Candle. We’re gettin’ spooky.
-
-https://www.morningbrew.com/issues/morning-boo-2026</itunes:summary>
     </item>
   </channel>
 </rss>
