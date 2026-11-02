@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>More mustard: Why ACA Premiums Are Soaring</title>
+      <description>In-N-Out teased an expansion into new states...
+
+Yawn. G’morning. Now that Halloween is over, it’s a good time to make an action plan for your leftover porch pumpkins. Some ideas: Roast the seeds, make pumpkin butter, or feed them to your local giant elephant.
+
+https://www.morningbrew.com/issues/more-mustard</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-02.m4a" length="24488115" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 05:30:00 -0500</pubDate>
+      <itunes:duration>00:12:41</itunes:duration>
+      <itunes:summary>In-N-Out teased an expansion into new states...
+
+Yawn. G’morning. Now that Halloween is over, it’s a good time to make an action plan for your leftover porch pumpkins. Some ideas: Roast the seeds, make pumpkin butter, or feed them to your local giant elephant.
+
+https://www.morningbrew.com/issues/more-mustard</itunes:summary>
+    </item>
+    <item>
       <title>Endurance Brew: The Booming Industry of Extreme Suffering</title>
       <description>Taking things to extremes is having a moment...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/lifting-the-veil</description>
 ENOUGH. You’re not showing up to the Halloween party dressed as an overused pun or “party guest.” But don’t worry, because we asked your fellow Brew readers what to be this year, so now you can borrow their easy(ish) ideas:
 
 https://www.morningbrew.com/issues/lifting-the-veil</itunes:summary>
-    </item>
-    <item>
-      <title>Money loses sleep: AI Agents Are Logging Into Banks</title>
-      <description>Banks are being turned upside down by AI agents...
-
-Happy Sports Equinox! It’s a magical Monday when the US’ four major sports leagues—MLB, NFL, NBA, and NHL—all have games.
-
-https://www.morningbrew.com/issues/ready-steady-go</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-26.m4a" length="21266126" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-26</guid>
-      <pubDate>Mon, 26 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:11:00</itunes:duration>
-      <itunes:summary>Banks are being turned upside down by AI agents...
-
-Happy Sports Equinox! It’s a magical Monday when the US’ four major sports leagues—MLB, NFL, NBA, and NHL—all have games.
-
-https://www.morningbrew.com/issues/ready-steady-go</itunes:summary>
     </item>
   </channel>
 </rss>
