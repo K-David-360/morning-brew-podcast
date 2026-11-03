@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Putting it to a vote: Hacked Fridges and Data Center Backlash</title>
+      <description>What's on the ballot from the economy to foie gras...
+
+Good morning and welcome home to Karl Bushby. The UK native finally made it back to his mother’s house in England yesterday, after completing a 28-year, 31,000-mile walk home from Punta Arenas, Chile. Bushby’s long walk, which started on Nov. 1, 1998, spanned four continents and 30 countries and included swimming across the English Channel. Upon arrival, his mother asked him, “Where have you been?” This is a good story to tell your own mom when she asks why you haven’t bought your ticket home for the holidays yet.
+
+https://www.morningbrew.com/issues/putting-it-to-a-vote</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-03.m4a" length="29392439" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 05:30:00 -0500</pubDate>
+      <itunes:duration>00:15:13</itunes:duration>
+      <itunes:summary>What's on the ballot from the economy to foie gras...
+
+Good morning and welcome home to Karl Bushby. The UK native finally made it back to his mother’s house in England yesterday, after completing a 28-year, 31,000-mile walk home from Punta Arenas, Chile. Bushby’s long walk, which started on Nov. 1, 1998, spanned four continents and 30 countries and included swimming across the English Channel. Upon arrival, his mother asked him, “Where have you been?” This is a good story to tell your own mom when she asks why you haven’t bought your ticket home for the holidays yet.
+
+https://www.morningbrew.com/issues/putting-it-to-a-vote</itunes:summary>
+    </item>
+    <item>
       <title>More mustard: Why ACA Premiums Are Soaring</title>
       <description>In-N-Out teased an expansion into new states...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/rev-up-the-buick</description>
 Greetings unto thee. October 28 (that’s today) is historically the best day of the year for stocks. Congrats on having the coolest factoid in the office today.
 
 https://www.morningbrew.com/issues/rev-up-the-buick</itunes:summary>
-    </item>
-    <item>
-      <title>ANT on the march: Anthropic Warns Investors Of Catastrophic Risks</title>
-      <description>Anthropic files to go public...
-
-ENOUGH. You’re not showing up to the Halloween party dressed as an overused pun or “party guest.” But don’t worry, because we asked your fellow Brew readers what to be this year, so now you can borrow their easy(ish) ideas:
-
-https://www.morningbrew.com/issues/lifting-the-veil</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-27.m4a" length="28916576" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-27</guid>
-      <pubDate>Tue, 27 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:14:58</itunes:duration>
-      <itunes:summary>Anthropic files to go public...
-
-ENOUGH. You’re not showing up to the Halloween party dressed as an overused pun or “party guest.” But don’t worry, because we asked your fellow Brew readers what to be this year, so now you can borrow their easy(ish) ideas:
-
-https://www.morningbrew.com/issues/lifting-the-veil</itunes:summary>
     </item>
   </channel>
 </rss>
