@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Blue Tsunami: Markets surge after a blue sweep</title>
+      <description>Dems win control of the House and Senate...
+
+Hey hey. As that dry winter air sets in, a friendly reminder to set up your ChapStick infrastructure before it’s too late: one at your desk, one by your bed, one in your backpack, one in your car, and one you tuck into your puffer coat pocket for the day you inevitably lose all the others.
+
+https://www.morningbrew.com/issues/blue-tsunami</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-04.m4a" length="23198723" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-11-04</guid>
+      <pubDate>Wed, 04 Nov 2026 05:30:00 -0500</pubDate>
+      <itunes:duration>00:12:01</itunes:duration>
+      <itunes:summary>Dems win control of the House and Senate...
+
+Hey hey. As that dry winter air sets in, a friendly reminder to set up your ChapStick infrastructure before it’s too late: one at your desk, one by your bed, one in your backpack, one in your car, and one you tuck into your puffer coat pocket for the day you inevitably lose all the others.
+
+https://www.morningbrew.com/issues/blue-tsunami</itunes:summary>
+    </item>
+    <item>
       <title>Putting it to a vote: Hacked Fridges and Data Center Backlash</title>
       <description>What's on the ballot from the economy to foie gras...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/holding-on</description>
 We’ve come a long way. On this day in 1969, researchers successfully sent the first message via ARPANET, the tech that would eventually become the internet. And now we can all send funny memes to our grandmas.
 
 https://www.morningbrew.com/issues/holding-on</itunes:summary>
-    </item>
-    <item>
-      <title>Rev up the Buick: GM Trades NYSE for Tech Rebrand</title>
-      <description>GM joins the Nasdaq as it pushes into AI...
-
-Greetings unto thee. October 28 (that’s today) is historically the best day of the year for stocks. Congrats on having the coolest factoid in the office today.
-
-https://www.morningbrew.com/issues/rev-up-the-buick</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-28.m4a" length="27823654" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-28</guid>
-      <pubDate>Wed, 28 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:14:24</itunes:duration>
-      <itunes:summary>GM joins the Nasdaq as it pushes into AI...
-
-Greetings unto thee. October 28 (that’s today) is historically the best day of the year for stocks. Congrats on having the coolest factoid in the office today.
-
-https://www.morningbrew.com/issues/rev-up-the-buick</itunes:summary>
     </item>
   </channel>
 </rss>
