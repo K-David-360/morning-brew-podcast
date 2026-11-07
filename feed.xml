@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cybertruck’s sunset: Why Tesla Is Killing the Cybertruck</title>
+      <description>Tesla winds the polarizing pickup’s production down...
+
+Mornin’. It may get dark before 5pm now, but at least it’s Saturday. Make it count.
+
+https://www.morningbrew.com/issues/so-long-cybertruck</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-07.m4a" length="24196043" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-11-07</guid>
+      <pubDate>Sat, 07 Nov 2026 05:30:00 -0500</pubDate>
+      <itunes:duration>00:12:32</itunes:duration>
+      <itunes:summary>Tesla winds the polarizing pickup’s production down...
+
+Mornin’. It may get dark before 5pm now, but at least it’s Saturday. Make it count.
+
+https://www.morningbrew.com/issues/so-long-cybertruck</itunes:summary>
+    </item>
+    <item>
       <title>Downvoting data centers: Local Voters Block AI Data Center Expansion</title>
       <description>The midterms might slow the AI build-out...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/endurance-brew</description>
 Good morning. It’s Marathon Day in NYC today, but here in the cozy confines of the Brew, we’re taking it up a notch by running you through the business behind events that are even more extreme than marathons (without having to leave bed). We’re talkin’ the rise of Ironman competitions and “darecations,” frigid swims through ice water and foot races through the Sahara Desert, plus a whole lot more. Welcome to...Endurance Brew.
 
 https://www.morningbrew.com/issues/endurance-brew</itunes:summary>
-    </item>
-    <item>
-      <title>Nothing scarier: Google's 475 Billion Dollar AI Crash</title>
-      <description>Wall Street sells off tech stocks...
-
-Happy Halloween. Our sympathies to anyone who didn’t realize the party would be this warm, but can’t take off their jacket because it’s absolutely pivotal for understanding their costume.
-
-https://www.morningbrew.com/issues/nothing-scarier</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-10-31.m4a" length="26683669" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-10-31</guid>
-      <pubDate>Sat, 31 Oct 2026 05:30:00 -0400</pubDate>
-      <itunes:duration>00:13:49</itunes:duration>
-      <itunes:summary>Wall Street sells off tech stocks...
-
-Happy Halloween. Our sympathies to anyone who didn’t realize the party would be this warm, but can’t take off their jacket because it’s absolutely pivotal for understanding their costume.
-
-https://www.morningbrew.com/issues/nothing-scarier</itunes:summary>
     </item>
   </channel>
 </rss>
