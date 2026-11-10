@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Everyone's problem: The 230 Billion Dollar Nvidia Crash</title>
+      <description>How Nvidia's scandal could impact all of AI...
+
+Can you tell us how to get there? Today marks the 57th anniversary of the airing of the first episode of Sesame Street, the show that taught us numbers, letters, and that even frogs can become reporters.
+
+https://www.morningbrew.com/issues/everyones-problem</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-10.m4a" length="35965659" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 05:30:00 -0500</pubDate>
+      <itunes:duration>00:18:37</itunes:duration>
+      <itunes:summary>How Nvidia's scandal could impact all of AI...
+
+Can you tell us how to get there? Today marks the 57th anniversary of the airing of the first episode of Sesame Street, the show that taught us numbers, letters, and that even frogs can become reporters.
+
+https://www.morningbrew.com/issues/everyones-problem</itunes:summary>
+    </item>
+    <item>
       <title>Cybertruck’s sunset: Why Tesla Is Killing the Cybertruck</title>
       <description>Tesla winds the polarizing pickup’s production down...
 
@@ -59,57 +76,6 @@ https://www.morningbrew.com/issues/blue-tsunami</description>
 Hey hey. As that dry winter air sets in, a friendly reminder to set up your ChapStick infrastructure before it’s too late: one at your desk, one by your bed, one in your backpack, one in your car, and one you tuck into your puffer coat pocket for the day you inevitably lose all the others.
 
 https://www.morningbrew.com/issues/blue-tsunami</itunes:summary>
-    </item>
-    <item>
-      <title>Putting it to a vote: Hacked Fridges and Data Center Backlash</title>
-      <description>What's on the ballot from the economy to foie gras...
-
-Good morning and welcome home to Karl Bushby. The UK native finally made it back to his mother’s house in England yesterday, after completing a 28-year, 31,000-mile walk home from Punta Arenas, Chile. Bushby’s long walk, which started on Nov. 1, 1998, spanned four continents and 30 countries and included swimming across the English Channel. Upon arrival, his mother asked him, “Where have you been?” This is a good story to tell your own mom when she asks why you haven’t bought your ticket home for the holidays yet.
-
-https://www.morningbrew.com/issues/putting-it-to-a-vote</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-03.m4a" length="29392439" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-11-03</guid>
-      <pubDate>Tue, 03 Nov 2026 05:30:00 -0500</pubDate>
-      <itunes:duration>00:15:13</itunes:duration>
-      <itunes:summary>What's on the ballot from the economy to foie gras...
-
-Good morning and welcome home to Karl Bushby. The UK native finally made it back to his mother’s house in England yesterday, after completing a 28-year, 31,000-mile walk home from Punta Arenas, Chile. Bushby’s long walk, which started on Nov. 1, 1998, spanned four continents and 30 countries and included swimming across the English Channel. Upon arrival, his mother asked him, “Where have you been?” This is a good story to tell your own mom when she asks why you haven’t bought your ticket home for the holidays yet.
-
-https://www.morningbrew.com/issues/putting-it-to-a-vote</itunes:summary>
-    </item>
-    <item>
-      <title>More mustard: Why ACA Premiums Are Soaring</title>
-      <description>In-N-Out teased an expansion into new states...
-
-Yawn. G’morning. Now that Halloween is over, it’s a good time to make an action plan for your leftover porch pumpkins. Some ideas: Roast the seeds, make pumpkin butter, or feed them to your local giant elephant.
-
-https://www.morningbrew.com/issues/more-mustard</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-02.m4a" length="24488115" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-11-02</guid>
-      <pubDate>Mon, 02 Nov 2026 05:30:00 -0500</pubDate>
-      <itunes:duration>00:12:41</itunes:duration>
-      <itunes:summary>In-N-Out teased an expansion into new states...
-
-Yawn. G’morning. Now that Halloween is over, it’s a good time to make an action plan for your leftover porch pumpkins. Some ideas: Roast the seeds, make pumpkin butter, or feed them to your local giant elephant.
-
-https://www.morningbrew.com/issues/more-mustard</itunes:summary>
-    </item>
-    <item>
-      <title>Endurance Brew: The Booming Industry of Extreme Suffering</title>
-      <description>Taking things to extremes is having a moment...
-
-Good morning. It’s Marathon Day in NYC today, but here in the cozy confines of the Brew, we’re taking it up a notch by running you through the business behind events that are even more extreme than marathons (without having to leave bed). We’re talkin’ the rise of Ironman competitions and “darecations,” frigid swims through ice water and foot races through the Sahara Desert, plus a whole lot more. Welcome to...Endurance Brew.
-
-https://www.morningbrew.com/issues/endurance-brew</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-01.m4a" length="28575179" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-11-01</guid>
-      <pubDate>Sun, 01 Nov 2026 05:30:00 -0500</pubDate>
-      <itunes:duration>00:14:48</itunes:duration>
-      <itunes:summary>Taking things to extremes is having a moment...
-
-Good morning. It’s Marathon Day in NYC today, but here in the cozy confines of the Brew, we’re taking it up a notch by running you through the business behind events that are even more extreme than marathons (without having to leave bed). We’re talkin’ the rise of Ironman competitions and “darecations,” frigid swims through ice water and foot races through the Sahara Desert, plus a whole lot more. Welcome to...Endurance Brew.
-
-https://www.morningbrew.com/issues/endurance-brew</itunes:summary>
     </item>
   </channel>
 </rss>
