@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Rate hike for Xmas: Home Drones and Spiking Inflation</title>
+      <description>Inflation came in hotter than expected last month...
+
+Good morning. Today is Veterans Day, when Americans honor all who have served the country in the armed forces. We’re sending our gratitude to all veterans, including:
+
+https://www.morningbrew.com/issues/rate-hike-for-xmas</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-11.m4a" length="28688729" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 05:30:00 -0500</pubDate>
+      <itunes:duration>00:14:51</itunes:duration>
+      <itunes:summary>Inflation came in hotter than expected last month...
+
+Good morning. Today is Veterans Day, when Americans honor all who have served the country in the armed forces. We’re sending our gratitude to all veterans, including:
+
+https://www.morningbrew.com/issues/rate-hike-for-xmas</itunes:summary>
+    </item>
+    <item>
       <title>Everyone's problem: The 230 Billion Dollar Nvidia Crash</title>
       <description>How Nvidia's scandal could impact all of AI...
 
@@ -59,23 +76,6 @@ https://www.morningbrew.com/issues/downvoting-data-centers</description>
 Welcome to our gallery of words. This Sunday, we’re doing a special edition that explores the refined world of fine art—and we’ve got a question that’s a perfect chance to flaunt your niche culturedness:
 
 https://www.morningbrew.com/issues/downvoting-data-centers</itunes:summary>
-    </item>
-    <item>
-      <title>Blue Tsunami: Markets surge after a blue sweep</title>
-      <description>Dems win control of the House and Senate...
-
-Hey hey. As that dry winter air sets in, a friendly reminder to set up your ChapStick infrastructure before it’s too late: one at your desk, one by your bed, one in your backpack, one in your car, and one you tuck into your puffer coat pocket for the day you inevitably lose all the others.
-
-https://www.morningbrew.com/issues/blue-tsunami</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-04.m4a" length="23198723" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-11-04</guid>
-      <pubDate>Wed, 04 Nov 2026 05:30:00 -0500</pubDate>
-      <itunes:duration>00:12:01</itunes:duration>
-      <itunes:summary>Dems win control of the House and Senate...
-
-Hey hey. As that dry winter air sets in, a friendly reminder to set up your ChapStick infrastructure before it’s too late: one at your desk, one by your bed, one in your backpack, one in your car, and one you tuck into your puffer coat pocket for the day you inevitably lose all the others.
-
-https://www.morningbrew.com/issues/blue-tsunami</itunes:summary>
     </item>
   </channel>
 </rss>
