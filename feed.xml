@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Jensen’s out: Jensen Huang Resigns Amid Nvidia Spy Scandal</title>
+      <description>Nvidia CEO resigns following reports of affairs...
+
+Happy Friday. Don’t panic—there’s still plenty of time to get your shy brother-in-law, who collects nothing and enjoys nothing, a good holiday present. If you’re struggling to find a gift for someone for whom no gift guide exists, let us help. Tell us a little about the person and your budget here . We’ll share some of our gift recommendations in an upcoming Sunday Special.
+
+https://www.morningbrew.com/issues/jensens-out</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-13.m4a" length="9484316" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 05:30:00 -0500</pubDate>
+      <itunes:duration>00:12:59</itunes:duration>
+      <itunes:summary>Nvidia CEO resigns following reports of affairs...
+
+Happy Friday. Don’t panic—there’s still plenty of time to get your shy brother-in-law, who collects nothing and enjoys nothing, a good holiday present. If you’re struggling to find a gift for someone for whom no gift guide exists, let us help. Tell us a little about the person and your budget here . We’ll share some of our gift recommendations in an upcoming Sunday Special.
+
+https://www.morningbrew.com/issues/jensens-out</itunes:summary>
+    </item>
+    <item>
       <title>Rate hike for Xmas: Home Drones and Spiking Inflation</title>
       <description>Inflation came in hotter than expected last month...
 
@@ -59,23 +76,6 @@ https://www.morningbrew.com/issues/so-long-cybertruck</description>
 Mornin’. It may get dark before 5pm now, but at least it’s Saturday. Make it count.
 
 https://www.morningbrew.com/issues/so-long-cybertruck</itunes:summary>
-    </item>
-    <item>
-      <title>Downvoting data centers: Local Voters Block AI Data Center Expansion</title>
-      <description>The midterms might slow the AI build-out...
-
-Welcome to our gallery of words. This Sunday, we’re doing a special edition that explores the refined world of fine art—and we’ve got a question that’s a perfect chance to flaunt your niche culturedness:
-
-https://www.morningbrew.com/issues/downvoting-data-centers</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-05.m4a" length="27191656" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-11-05</guid>
-      <pubDate>Thu, 05 Nov 2026 05:30:00 -0500</pubDate>
-      <itunes:duration>00:14:05</itunes:duration>
-      <itunes:summary>The midterms might slow the AI build-out...
-
-Welcome to our gallery of words. This Sunday, we’re doing a special edition that explores the refined world of fine art—and we’ve got a question that’s a perfect chance to flaunt your niche culturedness:
-
-https://www.morningbrew.com/issues/downvoting-data-centers</itunes:summary>
     </item>
   </channel>
 </rss>
