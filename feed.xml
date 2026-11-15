@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Book Brew: Why Physical Books Survived the AI Flood</title>
+      <description>Giving you a read on the literary economy...
+
+Good morning. Like a fifth grader, we are here to deliver a book report. But don’t worry, we won’t be rehashing the plot of a story that we barely read. Instead, in Book Brew, we’ll give you a read on the surprising endurance of bookstores, AI nabbing market share from human authors, book-inspired travel, and which celebrities’ book clubs people are eagerly turning pages for.
+
+https://www.morningbrew.com/issues/book-brew</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-15.m4a" length="9329565" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 05:30:00 -0500</pubDate>
+      <itunes:duration>00:12:46</itunes:duration>
+      <itunes:summary>Giving you a read on the literary economy...
+
+Good morning. Like a fifth grader, we are here to deliver a book report. But don’t worry, we won’t be rehashing the plot of a story that we barely read. Instead, in Book Brew, we’ll give you a read on the surprising endurance of bookstores, AI nabbing market share from human authors, book-inspired travel, and which celebrities’ book clubs people are eagerly turning pages for.
+
+https://www.morningbrew.com/issues/book-brew</itunes:summary>
+    </item>
+    <item>
       <title>Grounded: Why the FAA Microsoft and Nvidia Crashed</title>
       <description>All departing flights in the US were temporarily halted...
 
