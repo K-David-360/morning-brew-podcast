@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Buttloads of cash: Investors Swap AI Stocks For Soup</title>
+      <description>Anthropic’s historic IPO is imminent...
+
+Hello out there. Congrats to the Voyager 1 space probe, which earlier this morning reached exactly 1 light-day from Earth. In other words, it’s now so far from us that it would take an entire day for its light to reach home (and vice versa).
+
+https://www.morningbrew.com/issues/buttloads-of-cash</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-18.m4a" length="7323134" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 05:30:00 -0500</pubDate>
+      <itunes:duration>00:10:01</itunes:duration>
+      <itunes:summary>Anthropic’s historic IPO is imminent...
+
+Hello out there. Congrats to the Voyager 1 space probe, which earlier this morning reached exactly 1 light-day from Earth. In other words, it’s now so far from us that it would take an entire day for its light to reach home (and vice versa).
+
+https://www.morningbrew.com/issues/buttloads-of-cash</itunes:summary>
+    </item>
+    <item>
       <title>Her majesty's not-so-secret service: Nvidia Spy Scandal Triggers AI Chip Ban</title>
       <description>The new James Bond got revealed...
 
@@ -93,23 +110,6 @@ https://www.morningbrew.com/issues/jensens-out</description>
 Happy Friday. Don’t panic—there’s still plenty of time to get your shy brother-in-law, who collects nothing and enjoys nothing, a good holiday present. If you’re struggling to find a gift for someone for whom no gift guide exists, let us help. Tell us a little about the person and your budget here . We’ll share some of our gift recommendations in an upcoming Sunday Special.
 
 https://www.morningbrew.com/issues/jensens-out</itunes:summary>
-    </item>
-    <item>
-      <title>Rate hike for Xmas: Home Drones and Spiking Inflation</title>
-      <description>Inflation came in hotter than expected last month...
-
-Good morning. Today is Veterans Day, when Americans honor all who have served the country in the armed forces. We’re sending our gratitude to all veterans, including:
-
-https://www.morningbrew.com/issues/rate-hike-for-xmas</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-11.m4a" length="28688729" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-11-11</guid>
-      <pubDate>Wed, 11 Nov 2026 05:30:00 -0500</pubDate>
-      <itunes:duration>00:14:51</itunes:duration>
-      <itunes:summary>Inflation came in hotter than expected last month...
-
-Good morning. Today is Veterans Day, when Americans honor all who have served the country in the armed forces. We’re sending our gratitude to all veterans, including:
-
-https://www.morningbrew.com/issues/rate-hike-for-xmas</itunes:summary>
     </item>
   </channel>
 </rss>
