@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>He's back: Nvidia Reinstates CEO After Chip Smuggling Scandal</title>
+      <description>Nvidia reinstates Jensen Huang as CEO...
+
+Safe travels. If you thought you’d beat the holiday rush by leaving today, you’re in good company—it’s expected to be one of the busiest travel days of the holiday weekend, with AAA projecting that 81.5 million Americans will travel at least 50 miles from home between today and next Monday.
+
+https://www.morningbrew.com/issues/hes-back</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-24.m4a" length="10379280" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 05:30:00 -0500</pubDate>
+      <itunes:duration>00:14:12</itunes:duration>
+      <itunes:summary>Nvidia reinstates Jensen Huang as CEO...
+
+Safe travels. If you thought you’d beat the holiday rush by leaving today, you’re in good company—it’s expected to be one of the busiest travel days of the holiday weekend, with AAA projecting that 81.5 million Americans will travel at least 50 miles from home between today and next Monday.
+
+https://www.morningbrew.com/issues/hes-back</itunes:summary>
+    </item>
+    <item>
       <title>Flaky behavior: The Fragile Systems Behind Modern Life</title>
       <description>Falling copper prices may be an economic indicator...
 
@@ -42,23 +59,6 @@ https://www.morningbrew.com/issues/buttloads-of-cash</description>
 Hello out there. Congrats to the Voyager 1 space probe, which earlier this morning reached exactly 1 light-day from Earth. In other words, it’s now so far from us that it would take an entire day for its light to reach home (and vice versa).
 
 https://www.morningbrew.com/issues/buttloads-of-cash</itunes:summary>
-    </item>
-    <item>
-      <title>Her majesty's not-so-secret service: Nvidia Spy Scandal Triggers AI Chip Ban</title>
-      <description>The new James Bond got revealed...
-
-Hello there. We’re happy to see you here, but if you’re ready to move things from the inbox to your desktop, check out our freshly launched 2027 Morning Brew Games Desk Calendar . It’s full of games and trivia for every day of the year to keep you (or that friend who’s hard to shop for) entertained and ready to face the day.
-
-https://www.morningbrew.com/issues/her-majestys-not-so-secret-service</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-17.m4a" length="8638070" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-11-17</guid>
-      <pubDate>Tue, 17 Nov 2026 05:30:00 -0500</pubDate>
-      <itunes:duration>00:11:49</itunes:duration>
-      <itunes:summary>The new James Bond got revealed...
-
-Hello there. We’re happy to see you here, but if you’re ready to move things from the inbox to your desktop, check out our freshly launched 2027 Morning Brew Games Desk Calendar . It’s full of games and trivia for every day of the year to keep you (or that friend who’s hard to shop for) entertained and ready to face the day.
-
-https://www.morningbrew.com/issues/her-majestys-not-so-secret-service</itunes:summary>
     </item>
   </channel>
 </rss>
