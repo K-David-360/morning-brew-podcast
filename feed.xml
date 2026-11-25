@@ -10,6 +10,23 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Another one: New Tariffs Nvidia Probes and AI Bans</title>
+      <description>Trump to unveil new round of tariffs...
+
+Rise and shine! If you open your laptop tomorrow to find a morning brew, it’ll only be because you spilled coffee everywhere. We’ll be off on Thanksgiving Day to spend time with our families and fall asleep on the couch during the Eagles–Cowboys game.
+
+https://www.morningbrew.com/issues/another-one</description>
+      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-25.m4a" length="9847512" type="audio/x-m4a" />
+      <guid isPermaLink="false">morning-brew-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 05:30:00 -0500</pubDate>
+      <itunes:duration>00:13:28</itunes:duration>
+      <itunes:summary>Trump to unveil new round of tariffs...
+
+Rise and shine! If you open your laptop tomorrow to find a morning brew, it’ll only be because you spilled coffee everywhere. We’ll be off on Thanksgiving Day to spend time with our families and fall asleep on the couch during the Eagles–Cowboys game.
+
+https://www.morningbrew.com/issues/another-one</itunes:summary>
+    </item>
+    <item>
       <title>He's back: Nvidia Reinstates CEO After Chip Smuggling Scandal</title>
       <description>Nvidia reinstates Jensen Huang as CEO...
 
@@ -42,23 +59,6 @@ https://www.morningbrew.com/issues/flaky-behavior</description>
 Gobble gobble. If you haven’t already, it’s time to start thawing the turkey. It’s also time to rethink that fancy stuffing recipe. Everyone just wants the kind that comes in the box.
 
 https://www.morningbrew.com/issues/flaky-behavior</itunes:summary>
-    </item>
-    <item>
-      <title>Buttloads of cash: Investors Swap AI Stocks For Soup</title>
-      <description>Anthropic’s historic IPO is imminent...
-
-Hello out there. Congrats to the Voyager 1 space probe, which earlier this morning reached exactly 1 light-day from Earth. In other words, it’s now so far from us that it would take an entire day for its light to reach home (and vice versa).
-
-https://www.morningbrew.com/issues/buttloads-of-cash</description>
-      <enclosure url="https://k-david-360.github.io/morning-brew-podcast/audio/morning-brew-2026-11-18.m4a" length="7323134" type="audio/x-m4a" />
-      <guid isPermaLink="false">morning-brew-2026-11-18</guid>
-      <pubDate>Wed, 18 Nov 2026 05:30:00 -0500</pubDate>
-      <itunes:duration>00:10:01</itunes:duration>
-      <itunes:summary>Anthropic’s historic IPO is imminent...
-
-Hello out there. Congrats to the Voyager 1 space probe, which earlier this morning reached exactly 1 light-day from Earth. In other words, it’s now so far from us that it would take an entire day for its light to reach home (and vice versa).
-
-https://www.morningbrew.com/issues/buttloads-of-cash</itunes:summary>
     </item>
   </channel>
 </rss>
